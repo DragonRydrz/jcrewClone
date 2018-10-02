@@ -10,11 +10,14 @@ export default class Footer extends Component {
           @jcrew_help
         </div>
         <div className="footerItem">
-          <i class="fas fa-phone" style={{ marginRight: '5px' }} />1 800 562
+          <i className="fas fa-phone" style={{ marginRight: '5px' }} />1 800 562
           0258
         </div>
         <div className="footerItem">
-          <i class="fas fa-question-circle" style={{ marginRight: '5px' }} />
+          <i
+            className="fas fa-question-circle"
+            style={{ marginRight: '5px' }}
+          />
           help@jcrew.com
         </div>
       </div>

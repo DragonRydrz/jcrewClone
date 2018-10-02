@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
+// import axios from 'axios';
 import ProductTile from './ProductTile';
 
 export default class ArrayPage extends Component {
@@ -28,11 +28,11 @@ export default class ArrayPage extends Component {
     this.setState({ products: Object.values(products) });
   }
   render() {
-    console.log(this.state.products);
+    // console.log(this.state.products);
     return (
       <div className="productContainer">
         {this.state.products.map(item => (
-          <ProductTile item={item} />
+          <ProductTile item={item} key={item[0].productId} />
         ))}
       </div>
     );
