@@ -6,6 +6,12 @@ export default class ProductTile extends Component {
     altImg: '',
   };
 
+  switchImg = () => {
+    const altImg = this.state.img;
+    const img = this.state.altImg;
+    this.setState({ img, altImg });
+  };
+
   componentDidMount() {
     let {
       productCode,
@@ -19,7 +25,7 @@ export default class ProductTile extends Component {
       shotType ? shotType[0] : ''
     }`;
     let altImg = `https://www.jcrew.com/s7-img-facade/${productCode}_${defaultColorCode}${
-      shotType && shotType[1] ? shotType[1] : ''
+      shotType && shotType[1] ? shotType[1] : shotType ? shotType[0] : ''
     }`;
     this.setState({
       productCode,
@@ -44,6 +50,8 @@ export default class ProductTile extends Component {
             src={this.state.img}
             alt={this.state.productDescription}
             className="product-img"
+            onMouseEnter={this.switchImg}
+            onMouseLeave={this.switchImg}
           />
         </div>
       </a>
