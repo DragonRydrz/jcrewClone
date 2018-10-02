@@ -1,0 +1,3781 @@
+{
+  "categoryHeader": {
+    "catLink": "F4208:F4285:F4647:F5292:F2233:F5426",
+    "skuOnlyFolder": "false",
+    "ext_link": "F4208:F4285:F4647:F5292:F2233:F5426",
+    "flash_images_txt1": "/media/images/fluid/newArrivals/girls/,img0_G1501_lt.jpg,img1_E1468_lt.jpg,img2_G1512_lt.jpg,img3_E9396_lt.jpg,img4_G1866_lt.jpg,img5_F1485_lt.jpg",
+    "display_folders_per_page": "4",
+    "name": "NewArrivals",
+    "dimId": 1000000540,
+    "hasSubFolders": "true",
+    "catStyle": "b",
+    "priority": "1",
+    "catDescription": null,
+    "label": "new arrivals",
+    "link_flat": "Assortments/Browse/Outfits/2015NewArrivals/GirlsNewArrivals",
+    "invalidSubcategory": false,
+    "seoHTMLContent": null,
+    "flash_link_js": "G1501:E1468:G1512:E9396:G1866:C1453",
+    "catName": "NEW ARRIVALS",
+    "folderId": "2534374302037284",
+    "gender": "Girl",
+    "mixedProducts": "false",
+    "desc_1": "/media/images/fluid/wNewArrivals/,rightArrow.gif,leftArrow.gif"
+  },
+  "sortByOrderType": [
+    {
+      "label": "Category",
+      "value": "0"
+    },
+    {
+      "label": "Price: Low to High",
+      "value": "1"
+    },
+    {
+      "label": "Price: High to Low",
+      "value": "2"
+    },
+    {
+      "label": "New Arrival",
+      "value": "3"
+    },
+    {
+      "label": "Top Rated",
+      "value": "4"
+    }
+  ],
+  "productList": [
+    {
+      "header": "just in",
+      "products": [
+        {
+          "extended-size-group-id": "J71760",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7176_KA3993,J7257_KA3993",
+          "apiLink": "/data/v1/US/products/full/J7176/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY GOLD MULTI",
+              "colorCode": "KA3993",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441890642",
+          "productDescription": "Girls' ruffle-trimmed popover sweater with stars",
+          "brand": "crewcuts",
+          "priority": 1,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-ruffletrimmed-popover-sweater-with-stars/J7176",
+          "productCode": "J7176",
+          "tiles": ["KA3993"],
+          "folderId": null,
+          "defaultColorCode": "KA3993",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/sweaters/popovers/PRD~J7176/J7176.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0777KA51330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "K0777_KA5133,K0706_KA5133,J7454_WT0002",
+          "apiLink": "/data/v1/US/products/full/K0777/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "UNICORN CRITTER HTHR NAT",
+              "colorCode": "KA5133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "WQ5319",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890717",
+          "productDescription": "Girls' printed sweatshirt",
+          "brand": "crewcuts",
+          "priority": 5,
+          "listPrice": {
+            "amount": 45,
+            "formatted": "$45.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-printed-sweatshirt/K0777",
+          "productCode": "K0777",
+          "tiles": ["KA5133"],
+          "folderId": null,
+          "defaultColorCode": "KA5133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~K0777/K0777.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0777WQ53190",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "K0777_KA5133,K0706_KA5133,J7454_WT0002",
+          "apiLink": "/data/v1/US/products/full/K0777/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "UNICORN CRITTER HTHR NAT",
+              "colorCode": "KA5133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "WQ5319",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890717",
+          "productDescription": "Girls' printed sweatshirt",
+          "brand": "crewcuts",
+          "priority": 5,
+          "listPrice": {
+            "amount": 45,
+            "formatted": "$45.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-printed-sweatshirt/K0777",
+          "productCode": "K0777",
+          "tiles": ["WQ5319"],
+          "folderId": null,
+          "defaultColorCode": "KA5133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~K0777/K0777.jsp"
+        },
+        {
+          "extended-size-group-id": "J7088PK57690",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7088/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WARM GUAVA",
+              "colorCode": "PK5769",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "SMOKY WISTERIA",
+              "colorCode": "PR6458",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890948",
+          "productDescription": "Girls' tissue turtleneck T-shirt",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 19.5,
+            "formatted": "$19.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tissue-turtleneck-tshirt/J7088",
+          "productCode": "J7088",
+          "tiles": ["PK5769"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7088/J7088.jsp"
+        },
+        {
+          "extended-size-group-id": "J7088BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7088/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WARM GUAVA",
+              "colorCode": "PK5769",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "SMOKY WISTERIA",
+              "colorCode": "PR6458",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890948",
+          "productDescription": "Girls' tissue turtleneck T-shirt",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 19.5,
+            "formatted": "$19.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tissue-turtleneck-tshirt/J7088",
+          "productCode": "J7088",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7088/J7088.jsp"
+        },
+        {
+          "extended-size-group-id": "J7088PR64580",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7088/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WARM GUAVA",
+              "colorCode": "PK5769",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "SMOKY WISTERIA",
+              "colorCode": "PR6458",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890948",
+          "productDescription": "Girls' tissue turtleneck T-shirt",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 19.5,
+            "formatted": "$19.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tissue-turtleneck-tshirt/J7088",
+          "productCode": "J7088",
+          "tiles": ["PR6458"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7088/J7088.jsp"
+        },
+        {
+          "extended-size-group-id": "J7088WT00020",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7088/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WARM GUAVA",
+              "colorCode": "PK5769",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "SMOKY WISTERIA",
+              "colorCode": "PR6458",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890948",
+          "productDescription": "Girls' tissue turtleneck T-shirt",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 19.5,
+            "formatted": "$19.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tissue-turtleneck-tshirt/J7088",
+          "productCode": "J7088",
+          "tiles": ["WT0002"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7088/J7088.jsp"
+        },
+        {
+          "extended-size-group-id": "J7088RD62090",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7088/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WARM GUAVA",
+              "colorCode": "PK5769",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "SMOKY WISTERIA",
+              "colorCode": "PR6458",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890948",
+          "productDescription": "Girls' tissue turtleneck T-shirt",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 19.5,
+            "formatted": "$19.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tissue-turtleneck-tshirt/J7088",
+          "productCode": "J7088",
+          "tiles": ["RD6209"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7088/J7088.jsp"
+        },
+        {
+          "extended-size-group-id": "J65880",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6588_WQ4873,J7707_WQ4873,J6822_WQ4873",
+          "apiLink": "/data/v1/US/products/full/J6588/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "CHARCOAL GOLD",
+              "colorCode": "WQ4873",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891271",
+          "productDescription": "Girls' everyday ruffle leggings in stars",
+          "brand": "crewcuts",
+          "priority": 11,
+          "listPrice": {
+            "amount": 24.5,
+            "formatted": "$24.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-everyday-ruffle-leggings-in-stars/J6588",
+          "productCode": "J6588",
+          "tiles": ["WQ4873"],
+          "folderId": null,
+          "defaultColorCode": "WQ4873",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/leggings_pants/fulllengthlegging/PRD~J6588/J6588.jsp"
+        },
+        {
+          "extended-size-group-id": "J7667KA48390",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7667/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "MISTY PERI GRAPE",
+              "colorCode": "KA4838",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "CORAL MIST FLAMINGO",
+              "colorCode": "KA4839",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890671",
+          "productDescription": "Girls' ruffle-trimmed popover sweater",
+          "brand": "crewcuts",
+          "priority": 15,
+          "listPrice": {
+            "amount": 55,
+            "formatted": "$55.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-ruffletrimmed-popover-sweater/J7667",
+          "productCode": "J7667",
+          "tiles": ["KA4839"],
+          "folderId": null,
+          "defaultColorCode": "KA4838",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/sweaters/popovers/PRD~J7667/J7667.jsp"
+        },
+        {
+          "extended-size-group-id": "J7667KA48380",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7667/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "MISTY PERI GRAPE",
+              "colorCode": "KA4838",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "CORAL MIST FLAMINGO",
+              "colorCode": "KA4839",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890671",
+          "productDescription": "Girls' ruffle-trimmed popover sweater",
+          "brand": "crewcuts",
+          "priority": 15,
+          "listPrice": {
+            "amount": 55,
+            "formatted": "$55.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-ruffletrimmed-popover-sweater/J7667",
+          "productCode": "J7667",
+          "tiles": ["KA4838"],
+          "folderId": null,
+          "defaultColorCode": "KA4838",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/sweaters/popovers/PRD~J7667/J7667.jsp"
+        },
+        {
+          "extended-size-group-id": "J67950",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6795_WQ5494,J6769_BL8133,J7259_BL8133,J6609_BL8133",
+          "apiLink": "/data/v1/US/products/full/J6795/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "OYSTER GREY",
+              "colorCode": "GY6414",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "NAVY METALLIC",
+              "colorCode": "WQ5494",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891412",
+          "productDescription": "Girls' tiered tulle dress with sparkly dots",
+          "brand": "crewcuts",
+          "priority": 16,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tiered-tulle-dress-with-sparkly-dots/J6795",
+          "productCode": "J6795",
+          "tiles": ["GY6414"],
+          "folderId": null,
+          "defaultColorCode": "WQ5494",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/dresses/partydresses1/PRD~J6795/J6795.jsp"
+        },
+        {
+          "extended-size-group-id": "J70800",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7080/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "NA6434",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890750",
+          "productDescription": "Girls' sherpa sweatshirt",
+          "brand": "crewcuts",
+          "priority": 20,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-sherpa-sweatshirt/J7080",
+          "productCode": "J7080",
+          "tiles": ["NA6434"],
+          "folderId": null,
+          "defaultColorCode": "NA6434",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~J7080/J7080.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070PK57700",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["PK5770"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070RD61080",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["RD6108"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070WT00020",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["WT0002"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070BK00010",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["BK0001"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070GY64690",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["GY6469"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J86710",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8671/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "WQ4877",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890643",
+          "productDescription": "Girls' double ruffle-sleeve sweatshirt in dots",
+          "brand": "crewcuts",
+          "priority": 35,
+          "listPrice": {
+            "amount": 55,
+            "formatted": "$55.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-double-rufflesleeve-sweatshirt-in-dots/J8671",
+          "productCode": "J8671",
+          "tiles": ["WQ4877"],
+          "folderId": null,
+          "defaultColorCode": "WQ4877",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~J8671/J8671.jsp"
+        },
+        {
+          "extended-size-group-id": "J71970",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7197_WU3514,J6607_WQ5319,J6768_WQ5319",
+          "apiLink": "/data/v1/US/products/full/J7197/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BRILLIANT PERI",
+              "colorCode": "WU3514",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890965",
+          "productDescription": "Girls' embroidered chambray shirt",
+          "brand": "crewcuts",
+          "priority": 43,
+          "listPrice": {
+            "amount": 55,
+            "formatted": "$55.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-embroidered-chambray-shirt/J7197",
+          "productCode": "J7197",
+          "tiles": ["WU3514"],
+          "folderId": null,
+          "defaultColorCode": "WU3514",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/noveltyshirts/PRD~J7197/J7197.jsp"
+        },
+        {
+          "extended-size-group-id": "J67690",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6769_BL8133,J6795_WQ5494,J7259_BL8133,J6609_BL8133",
+          "apiLink": "/data/v1/US/products/full/J6769/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891391",
+          "productDescription": "Girls' tulle-skirted dress in dots",
+          "brand": "crewcuts",
+          "priority": 44,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tulleskirted-dress-in-dots/J6769",
+          "productCode": "J6769",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J6769/J6769.jsp"
+        },
+        {
+          "extended-size-group-id": "J80980",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8098/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "DUNE",
+              "colorCode": "WQ4862",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891181",
+          "productDescription": "Girls' faux-fur coat in Savannah cat",
+          "brand": "crewcuts",
+          "priority": 45,
+          "listPrice": {
+            "amount": 148,
+            "formatted": "$148.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-fauxfur-coat-in-savannah-cat/J8098",
+          "productCode": "J8098",
+          "tiles": ["WQ4862"],
+          "folderId": null,
+          "defaultColorCode": "WQ4862",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/jacketsouterwear/noveltycoats/PRD~J8098/J8098.jsp"
+        },
+        {
+          "extended-size-group-id": "J7619KA49510",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7619/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY IVORY MONTOYA STRP",
+              "colorCode": "KA4951",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "IVORY WM GUAVA MONTOYA",
+              "colorCode": "KA4952",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890967",
+          "productDescription": "Girls' tissue turtleneck T-shirt in stripes",
+          "brand": "crewcuts",
+          "priority": 46,
+          "listPrice": {
+            "amount": 22.5,
+            "formatted": "$22.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tissue-turtleneck-tshirt-in-stripes/J7619",
+          "productCode": "J7619",
+          "tiles": ["KA4951"],
+          "folderId": null,
+          "defaultColorCode": "KA4951",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7619/J7619.jsp"
+        },
+        {
+          "extended-size-group-id": "J7619KA49520",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7619/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY IVORY MONTOYA STRP",
+              "colorCode": "KA4951",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "IVORY WM GUAVA MONTOYA",
+              "colorCode": "KA4952",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890967",
+          "productDescription": "Girls' tissue turtleneck T-shirt in stripes",
+          "brand": "crewcuts",
+          "priority": 46,
+          "listPrice": {
+            "amount": 22.5,
+            "formatted": "$22.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tissue-turtleneck-tshirt-in-stripes/J7619",
+          "productCode": "J7619",
+          "tiles": ["KA4952"],
+          "folderId": null,
+          "defaultColorCode": "KA4951",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7619/J7619.jsp"
+        },
+        {
+          "extended-size-group-id": "J77510",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7751/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NEON PLUM",
+              "colorCode": "PR6018",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            }
+          ],
+          "productId": "845524441891608",
+          "productDescription": "Girls' glitter zip-up booties",
+          "brand": "crewcuts",
+          "priority": 47,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-glitter-zipup-booties/J7751",
+          "productCode": "J7751",
+          "tiles": ["PR6018"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PR6018",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d2,_d3",
+          "endeca-seo-url": "girls_category/shoes/boots/PRD~J7751/J7751.jsp"
+        },
+        {
+          "extended-size-group-id": "J6609BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6609_BL8133,J7197_WU3514,J7749_YL5596",
+          "apiLink": "/data/v1/US/products/full/J6609/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891342",
+          "productDescription": "Girls' tulle-skirted leggings",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 50,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tulleskirted-leggings/J6609",
+          "productCode": "J6609",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/leggings_pants/fulllengthlegging/PRD~J6609/J6609.jsp"
+        },
+        {
+          "extended-size-group-id": "J6609PK57700",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6609_BL8133,J7197_WU3514,J7749_YL5596",
+          "apiLink": "/data/v1/US/products/full/J6609/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891342",
+          "productDescription": "Girls' tulle-skirted leggings",
+          "brand": "crewcuts",
+          "priority": 50,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-tulleskirted-leggings/J6609",
+          "productCode": "J6609",
+          "tiles": ["PK5770"],
+          "folderId": null,
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/leggings_pants/fulllengthlegging/PRD~J6609/J6609.jsp"
+        },
+        {
+          "extended-size-group-id": "J67680",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6768_WQ5319,J6607_WQ5319,J7527_WQ5319",
+          "apiLink": "/data/v1/US/products/full/J6768/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "WQ5319",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891270",
+          "productDescription": "Girls' printed dress with ruffles",
+          "brand": "crewcuts",
+          "priority": 55,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-printed-dress-with-ruffles/J6768",
+          "productCode": "J6768",
+          "tiles": ["WQ5319"],
+          "folderId": null,
+          "defaultColorCode": "WQ5319",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J6768/J6768.jsp"
+        },
+        {
+          "extended-size-group-id": "J81020",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8102/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891354",
+          "productDescription": "Girls' faux-fur coat",
+          "brand": "crewcuts",
+          "priority": 60,
+          "listPrice": {
+            "amount": 148,
+            "formatted": "$148.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-fauxfur-coat/J8102",
+          "productCode": "J8102",
+          "tiles": ["PK5770"],
+          "folderId": null,
+          "defaultColorCode": "PK5770",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/jacketsouterwear/noveltycoats/PRD~J8102/J8102.jsp"
+        },
+        {
+          "extended-size-group-id": "J76100",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7610/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HEATHER CONFETTI",
+              "colorCode": "KA3775",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441890964",
+          "productDescription": "Girls' textured heart T-shirt",
+          "brand": "crewcuts",
+          "priority": 80,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-textured-heart-tshirt/J7610",
+          "productCode": "J7610",
+          "tiles": ["KA3775"],
+          "folderId": null,
+          "defaultColorCode": "KA3775",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/collectibletees/collectibletees/PRD~J7610/J7610.jsp"
+        },
+        {
+          "extended-size-group-id": "K1172EG90430",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K1172/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR GREY MULTI",
+              "colorCode": "EG9042",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "EG9043",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441892840",
+          "productDescription": "Girls' embroidered pom-pom beret",
+          "brand": "crewcuts",
+          "priority": 81,
+          "listPrice": {
+            "amount": 32.5,
+            "formatted": "$32.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-embroidered-pompom-beret/K1172",
+          "productCode": "K1172",
+          "tiles": ["EG9043"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "EG9042",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/coldweather/PRD~K1172/K1172.jsp"
+        },
+        {
+          "extended-size-group-id": "K1172EG90420",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K1172/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR GREY MULTI",
+              "colorCode": "EG9042",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "EG9043",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441892840",
+          "productDescription": "Girls' embroidered pom-pom beret",
+          "brand": "crewcuts",
+          "priority": 81,
+          "listPrice": {
+            "amount": 32.5,
+            "formatted": "$32.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-embroidered-pompom-beret/K1172",
+          "productCode": "K1172",
+          "tiles": ["EG9042"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "EG9042",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/coldweather/PRD~K1172/K1172.jsp"
+        },
+        {
+          "extended-size-group-id": "J6920KA40480",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J6920/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR DUSK NATURAL",
+              "colorCode": "KA4048",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890684",
+          "productDescription": "Girls' fur-front peplum cardigan sweater",
+          "brand": "crewcuts",
+          "priority": 85,
+          "listPrice": {
+            "amount": 89.5,
+            "formatted": "$89.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-furfront-peplum-cardigan-sweater/J6920",
+          "productCode": "J6920",
+          "tiles": ["KA4048"],
+          "folderId": null,
+          "defaultColorCode": "KA4048",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/sweaters/cardigans/PRD~J6920/J6920.jsp"
+        },
+        {
+          "extended-size-group-id": "J6920BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J6920/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR DUSK NATURAL",
+              "colorCode": "KA4048",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890684",
+          "productDescription": "Girls' fur-front peplum cardigan sweater",
+          "brand": "crewcuts",
+          "priority": 85,
+          "listPrice": {
+            "amount": 89.5,
+            "formatted": "$89.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-furfront-peplum-cardigan-sweater/J6920",
+          "productCode": "J6920",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "KA4048",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/sweaters/cardigans/PRD~J6920/J6920.jsp"
+        },
+        {
+          "extended-size-group-id": "J66070",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6607_WQ5319,J6768_WQ5319,J7197_WU3514",
+          "apiLink": "/data/v1/US/products/full/J6607/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "WQ5319",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891175",
+          "productDescription": "Girls' cozy everyday leggings in charms",
+          "brand": "crewcuts",
+          "priority": 100,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-cozy-everyday-leggings-in-charms/J6607",
+          "productCode": "J6607",
+          "tiles": ["WQ5319"],
+          "folderId": null,
+          "defaultColorCode": "WQ5319",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/leggings_pants/cozylegging/PRD~J6607/J6607.jsp"
+        },
+        {
+          "extended-size-group-id": "K0867PR58510",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "K0867_PK6038,H6641_PK6038",
+          "apiLink": "/data/v1/US/products/full/K0867/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "DEEP JADE",
+              "colorCode": "GR7431",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "JASMINE FROST",
+              "colorCode": "PK6038",
+              "hasOnfig": false,
+              "skuShotType": "_d1"
+            },
+            {
+              "colorName": "DEEP VIOLET",
+              "colorCode": "PR5851",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890805",
+          "productDescription": "Girls' sweatshirt with ruffle-trimmed sleeves",
+          "brand": "crewcuts",
+          "priority": 105,
+          "listPrice": {
+            "amount": 45,
+            "formatted": "$45.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-sweatshirt-with-ruffletrimmed-sleeves/K0867",
+          "productCode": "K0867",
+          "tiles": ["PR5851"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK6038",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1",
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~K0867/K0867.jsp"
+        },
+        {
+          "extended-size-group-id": "K0867RD62090",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "K0867_PK6038,H6641_PK6038",
+          "apiLink": "/data/v1/US/products/full/K0867/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "DEEP JADE",
+              "colorCode": "GR7431",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "JASMINE FROST",
+              "colorCode": "PK6038",
+              "hasOnfig": false,
+              "skuShotType": "_d1"
+            },
+            {
+              "colorName": "DEEP VIOLET",
+              "colorCode": "PR5851",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890805",
+          "productDescription": "Girls' sweatshirt with ruffle-trimmed sleeves",
+          "brand": "crewcuts",
+          "priority": 105,
+          "listPrice": {
+            "amount": 45,
+            "formatted": "$45.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-sweatshirt-with-ruffletrimmed-sleeves/K0867",
+          "productCode": "K0867",
+          "tiles": ["RD6209"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK6038",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1",
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~K0867/K0867.jsp"
+        },
+        {
+          "extended-size-group-id": "K0867GR74310",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "K0867_PK6038,H6641_PK6038",
+          "apiLink": "/data/v1/US/products/full/K0867/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "DEEP JADE",
+              "colorCode": "GR7431",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "JASMINE FROST",
+              "colorCode": "PK6038",
+              "hasOnfig": false,
+              "skuShotType": "_d1"
+            },
+            {
+              "colorName": "DEEP VIOLET",
+              "colorCode": "PR5851",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890805",
+          "productDescription": "Girls' sweatshirt with ruffle-trimmed sleeves",
+          "brand": "crewcuts",
+          "priority": 105,
+          "listPrice": {
+            "amount": 45,
+            "formatted": "$45.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-sweatshirt-with-ruffletrimmed-sleeves/K0867",
+          "productCode": "K0867",
+          "tiles": ["GR7431"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK6038",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1",
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~K0867/K0867.jsp"
+        },
+        {
+          "extended-size-group-id": "K0867PK60380",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "K0867_PK6038,H6641_PK6038",
+          "apiLink": "/data/v1/US/products/full/K0867/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "DEEP JADE",
+              "colorCode": "GR7431",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "JASMINE FROST",
+              "colorCode": "PK6038",
+              "hasOnfig": false,
+              "skuShotType": "_d1"
+            },
+            {
+              "colorName": "DEEP VIOLET",
+              "colorCode": "PR5851",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890805",
+          "productDescription": "Girls' sweatshirt with ruffle-trimmed sleeves",
+          "brand": "crewcuts",
+          "priority": 105,
+          "listPrice": {
+            "amount": 45,
+            "formatted": "$45.00"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-sweatshirt-with-ruffletrimmed-sleeves/K0867",
+          "productCode": "K0867",
+          "tiles": ["PK6038"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK6038",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1",
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~K0867/K0867.jsp"
+        },
+        {
+          "extended-size-group-id": "J81050",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J8105_KA4695,K0867_PK6038,J9198_KA3932,J7753_OR5480",
+          "apiLink": "/data/v1/US/products/full/J8105/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "TWILIGHT FOG STRIPE",
+              "colorCode": "KA4695",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891205",
+          "productDescription": "Girls' cozy everyday leggings in camo",
+          "brand": "crewcuts",
+          "priority": 110,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-cozy-everyday-leggings-in-camo/J8105",
+          "productCode": "J8105",
+          "tiles": ["KA4695"],
+          "folderId": null,
+          "defaultColorCode": "KA4695",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/leggings_pants/cozylegging/PRD~J8105/J8105.jsp"
+        },
+        {
+          "extended-size-group-id": "J70560",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7056/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BLACK MULTI",
+              "colorCode": "KA4474",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890952",
+          "productDescription": "Girls' snap-up turtleneck in stripes",
+          "brand": "crewcuts",
+          "priority": 115,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-snapup-turtleneck-in-stripes/J7056",
+          "productCode": "J7056",
+          "tiles": ["KA4474"],
+          "folderId": null,
+          "defaultColorCode": "KA4474",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~J7056/J7056.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0706KA51330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J7080_NA6434,K0706_KA5133,J7753_OR5480",
+          "apiLink": "/data/v1/US/products/full/K0706/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "UNICORN CRITTER HTHR NAT",
+              "colorCode": "KA5133",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "WQ5319",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891349",
+          "productDescription": "Girls' printed sweatpant",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 120,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-printed-sweatpant/K0706",
+          "productCode": "K0706",
+          "tiles": ["KA5133"],
+          "folderId": null,
+          "defaultColorCode": "WQ5319",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/leggings_pants/sweatpants/PRD~K0706/K0706.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0706WQ53190",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J7080_NA6434,K0706_KA5133,J7753_OR5480",
+          "apiLink": "/data/v1/US/products/full/K0706/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "UNICORN CRITTER HTHR NAT",
+              "colorCode": "KA5133",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "WQ5319",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891349",
+          "productDescription": "Girls' printed sweatpant",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 120,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-printed-sweatpant/K0706",
+          "productCode": "K0706",
+          "tiles": ["WQ5319"],
+          "folderId": null,
+          "defaultColorCode": "WQ5319",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/leggings_pants/sweatpants/PRD~K0706/K0706.jsp"
+        },
+        {
+          "extended-size-group-id": "J79740",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7974_WQ4873,J6588_WQ4873,J7707_WQ4873",
+          "apiLink": "/data/v1/US/products/full/J7974/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "CHARCOAL GOLD",
+              "colorCode": "WQ4873",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891560",
+          "productDescription": "Girls' headband with star-print bow",
+          "brand": "crewcuts",
+          "priority": 140,
+          "listPrice": {
+            "amount": 14.5,
+            "formatted": "$14.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-headband-with-starprint-bow/J7974",
+          "productCode": "J7974",
+          "tiles": ["WQ4873"],
+          "folderId": null,
+          "defaultColorCode": "WQ4873",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/hairaccessories/PRD~J7974/J7974.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "J86450",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8645/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR GRANITE",
+              "colorCode": "KA4939",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890961",
+          "productDescription": "Girls' snap-up turtleneck in stars",
+          "brand": "crewcuts",
+          "priority": 150,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-snapup-turtleneck-in-stars/J8645",
+          "productCode": "J8645",
+          "tiles": ["KA4939"],
+          "folderId": null,
+          "defaultColorCode": "KA4939",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/sweatshirts/PRD~J8645/J8645.jsp"
+        },
+        {
+          "extended-size-group-id": "J77530",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7753/c/girls_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "ROSE GOLD",
+              "colorCode": "OR5480",
+              "hasOnfig": false,
+              "skuShotType": "_d1"
+            }
+          ],
+          "productId": "845524441891605",
+          "productDescription": "Girls' metallic Chelsea boots",
+          "brand": "crewcuts",
+          "priority": 1000,
+          "listPrice": {
+            "amount": 89.5,
+            "formatted": "$89.50"
+          },
+          "url": "/p/girls_feature/newarrivals/justin/girls-metallic-chelsea-boots/J7753",
+          "productCode": "J7753",
+          "tiles": ["OR5480"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "OR5480",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1",
+          "endeca-seo-url": "girls_category/shoes/boots/PRD~J7753/J7753.jsp"
+        }
+      ],
+      "folderId": "2534374302103532"
+    },
+    {
+      "header": "dresses",
+      "products": [
+        {
+          "extended-size-group-id": "J68210",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6821_WQ4873,J6822_WQ4873,J7707_WQ4873,J7974_WQ4873",
+          "apiLink": "/data/v1/US/products/full/J6821/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "CHARCOAL GOLD",
+              "colorCode": "WQ4873",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891396",
+          "productDescription": "Girls' jumpsuit in stars",
+          "brand": "crewcuts",
+          "priority": 1,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-jumpsuit-in-stars/J6821",
+          "productCode": "J6821",
+          "tiles": ["WQ4873"],
+          "folderId": null,
+          "defaultColorCode": "WQ4873",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J6821/J6821.jsp"
+        },
+        {
+          "extended-size-group-id": "J68220",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6822_WQ4873,J6821_WQ4873,J6588_WQ4873,J7974_WQ4873",
+          "apiLink": "/data/v1/US/products/full/J6822/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "CHARCOAL GOLD",
+              "colorCode": "WQ4873",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891327",
+          "productDescription": "Girls' ruffle-trimmed dress in stars",
+          "brand": "crewcuts",
+          "priority": 2,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-ruffletrimmed-dress-in-stars/J6822",
+          "productCode": "J6822",
+          "tiles": ["WQ4873"],
+          "folderId": null,
+          "defaultColorCode": "WQ4873",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J6822/J6822.jsp"
+        },
+        {
+          "extended-size-group-id": "K15220",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "K1522_PK5697,A9860_WT0002,J7725_PR5851,J8858_BL7568",
+          "apiLink": "/data/v1/US/products/full/K1522/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "LIGHT BLUSH",
+              "colorCode": "PK5697",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441894899",
+          "productDescription": "Girls' tulle-skirt sweatshirt dress",
+          "brand": "crewcuts",
+          "priority": 3,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-tulleskirt-sweatshirt-dress/K1522",
+          "productCode": "K1522",
+          "tiles": ["PK5697"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK5697",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~K1522/K1522.jsp"
+        },
+        {
+          "extended-size-group-id": "J67690",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6769_BL8133,J6795_WQ5494,J7259_BL8133,J6609_BL8133",
+          "apiLink": "/data/v1/US/products/full/J6769/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891391",
+          "productDescription": "Girls' tulle-skirted dress in dots",
+          "brand": "crewcuts",
+          "priority": 5,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-tulleskirted-dress-in-dots/J6769",
+          "productCode": "J6769",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J6769/J6769.jsp"
+        },
+        {
+          "extended-size-group-id": "J67950",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6795_WQ5494,J6769_BL8133,J7259_BL8133,J6609_BL8133",
+          "apiLink": "/data/v1/US/products/full/J6795/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "OYSTER GREY",
+              "colorCode": "GY6414",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "NAVY METALLIC",
+              "colorCode": "WQ5494",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891412",
+          "productDescription": "Girls' tiered tulle dress with sparkly dots",
+          "brand": "crewcuts",
+          "priority": 7,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-tiered-tulle-dress-with-sparkly-dots/J6795",
+          "productCode": "J6795",
+          "tiles": ["GY6414"],
+          "folderId": null,
+          "defaultColorCode": "WQ5494",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/dresses/partydresses1/PRD~J6795/J6795.jsp"
+        },
+        {
+          "extended-size-group-id": "J68230",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J6823/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "WQ4870",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891259",
+          "productDescription": "Girls' ruffle-trimmed dress in sparkly floral",
+          "brand": "crewcuts",
+          "priority": 8,
+          "listPrice": {
+            "amount": 85,
+            "formatted": "$85.00"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-ruffletrimmed-dress-in-sparkly-floral/J6823",
+          "productCode": "J6823",
+          "tiles": ["WQ4870"],
+          "folderId": null,
+          "defaultColorCode": "WQ4870",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/dresses/partydresses1/PRD~J6823/J6823.jsp"
+        },
+        {
+          "extended-size-group-id": "J67680",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6768_WQ5319,J6607_WQ5319,J7527_WQ5319",
+          "apiLink": "/data/v1/US/products/full/J6768/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "WQ5319",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891270",
+          "productDescription": "Girls' printed dress with ruffles",
+          "brand": "crewcuts",
+          "priority": 9,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-printed-dress-with-ruffles/J6768",
+          "productCode": "J6768",
+          "tiles": ["WQ5319"],
+          "folderId": null,
+          "defaultColorCode": "WQ5319",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J6768/J6768.jsp"
+        },
+        {
+          "extended-size-group-id": "J3872PK57540",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J3872_PK5754,J7527_WQ5319,J5511_OR5480",
+          "apiLink": "/data/v1/US/products/full/J3872/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "FADED SKY",
+              "colorCode": "BL7246",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "CORAL MIST",
+              "colorCode": "PK5754",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d3"
+            }
+          ],
+          "productId": "845524441891411",
+          "productDescription": "Girls' cap-sleeve dress in stretch velvet",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 10,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-capsleeve-dress-in-stretch-velvet/J3872",
+          "productCode": "J3872",
+          "tiles": ["PK5754"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK5754",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d3",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J3872/J3872.jsp"
+        },
+        {
+          "extended-size-group-id": "J3872BK00010",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J3872_PK5754,J7527_WQ5319,J5511_OR5480",
+          "apiLink": "/data/v1/US/products/full/J3872/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "FADED SKY",
+              "colorCode": "BL7246",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "CORAL MIST",
+              "colorCode": "PK5754",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d3"
+            }
+          ],
+          "productId": "845524441891411",
+          "productDescription": "Girls' cap-sleeve dress in stretch velvet",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-capsleeve-dress-in-stretch-velvet/J3872",
+          "productCode": "J3872",
+          "tiles": ["BK0001"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK5754",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d3",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J3872/J3872.jsp"
+        },
+        {
+          "extended-size-group-id": "J3872BL72460",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J3872_PK5754,J7527_WQ5319,J5511_OR5480",
+          "apiLink": "/data/v1/US/products/full/J3872/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "FADED SKY",
+              "colorCode": "BL7246",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "CORAL MIST",
+              "colorCode": "PK5754",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d3"
+            }
+          ],
+          "productId": "845524441891411",
+          "productDescription": "Girls' cap-sleeve dress in stretch velvet",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-capsleeve-dress-in-stretch-velvet/J3872",
+          "productCode": "J3872",
+          "tiles": ["BL7246"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK5754",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d3",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J3872/J3872.jsp"
+        },
+        {
+          "extended-size-group-id": "J3872BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J3872_PK5754,J7527_WQ5319,J5511_OR5480",
+          "apiLink": "/data/v1/US/products/full/J3872/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "FADED SKY",
+              "colorCode": "BL7246",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "CORAL MIST",
+              "colorCode": "PK5754",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d3"
+            }
+          ],
+          "productId": "845524441891411",
+          "productDescription": "Girls' cap-sleeve dress in stretch velvet",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-capsleeve-dress-in-stretch-velvet/J3872",
+          "productCode": "J3872",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "PK5754",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d3",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J3872/J3872.jsp"
+        },
+        {
+          "extended-size-group-id": "J67620",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6762_BL8133,J7751_PR6018,J7725_PR5851",
+          "apiLink": "/data/v1/US/products/full/J6762/c/girls_feature/newarrivals/dresses",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891220",
+          "productDescription": "Girls' fur-pocket dress",
+          "brand": "crewcuts",
+          "priority": 11,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/dresses/girls-furpocket-dress/J6762",
+          "productCode": "J6762",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/dresses/everyday/PRD~J6762/J6762.jsp"
+        }
+      ],
+      "folderId": "2534374302037957"
+    },
+    {
+      "header": "tops",
+      "products": [
+        {
+          "extended-size-group-id": "J76100",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7610/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "HEATHER CONFETTI",
+              "colorCode": "KA3775",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441890964",
+          "productDescription": "Girls' textured heart T-shirt",
+          "brand": "crewcuts",
+          "priority": 5,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-textured-heart-tshirt/J7610",
+          "productCode": "J7610",
+          "tiles": ["KA3775"],
+          "folderId": null,
+          "defaultColorCode": "KA3775",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/collectibletees/collectibletees/PRD~J7610/J7610.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K28190",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K2819/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "WHITE",
+              "colorCode": "KA5640",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891649",
+          "productDescription": "Girls' crewcuts X Nickelodeon™ \"pizza power\" T-shirt",
+          "brand": "crewcuts",
+          "priority": 7,
+          "listPrice": {
+            "amount": 36.5,
+            "formatted": "$36.50"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-crewcuts-x-nickelodeon-pizza-power-tshirt/K2819",
+          "productCode": "K2819",
+          "tiles": ["KA5640"],
+          "folderId": null,
+          "defaultColorCode": "KA5640",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/brandswelove/tops/PRD~K2819/K2819.jsp"
+        },
+        {
+          "extended-size-group-id": "J76160",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7616/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "FADED BLACK",
+              "colorCode": "KA3763",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890946",
+          "productDescription": "Girls' \"joie de vivre\" T-shirt",
+          "brand": "crewcuts",
+          "priority": 8,
+          "listPrice": {
+            "amount": 24.5,
+            "formatted": "$24.50"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-joie-de-vivre-tshirt/J7616",
+          "productCode": "J7616",
+          "tiles": ["KA3763"],
+          "folderId": null,
+          "defaultColorCode": "KA3763",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/collectibletees/collectibletees/PRD~J7616/J7616.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070PK57700",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["PK5770"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070RD61080",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["RD6108"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070WT00020",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["WT0002"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070BK00010",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["BK0001"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J7070GY64690",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7070/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "QUARTZ",
+              "colorCode": "PK5770",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "VINTAGE RUBY",
+              "colorCode": "RD6108",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890969",
+          "productDescription": "Girls' ribbed top with ruffles",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-ribbed-top-with-ruffles/J7070",
+          "productCode": "J7070",
+          "tiles": ["GY6469"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7070/J7070.jsp"
+        },
+        {
+          "extended-size-group-id": "J70760",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7076/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "WQ4877",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441890956",
+          "productDescription": "Girls' ruffle-trimmed top in dots",
+          "brand": "crewcuts",
+          "priority": 32,
+          "listPrice": {
+            "amount": 35,
+            "formatted": "$35.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-ruffletrimmed-top-in-dots/J7076",
+          "productCode": "J7076",
+          "tiles": ["WQ4877"],
+          "folderId": null,
+          "defaultColorCode": "WQ4877",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7076/J7076.jsp"
+        },
+        {
+          "extended-size-group-id": "J7619KA49510",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7619/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY IVORY MONTOYA STRP",
+              "colorCode": "KA4951",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "IVORY WM GUAVA MONTOYA",
+              "colorCode": "KA4952",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890967",
+          "productDescription": "Girls' tissue turtleneck T-shirt in stripes",
+          "brand": "crewcuts",
+          "priority": 52,
+          "listPrice": {
+            "amount": 22.5,
+            "formatted": "$22.50"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-tissue-turtleneck-tshirt-in-stripes/J7619",
+          "productCode": "J7619",
+          "tiles": ["KA4951"],
+          "folderId": null,
+          "defaultColorCode": "KA4951",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7619/J7619.jsp"
+        },
+        {
+          "extended-size-group-id": "J7619KA49520",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7619/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY IVORY MONTOYA STRP",
+              "colorCode": "KA4951",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "IVORY WM GUAVA MONTOYA",
+              "colorCode": "KA4952",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890967",
+          "productDescription": "Girls' tissue turtleneck T-shirt in stripes",
+          "brand": "crewcuts",
+          "priority": 52,
+          "listPrice": {
+            "amount": 22.5,
+            "formatted": "$22.50"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-tissue-turtleneck-tshirt-in-stripes/J7619",
+          "productCode": "J7619",
+          "tiles": ["KA4952"],
+          "folderId": null,
+          "defaultColorCode": "KA4951",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/longsleevetees/PRD~J7619/J7619.jsp"
+        },
+        {
+          "extended-size-group-id": "J71970",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7197_WU3514,J6607_WQ5319,J6768_WQ5319",
+          "apiLink": "/data/v1/US/products/full/J7197/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BRILLIANT PERI",
+              "colorCode": "WU3514",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441890965",
+          "productDescription": "Girls' embroidered chambray shirt",
+          "brand": "crewcuts",
+          "priority": 60,
+          "listPrice": {
+            "amount": 55,
+            "formatted": "$55.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-embroidered-chambray-shirt/J7197",
+          "productCode": "J7197",
+          "tiles": ["WU3514"],
+          "folderId": null,
+          "defaultColorCode": "WU3514",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/shirts_tops/noveltyshirts/PRD~J7197/J7197.jsp"
+        },
+        {
+          "extended-size-group-id": "J77070",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7707_WQ4873,H6614_WD7251,J6821_WQ4873,J7974_WQ4873",
+          "apiLink": "/data/v1/US/products/full/J7707/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "CHARCOAL GOLD",
+              "colorCode": "WQ4873",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d3"
+            }
+          ],
+          "productId": "845524441890936",
+          "productDescription": "Girls' pintuck top in stars",
+          "brand": "crewcuts",
+          "priority": 61,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-pintuck-top-in-stars/J7707",
+          "productCode": "J7707",
+          "tiles": ["WQ4873"],
+          "folderId": null,
+          "defaultColorCode": "WQ4873",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d3",
+          "endeca-seo-url": "girls_category/shirts_tops/noveltyshirts/PRD~J7707/J7707.jsp"
+        },
+        {
+          "extended-size-group-id": "J71890",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7189/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "WQ4870",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441890957",
+          "productDescription": "Girls' ruffle-neck top in sparkly floral",
+          "brand": "crewcuts",
+          "priority": 62,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/girls-ruffleneck-top-in-sparkly-floral/J7189",
+          "productCode": "J7189",
+          "tiles": ["WQ4870"],
+          "folderId": null,
+          "defaultColorCode": "WQ4870",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "girls_category/shirts_tops/noveltyshirts/PRD~J7189/J7189.jsp"
+        },
+        {
+          "extended-size-group-id": "L15130",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/L1513/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "PURPLE",
+              "colorCode": "EC1272",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "NATURAL",
+              "colorCode": "BR0968",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "GREEN",
+              "colorCode": "EB0319",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "BLUE",
+              "colorCode": "BL0021",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441894962",
+          "productDescription": "Kids' Lennon + Wolfe™ Vivian V-neck T-shirt",
+          "brand": "crewcuts",
+          "priority": 99,
+          "listPrice": {
+            "amount": 44,
+            "formatted": "$44.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/kids-lennon-wolfe-vivian-vneck-tshirt/L1513",
+          "productCode": "L1513",
+          "tiles": ["EC1272"],
+          "folderId": null,
+          "defaultColorCode": "BK0001",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~L1513/L1513.jsp"
+        },
+        {
+          "extended-size-group-id": "L15140",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/L1514/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "BLUE",
+              "colorCode": "BL0021",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441894956",
+          "productDescription": "Kids' Lennon + Wolfe™ Luna T-shirt dress",
+          "brand": "crewcuts",
+          "priority": 99,
+          "listPrice": {
+            "amount": 58,
+            "formatted": "$58.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/kids-lennon-wolfe-luna-tshirt-dress/L1514",
+          "productCode": "L1514",
+          "tiles": ["BK0001"],
+          "folderId": null,
+          "defaultColorCode": "BL0021",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "girls_category/brandswelove/dresses/PRD~L1514/L1514.jsp"
+        },
+        {
+          "extended-size-group-id": "L15790",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/L1579/c/girls_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "WHITE",
+              "colorCode": "DM0574",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441894934",
+          "productDescription": "Kids' Lennon + Wolfe™ Dashell tank top",
+          "brand": "crewcuts",
+          "priority": 99,
+          "listPrice": {
+            "amount": 44,
+            "formatted": "$44.00"
+          },
+          "url": "/p/girls_feature/newarrivals/shirts/kids-lennon-wolfe-dashell-tank-top/L1579",
+          "productCode": "L1579",
+          "tiles": ["DM0574"],
+          "folderId": null,
+          "defaultColorCode": "DM0574",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~L1579/L1579.jsp"
+        }
+      ],
+      "folderId": "2534374302037955"
+    }
+  ],
+  "navigation": {
+    "refinements": [
+      {
+        "name": "BrowseNavigation",
+        "values": [
+          {
+            "id": 1000000541,
+            "count": "46",
+            "label": "just in",
+            "sortOrder": 1,
+            "gender": "girls",
+            "queryName": "justin",
+            "folder_id": "2534374302103532",
+            "seo": "girls_feature/NewArrivals/justin.jsp"
+          },
+          {
+            "id": 1000000542,
+            "count": "12",
+            "label": "dresses",
+            "sortOrder": 2,
+            "gender": "girls",
+            "queryName": "dresses",
+            "folder_id": "2534374302037957",
+            "seo": "girls_feature/NewArrivals/dresses.jsp"
+          },
+          {
+            "id": 1000000543,
+            "count": "17",
+            "label": "tops",
+            "sortOrder": 4,
+            "gender": "girls",
+            "queryName": "shirts",
+            "folder_id": "2534374302037955",
+            "seo": "girls_feature/NewArrivals/shirts.jsp"
+          },
+          {
+            "id": 1000000544,
+            "count": "4",
+            "label": "skirts",
+            "sortOrder": 6,
+            "gender": "girls",
+            "queryName": "skirts",
+            "folder_id": "2534374302037956",
+            "seo": "girls_feature/NewArrivals/skirts.jsp"
+          },
+          {
+            "id": 1000000545,
+            "count": "23",
+            "label": "sweatshirts & sweatpants",
+            "sortOrder": 8,
+            "gender": "girls",
+            "queryName": "sweatshirtsandsweatpants",
+            "folder_id": "2534374302091396",
+            "seo": "girls_feature/NewArrivals/sweatshirtsandsweatpants.jsp"
+          },
+          {
+            "id": 1000000546,
+            "count": "8",
+            "label": "sweaters",
+            "sortOrder": 9,
+            "gender": "girls",
+            "queryName": "sweaters",
+            "folder_id": "2534374302037953",
+            "seo": "girls_feature/NewArrivals/sweaters.jsp"
+          },
+          {
+            "id": 1000000547,
+            "count": "30",
+            "label": "leggings & pants",
+            "sortOrder": 11,
+            "gender": "girls",
+            "queryName": "leggings",
+            "folder_id": "2534374302090988",
+            "seo": "girls_feature/NewArrivals/leggings.jsp"
+          },
+          {
+            "id": 1000000549,
+            "count": "30",
+            "label": "coats & jackets",
+            "sortOrder": 13,
+            "gender": "girls",
+            "queryName": "jacketsandouterwear",
+            "folder_id": "2534374302037961",
+            "seo": "girls_feature/NewArrivals/jacketsandouterwear.jsp"
+          },
+          {
+            "id": 1000000550,
+            "count": "3",
+            "label": "Glitter Bags",
+            "sortOrder": 14,
+            "gender": "girls",
+            "queryName": "glitterbags",
+            "folder_id": "2534374302081232",
+            "seo": "girls_feature/NewArrivals/GlitterBags.jsp"
+          },
+          {
+            "id": 1000000551,
+            "count": "3",
+            "label": "jewelry & accessories",
+            "sortOrder": 15,
+            "gender": "girls",
+            "queryName": "jewelryaccessories",
+            "folder_id": "2534374302037963",
+            "seo": "girls_feature/NewArrivals/jewelryaccessories.jsp"
+          },
+          {
+            "id": 1000000552,
+            "count": "11",
+            "label": "funfinds",
+            "sortOrder": 16,
+            "gender": "girls",
+            "queryName": "funfinds",
+            "folder_id": "2534374302105150",
+            "seo": "girls_feature/NewArrivals/funfinds.jsp"
+          },
+          {
+            "id": 1000000554,
+            "count": "5",
+            "label": "shoes & sneakers",
+            "sortOrder": 18,
+            "gender": "girls",
+            "queryName": "shoesandsneakers",
+            "folder_id": "2534374302037962",
+            "seo": "girls_feature/NewArrivals/shoesandsneakers.jsp"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Size Chart",
+        "values": [
+          {
+            "group": 100,
+            "values": [
+              {
+                "id": 11938,
+                "count": "106",
+                "label": "2",
+                "sortOrder": 6
+              },
+              {
+                "id": 11940,
+                "count": "104",
+                "label": "3",
+                "sortOrder": 8
+              },
+              {
+                "id": 11942,
+                "count": "46",
+                "label": "4",
+                "sortOrder": 10
+              },
+              {
+                "id": 11943,
+                "count": "63",
+                "label": "4-5",
+                "sortOrder": 11
+              },
+              {
+                "id": 11944,
+                "count": "44",
+                "label": "5",
+                "sortOrder": 12
+              },
+              {
+                "id": 11947,
+                "count": "46",
+                "label": "6",
+                "sortOrder": 15
+              },
+              {
+                "id": 11948,
+                "count": "63",
+                "label": "6-7",
+                "sortOrder": 16
+              },
+              {
+                "id": 11950,
+                "count": "43",
+                "label": "7",
+                "sortOrder": 18
+              },
+              {
+                "id": 11952,
+                "count": "111",
+                "label": "8",
+                "sortOrder": 20
+              },
+              {
+                "id": 11955,
+                "count": "111",
+                "label": "10",
+                "sortOrder": 23
+              },
+              {
+                "id": 11958,
+                "count": "111",
+                "label": "12",
+                "sortOrder": 26
+              },
+              {
+                "id": 11959,
+                "count": "107",
+                "label": "14",
+                "sortOrder": 27
+              },
+              {
+                "id": 11961,
+                "count": "84",
+                "label": "16",
+                "sortOrder": 29
+              }
+            ]
+          },
+          {
+            "group": 500,
+            "values": [
+              {
+                "id": 11997,
+                "count": "4",
+                "label": "SMALL",
+                "sortOrder": 67
+              },
+              {
+                "id": 11998,
+                "count": "4",
+                "label": "MEDIUM",
+                "sortOrder": 68
+              },
+              {
+                "id": 11999,
+                "count": "4",
+                "label": "LARGE",
+                "sortOrder": 69
+              }
+            ]
+          },
+          {
+            "group": 600,
+            "values": [
+              {
+                "id": 12005,
+                "count": "3",
+                "label": "SMALL-MEDIUM",
+                "sortOrder": 79
+              },
+              {
+                "id": 12008,
+                "count": "3",
+                "label": "LARGE-XLARGE",
+                "sortOrder": 82
+              }
+            ]
+          },
+          {
+            "group": 2100,
+            "values": [
+              {
+                "id": 12318,
+                "count": "13",
+                "label": "ONE SIZE",
+                "sortOrder": 426
+              }
+            ]
+          },
+          {
+            "group": 2500,
+            "values": [
+              {
+                "id": 12357,
+                "count": "5",
+                "label": "K1",
+                "sortOrder": 465
+              },
+              {
+                "id": 12358,
+                "count": "5",
+                "label": "K2",
+                "sortOrder": 466
+              },
+              {
+                "id": 12360,
+                "count": "5",
+                "label": "K3",
+                "sortOrder": 468
+              },
+              {
+                "id": 12361,
+                "count": "5",
+                "label": "K4",
+                "sortOrder": 469
+              },
+              {
+                "id": 12363,
+                "count": "5",
+                "label": "K5",
+                "sortOrder": 471
+              },
+              {
+                "id": 12366,
+                "count": "5",
+                "label": "K8",
+                "sortOrder": 474
+              },
+              {
+                "id": 12367,
+                "count": "5",
+                "label": "K9",
+                "sortOrder": 475
+              },
+              {
+                "id": 12369,
+                "count": "5",
+                "label": "K10",
+                "sortOrder": 477
+              },
+              {
+                "id": 12370,
+                "count": "5",
+                "label": "K11",
+                "sortOrder": 478
+              },
+              {
+                "id": 12372,
+                "count": "5",
+                "label": "K12",
+                "sortOrder": 480
+              },
+              {
+                "id": 12373,
+                "count": "5",
+                "label": "K13",
+                "sortOrder": 481
+              }
+            ]
+          },
+          {
+            "group": 2600,
+            "values": [
+              {
+                "id": 12379,
+                "count": "6",
+                "label": "6-12",
+                "sortOrder": 487
+              },
+              {
+                "id": 12381,
+                "count": "4",
+                "label": "12-18",
+                "sortOrder": 489
+              }
+            ]
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Color",
+        "values": [
+          {
+            "id": 232,
+            "count": "6",
+            "label": "Red",
+            "sortOrder": "A",
+            "hexCode": "#ff0000"
+          },
+          {
+            "id": 233,
+            "count": "2",
+            "label": "Orange",
+            "sortOrder": "B",
+            "hexCode": "#ffa500"
+          },
+          {
+            "id": 234,
+            "count": "3",
+            "label": "Yellow",
+            "sortOrder": "C",
+            "hexCode": "#ffff00"
+          },
+          {
+            "id": 235,
+            "count": "7",
+            "label": "Green",
+            "sortOrder": "D",
+            "hexCode": "#008000"
+          },
+          {
+            "id": 236,
+            "count": "25",
+            "label": "Blue",
+            "sortOrder": "E",
+            "hexCode": "#0000ff"
+          },
+          {
+            "id": 237,
+            "count": "6",
+            "label": "Purple",
+            "sortOrder": "F",
+            "hexCode": "#800080"
+          },
+          {
+            "id": 238,
+            "count": "14",
+            "label": "Pink",
+            "sortOrder": "G",
+            "hexCode": "#ffc0cb"
+          },
+          {
+            "id": 241,
+            "count": "4",
+            "label": "White",
+            "sortOrder": "H",
+            "hexCode": "#ffffff"
+          },
+          {
+            "id": 242,
+            "count": "9",
+            "label": "Black",
+            "sortOrder": "I",
+            "hexCode": "#000000"
+          },
+          {
+            "id": 240,
+            "count": "8",
+            "label": "Grey",
+            "sortOrder": "J",
+            "hexCode": "#808080"
+          },
+          {
+            "id": 239,
+            "count": "3",
+            "label": "Brown",
+            "sortOrder": "K",
+            "hexCode": "#a52a2a"
+          },
+          {
+            "id": 958,
+            "count": "33",
+            "label": "Other",
+            "sortOrder": "L",
+            "swatchKey": "swatch-other"
+          },
+          {
+            "id": 957,
+            "count": "3",
+            "label": "Natural",
+            "sortOrder": "N",
+            "swatchKey": "swatch-natural"
+          },
+          {
+            "id": 956,
+            "count": "23",
+            "label": "Pattern",
+            "sortOrder": "N",
+            "swatchKey": "swatch-pattern"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Price Range",
+        "values": [
+          {
+            "id": 4,
+            "count": "75",
+            "label": "$50 & under",
+            "sortOrder": "A"
+          },
+          {
+            "id": 6,
+            "count": "37",
+            "label": "$50-$100",
+            "sortOrder": "B"
+          },
+          {
+            "id": 5,
+            "count": "17",
+            "label": "$100-$150",
+            "sortOrder": "C"
+          },
+          {
+            "id": 231,
+            "count": "10",
+            "label": "$150-$250",
+            "sortOrder": "D"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "JCrewBrand",
+        "values": [
+          {
+            "id": 2209997913,
+            "count": "6",
+            "label": "LENNON + WOLFE",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209997648,
+            "count": "1",
+            "label": "NICKELODEON",
+            "sortOrder": "ZZZ"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Trending",
+        "values": [
+          {
+            "id": 2401,
+            "count": "21",
+            "label": "New -  Last 2 Weeks",
+            "sortOrder": "A"
+          },
+          {
+            "id": 2402,
+            "count": "26",
+            "label": "New -  Last 4 Weeks",
+            "sortOrder": "B"
+          },
+          {
+            "id": 2004,
+            "count": "36",
+            "label": "Best Seller",
+            "sortOrder": "C"
+          },
+          {
+            "id": 2601,
+            "count": "122",
+            "label": "Eligible For Promotion",
+            "sortOrder": "ZZZ"
+          }
+        ]
+      }
+    ],
+    "breadcrumbs": []
+  },
+  "shopByList": [
+    {
+      "value": "view all",
+      "safeName": "view-all",
+      "name": "view all"
+    },
+    {
+      "id": 1000000541,
+      "count": "46",
+      "gender": "girls",
+      "queryName": "justin",
+      "safeName": "just-in",
+      "value": "2534374302103532",
+      "name": "just in"
+    },
+    {
+      "id": 1000000542,
+      "count": "12",
+      "gender": "girls",
+      "queryName": "dresses",
+      "safeName": "dresses",
+      "value": "2534374302037957",
+      "name": "dresses"
+    },
+    {
+      "id": 1000000543,
+      "count": "17",
+      "gender": "girls",
+      "queryName": "shirts",
+      "safeName": "tops",
+      "value": "2534374302037955",
+      "name": "tops"
+    },
+    {
+      "id": 1000000544,
+      "count": "4",
+      "gender": "girls",
+      "queryName": "skirts",
+      "safeName": "skirts",
+      "value": "2534374302037956",
+      "name": "skirts"
+    },
+    {
+      "id": 1000000545,
+      "count": "23",
+      "gender": "girls",
+      "queryName": "sweatshirtsandsweatpants",
+      "safeName": "sweatshirts-sweatpants",
+      "value": "2534374302091396",
+      "name": "sweatshirts & sweatpants"
+    },
+    {
+      "id": 1000000546,
+      "count": "8",
+      "gender": "girls",
+      "queryName": "sweaters",
+      "safeName": "sweaters",
+      "value": "2534374302037953",
+      "name": "sweaters"
+    },
+    {
+      "id": 1000000547,
+      "count": "30",
+      "gender": "girls",
+      "queryName": "leggings",
+      "safeName": "leggings-pants",
+      "value": "2534374302090988",
+      "name": "leggings & pants"
+    },
+    {
+      "id": 1000000549,
+      "count": "30",
+      "gender": "girls",
+      "queryName": "jacketsandouterwear",
+      "safeName": "coats-jackets",
+      "value": "2534374302037961",
+      "name": "coats & jackets"
+    },
+    {
+      "id": 1000000550,
+      "count": "3",
+      "gender": "girls",
+      "queryName": "glitterbags",
+      "safeName": "glitter-bags",
+      "value": "2534374302081232",
+      "name": "Glitter Bags"
+    },
+    {
+      "id": 1000000551,
+      "count": "3",
+      "gender": "girls",
+      "queryName": "jewelryaccessories",
+      "safeName": "jewelry-accessories",
+      "value": "2534374302037963",
+      "name": "jewelry & accessories"
+    },
+    {
+      "id": 1000000552,
+      "count": "11",
+      "gender": "girls",
+      "queryName": "funfinds",
+      "safeName": "funfinds",
+      "value": "2534374302105150",
+      "name": "funfinds"
+    },
+    {
+      "id": 1000000554,
+      "count": "5",
+      "gender": "girls",
+      "queryName": "shoesandsneakers",
+      "safeName": "shoes-sneakers",
+      "value": "2534374302037962",
+      "name": "shoes & sneakers"
+    }
+  ],
+  "resultCount": 139,
+  "pagination": {
+    "pageIndex": 1,
+    "totalPage": 3
+  },
+  "seoProperties": {
+    "title": "Girls' Dresses, Shirts, Shoes & More : New Arrivals | J.Crew",
+    "description": "Shop JCrew.com for New Arrivals in Girls' Clothes including Dresses, Shirts and Pants, Shorts, Shoes and Girls' Accessories. Free Shipping on all orders!",
+    "canonicalUrl": "girls_feature/NewArrivals.jsp"
+  }
+}

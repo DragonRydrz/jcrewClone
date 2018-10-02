@@ -1,25 +1,46 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import axios from 'axios';
 import './App.css';
+import Header from './components/Header';
+import Nav from './components/Nav';
+import Title from './components/Title';
+import Footer from './components/Footer';
+import { Switch, Route } from 'react-router';
+import ArrayPage from './components/ArrayPage';
+import womens from './data/womens.json';
+import mens from './data/mens.json';
+import girls from './data/girls.json';
+import boys from './data/boys.json';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <Header />
+        <hr />
+        <Nav />
+        <hr />
+        <Title />
+        <Switch>
+          <Route
+            path="/c/womens_feature/"
+            component={props => <ArrayPage {...props} data={womens} />}
+          />
+          <Route
+            path="/c/mens_feature/"
+            component={props => <ArrayPage {...props} data={mens} />}
+          />
+          <Route
+            path="/c/girls_feature/"
+            component={props => <ArrayPage {...props} data={girls} />}
+          />
+          <Route
+            path="/c/boys_feature/"
+            component={props => <ArrayPage {...props} data={boys} />}
+          />
+        </Switch>
+        <hr />
+        <Footer />
       </div>
     );
   }

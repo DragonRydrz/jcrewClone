@@ -1,0 +1,5306 @@
+{
+  "categoryHeader": {
+    "catLink": null,
+    "skuOnlyFolder": "false",
+    "flash_images_txt1": "/media/images/fluid/newArrivals/men/,img01_B7275_rt.jpg,img02_B8370_lt.jpg,img03_B7310_lt.jpg,img04_B5012_rt.jpg,img05_B8061_rt.jpg",
+    "display_folders_per_page": "2",
+    "name": "NewArrivals",
+    "dimId": 1000000298,
+    "hasSubFolders": "true",
+    "catStyle": "b",
+    "priority": "1",
+    "catDescription": null,
+    "label": "New Arrivals",
+    "link_flat": "/Assortments/Browse/Outfits/2015NewArrivals/MensNewArrivals",
+    "invalidSubcategory": false,
+    "seoHTMLContent": null,
+    "flash_link_js": "00000,E1780,06404,36591,39255,73045,16561,C9523,21351,30687:00000,46482,E5437,10132,C9054:00000,E5316,05716:00000,E4408,E0506,E4409,E1315:00000,E4622,B4447,A5949,E0631,10884,19474:00000,E4176,E2948,E3429,13259,73045,B2248:00000,E5419,03226,C9333,73045:00000,E4408,E0506,E4409,C8870,06385,E4104:00000,E5181,E3462,E0500,13259:00000,E4319,C8874,02020,10884,19474",
+    "catName": "NEW ARRIVALS",
+    "folderId": "2534374302023683",
+    "gender": "Men",
+    "mixedProducts": "false",
+    "desc_1": "/media/images/fluid/wNewArrivals/,rightArrow.gif,leftArrow.gif,na_shopall.jpg"
+  },
+  "sortByOrderType": [
+    {
+      "label": "Category",
+      "value": "0"
+    },
+    {
+      "label": "Price: Low to High",
+      "value": "1"
+    },
+    {
+      "label": "Price: High to Low",
+      "value": "2"
+    },
+    {
+      "label": "New Arrival",
+      "value": "3"
+    },
+    {
+      "label": "Top Rated",
+      "value": "4"
+    }
+  ],
+  "productList": [
+    {
+      "header": "Just In",
+      "products": [
+        {
+          "extended-size-group-id": "J6129WX27730",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 3,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2773"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX27740",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 3,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2774"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX27750",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 3,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2775"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX31950",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 3,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX3195"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX27720",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 3,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2772"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX27760",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 3,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2776"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J51970",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J5197/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "DARK EVENING WASH",
+              "colorCode": "DM2261",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_v"
+            }
+          ],
+          "productId": "845524441894096",
+          "productDescription": "484 Slim-fit stretch jean in dark evening wash",
+          "brand": "JCrew",
+          "priority": 6,
+          "listPrice": {
+            "amount": 120,
+            "formatted": "$120.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/484-slimfit-stretch-jean-in-dark-evening-wash/J5197",
+          "productCode": "J5197",
+          "tiles": ["DM2261"],
+          "folderId": null,
+          "defaultColorCode": "DM2261",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_v",
+          "endeca-seo-url": "mens_category/denim_jeans/slim/PRD~J5197/J5197.jsp"
+        },
+        {
+          "extended-size-group-id": "J77010",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7701_BL7999,F4075_WU7278,J2093_WT0002",
+          "apiLink": "/data/v1/US/products/full/J7701/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR FERN",
+              "colorCode": "GR8080",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "MARLED GREY",
+              "colorCode": "MS1547",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR BIRCH",
+              "colorCode": "NA6889",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR ATLANTIC",
+              "colorCode": "BL7999",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "HTHR EMBER",
+              "colorCode": "OR5786",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR INDIGO",
+              "colorCode": "SU1417",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "MARLED BLACK",
+              "colorCode": "MS1548",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441889400",
+          "productDescription": "Rugged merino wool heather crewneck sweater",
+          "brand": "JCrew",
+          "priority": 8,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/rugged-merino-wool-heather-crewneck-sweater/J7701",
+          "productCode": "J7701",
+          "tiles": ["GR8080"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "BL7999",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_category/sweaters/pullover/PRD~J7701/J7701.jsp"
+        },
+        {
+          "extended-size-group-id": "F81280",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "F8128_GY7290,J6053_WX2960",
+          "apiLink": "/data/v1/US/products/full/F8128/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "MARLED STEEL",
+              "colorCode": "GY7290",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "HTHR WINE",
+              "colorCode": "RD5848",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "MARLED LODEN",
+              "colorCode": "KL6803",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441871814",
+          "productDescription": "Double-knit henley",
+          "brand": "JCrew",
+          "priority": 12,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/doubleknit-henley/F8128",
+          "productCode": "F8128",
+          "tiles": ["GY7290"],
+          "folderId": null,
+          "variations": "F8129",
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "GY7290",
+          "alsoIn": "Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_category/polos_tees/PRD~F8128/F8128.jsp"
+        },
+        {
+          "extended-size-group-id": "J91440",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J9144_EG9028,J5022_GY6612",
+          "apiLink": "/data/v1/US/products/full/J9144/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "POSEIDON BLUE",
+              "colorCode": "EG9028",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3,_d4"
+            }
+          ],
+          "productId": "845524441892720",
+          "productDescription": "Vans® for J.Crew Authentic sneakers in Bedford cord",
+          "brand": "JCrew",
+          "priority": 15,
+          "listPrice": {
+            "amount": 60,
+            "formatted": "$60.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/vans-for-jcrew-authentic-sneakers-in-bedford-cord/J9144",
+          "productCode": "J9144",
+          "tiles": ["EG9028"],
+          "folderId": null,
+          "defaultColorCode": "EG9028",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d2,_d3,_d4",
+          "endeca-seo-url": "mens_category/shoes/exclusives/PRD~J9144/J9144.jsp"
+        },
+        {
+          "extended-size-group-id": "J78070",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7807_SU1051,J5233_DM2261",
+          "apiLink": "/data/v1/US/products/full/J7807/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR BIRCH",
+              "colorCode": "SU1051",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            }
+          ],
+          "productId": "845524441889136",
+          "productDescription": "Rugged merino wool bird's-eye crewneck sweater",
+          "brand": "JCrew",
+          "priority": 18,
+          "listPrice": {
+            "amount": 89.5,
+            "formatted": "$89.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/rugged-merino-wool-birdseye-crewneck-sweater/J7807",
+          "productCode": "J7807",
+          "tiles": ["SU1051"],
+          "folderId": null,
+          "defaultColorCode": "SU1051",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_category/sweaters/pullover/PRD~J7807/J7807.jsp"
+        },
+        {
+          "extended-size-group-id": "J60460",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6046_WX2218,J7817_EG6950,J1785_WT0002,17554_SP4569",
+          "apiLink": "/data/v1/US/products/full/J6046/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "OLIVE DRA",
+              "colorCode": "WX2218",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            }
+          ],
+          "productId": "845524441895033",
+          "productDescription": "Wallace & Barnes mixed ripstop cargo pant",
+          "brand": "JCrew",
+          "priority": 19,
+          "listPrice": {
+            "amount": 138,
+            "formatted": "$138.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/wallace-barnes-mixed-ripstop-cargo-pant/J6046",
+          "productCode": "J6046",
+          "tiles": ["WX2218"],
+          "folderId": null,
+          "defaultColorCode": "WX2218",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_category/brandswelove/pants/PRD~J6046/J6046.jsp"
+        },
+        {
+          "extended-size-group-id": "K10270",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K1027/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "NT4064",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "NAVY",
+              "colorCode": "NT4062",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891939",
+          "productDescription": "Ludlow silk-wool tie in dot print",
+          "brand": "JCrew",
+          "priority": 20,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-silkwool-tie-in-dot-print/K1027",
+          "productCode": "K1027",
+          "tiles": ["NT4064"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "NT4062",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "mens_category/tiesandpocketsquares/Ties/PRD~K1027/K1027.jsp"
+        },
+        {
+          "extended-size-group-id": "G8579BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J8138_WX2218",
+          "apiLink": "/data/v1/US/products/full/G8579/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d6,_v"
+            },
+            {
+              "colorName": "DARK MOSS",
+              "colorCode": "GR6749",
+              "hasOnfig": false,
+              "skuShotType": "_d6"
+            },
+            {
+              "colorName": "HTHR CHARCOAL",
+              "colorCode": "GY6480",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d5"
+            },
+            {
+              "colorName": "VINTAGE CAMEL",
+              "colorCode": "WX2878",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d6"
+            }
+          ],
+          "productId": "845524441881384",
+          "productDescription": "Ludlow topcoat in Italian wool-cashmere",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 21,
+          "listPrice": {
+            "amount": 450,
+            "formatted": "$450.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-topcoat-in-italian-woolcashmere/G8579",
+          "productCode": "G8579",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "GY6480",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_d5",
+          "endeca-seo-url": "mens_category/outerwear/duffle/PRD~G8579/G8579.jsp"
+        },
+        {
+          "extended-size-group-id": "G8579GY64800",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J8138_WX2218",
+          "apiLink": "/data/v1/US/products/full/G8579/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d6,_v"
+            },
+            {
+              "colorName": "DARK MOSS",
+              "colorCode": "GR6749",
+              "hasOnfig": false,
+              "skuShotType": "_d6"
+            },
+            {
+              "colorName": "HTHR CHARCOAL",
+              "colorCode": "GY6480",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d5"
+            },
+            {
+              "colorName": "VINTAGE CAMEL",
+              "colorCode": "WX2878",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d6"
+            }
+          ],
+          "productId": "845524441881384",
+          "productDescription": "Ludlow topcoat in Italian wool-cashmere",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 21,
+          "listPrice": {
+            "amount": 450,
+            "formatted": "$450.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-topcoat-in-italian-woolcashmere/G8579",
+          "productCode": "G8579",
+          "tiles": ["GY6480"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "GY6480",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_d5",
+          "endeca-seo-url": "mens_category/outerwear/duffle/PRD~G8579/G8579.jsp"
+        },
+        {
+          "extended-size-group-id": "G8579WX28780",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J8138_WX2218",
+          "apiLink": "/data/v1/US/products/full/G8579/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d6,_v"
+            },
+            {
+              "colorName": "DARK MOSS",
+              "colorCode": "GR6749",
+              "hasOnfig": false,
+              "skuShotType": "_d6"
+            },
+            {
+              "colorName": "HTHR CHARCOAL",
+              "colorCode": "GY6480",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d5"
+            },
+            {
+              "colorName": "VINTAGE CAMEL",
+              "colorCode": "WX2878",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d6"
+            }
+          ],
+          "productId": "845524441881384",
+          "productDescription": "Ludlow topcoat in Italian wool-cashmere",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 21,
+          "listPrice": {
+            "amount": 450,
+            "formatted": "$450.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-topcoat-in-italian-woolcashmere/G8579",
+          "productCode": "G8579",
+          "tiles": ["WX2878"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "GY6480",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_d5",
+          "endeca-seo-url": "mens_category/outerwear/duffle/PRD~G8579/G8579.jsp"
+        },
+        {
+          "extended-size-group-id": "G8579GR67490",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J8138_WX2218",
+          "apiLink": "/data/v1/US/products/full/G8579/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d6,_v"
+            },
+            {
+              "colorName": "DARK MOSS",
+              "colorCode": "GR6749",
+              "hasOnfig": false,
+              "skuShotType": "_d6"
+            },
+            {
+              "colorName": "HTHR CHARCOAL",
+              "colorCode": "GY6480",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d5"
+            },
+            {
+              "colorName": "VINTAGE CAMEL",
+              "colorCode": "WX2878",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d6"
+            }
+          ],
+          "productId": "845524441881384",
+          "productDescription": "Ludlow topcoat in Italian wool-cashmere",
+          "brand": "JCrew",
+          "priority": 21,
+          "listPrice": {
+            "amount": 450,
+            "formatted": "$450.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-topcoat-in-italian-woolcashmere/G8579",
+          "productCode": "G8579",
+          "tiles": ["GR6749"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "GY6480",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_d5",
+          "endeca-seo-url": "mens_category/outerwear/duffle/PRD~G8579/G8579.jsp"
+        },
+        {
+          "extended-size-group-id": "J4887WX26480",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4887/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2647",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GATLIN GREEN",
+              "colorCode": "WX2648",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2705",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889609",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in blue tattersall",
+          "brand": "JCrew",
+          "priority": 24,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-blue-tattersall/J4887",
+          "productCode": "J4887",
+          "tiles": ["WX2648"],
+          "folderId": null,
+          "variations": "J4888",
+          "defaultColorCode": "WX2648",
+          "alsoIn": "Slim",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4887/J4887.jsp"
+        },
+        {
+          "extended-size-group-id": "J4887WX27050",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4887/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2647",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GATLIN GREEN",
+              "colorCode": "WX2648",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2705",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889609",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in blue tattersall",
+          "brand": "JCrew",
+          "priority": 24,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-blue-tattersall/J4887",
+          "productCode": "J4887",
+          "tiles": ["WX2705"],
+          "folderId": null,
+          "variations": "J4888",
+          "defaultColorCode": "WX2648",
+          "alsoIn": "Slim",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4887/J4887.jsp"
+        },
+        {
+          "extended-size-group-id": "J4887WX26470",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4887/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2647",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GATLIN GREEN",
+              "colorCode": "WX2648",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2705",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889609",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in blue tattersall",
+          "brand": "JCrew",
+          "priority": 24,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-blue-tattersall/J4887",
+          "productCode": "J4887",
+          "tiles": ["WX2647"],
+          "folderId": null,
+          "variations": "J4888",
+          "defaultColorCode": "WX2648",
+          "alsoIn": "Slim",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4887/J4887.jsp"
+        },
+        {
+          "extended-size-group-id": "C8778WX24810",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "C8778_WU7468,H4750_WX2742,J7877_BR5716,J5242_DM2264",
+          "apiLink": "/data/v1/US/products/full/C8778/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "CLASSIC GREY HERRINGBONE",
+              "colorCode": "WU7468",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_v"
+            },
+            {
+              "colorName": "CLASSIC BLUE HERRINGBONE",
+              "colorCode": "WX2479",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4"
+            },
+            {
+              "colorName": "RUST HERRINGBONE",
+              "colorCode": "WX2481",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d5"
+            }
+          ],
+          "productId": "845524441860906",
+          "productDescription": "Ludlow blazer in herringbone English tweed",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 27,
+          "listPrice": {
+            "amount": 298,
+            "formatted": "$298.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-blazer-in-herringbone-english-tweed/C8778",
+          "productCode": "C8778",
+          "tiles": ["WX2481"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WU7468",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_v",
+          "endeca-seo-url": "mens_category/blazer2/wool/PRD~C8778/C8778.jsp"
+        },
+        {
+          "extended-size-group-id": "C8778WX24790",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "C8778_WU7468,H4750_WX2742,J7877_BR5716,J5242_DM2264",
+          "apiLink": "/data/v1/US/products/full/C8778/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "CLASSIC GREY HERRINGBONE",
+              "colorCode": "WU7468",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_v"
+            },
+            {
+              "colorName": "CLASSIC BLUE HERRINGBONE",
+              "colorCode": "WX2479",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4"
+            },
+            {
+              "colorName": "RUST HERRINGBONE",
+              "colorCode": "WX2481",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d5"
+            }
+          ],
+          "productId": "845524441860906",
+          "productDescription": "Ludlow blazer in herringbone English tweed",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 27,
+          "listPrice": {
+            "amount": 298,
+            "formatted": "$298.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-blazer-in-herringbone-english-tweed/C8778",
+          "productCode": "C8778",
+          "tiles": ["WX2479"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WU7468",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_v",
+          "endeca-seo-url": "mens_category/blazer2/wool/PRD~C8778/C8778.jsp"
+        },
+        {
+          "extended-size-group-id": "C8778WU74680",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "C8778_WU7468,H4750_WX2742,J7877_BR5716,J5242_DM2264",
+          "apiLink": "/data/v1/US/products/full/C8778/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "CLASSIC GREY HERRINGBONE",
+              "colorCode": "WU7468",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_v"
+            },
+            {
+              "colorName": "CLASSIC BLUE HERRINGBONE",
+              "colorCode": "WX2479",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4"
+            },
+            {
+              "colorName": "RUST HERRINGBONE",
+              "colorCode": "WX2481",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d5"
+            }
+          ],
+          "productId": "845524441860906",
+          "productDescription": "Ludlow blazer in herringbone English tweed",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 27,
+          "listPrice": {
+            "amount": 298,
+            "formatted": "$298.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-blazer-in-herringbone-english-tweed/C8778",
+          "productCode": "C8778",
+          "tiles": ["WU7468"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WU7468",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_v",
+          "endeca-seo-url": "mens_category/blazer2/wool/PRD~C8778/C8778.jsp"
+        },
+        {
+          "extended-size-group-id": "J60610",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6061_WX2905,H4306_WX2568,26508_EC0325",
+          "apiLink": "/data/v1/US/products/full/J6061/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "WX2905",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_v"
+            }
+          ],
+          "productId": "845524441894129",
+          "productDescription": "Ludlow Slim-fit pant in stretch navy four-season wool",
+          "brand": "JCrew",
+          "priority": 33,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/ludlow-slimfit-pant-in-stretch-navy-fourseason-wool/J6061",
+          "productCode": "J6061",
+          "tiles": ["WX2905"],
+          "folderId": null,
+          "defaultColorCode": "WX2905",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_v",
+          "endeca-seo-url": "mens_category/pants/Slim/PRD~J6061/J6061.jsp"
+        },
+        {
+          "extended-size-group-id": "J63920",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6392_BK0001,J6043_BL7518,J1785_WT0002",
+          "apiLink": "/data/v1/US/products/full/J6392/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "SAFARI FATIGUE",
+              "colorCode": "GR6564",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "RD5926",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441889198",
+          "productDescription": "Everyday cashmere mockneck sweater",
+          "brand": "JCrew",
+          "priority": 39,
+          "listPrice": {
+            "amount": 198,
+            "formatted": "$198.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/everyday-cashmere-mockneck-sweater/J6392",
+          "productCode": "J6392",
+          "tiles": ["BK0001"],
+          "folderId": null,
+          "defaultColorCode": "BK0001",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_feature/NewArrivals/justin/PRD~J6392/J6392.jsp"
+        },
+        {
+          "extended-size-group-id": "J89260",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8926/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "PA5666",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441893259",
+          "productDescription": "Stretch Secret Wash shirt in white floral print",
+          "brand": "JCrew",
+          "priority": 40,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/stretch-secret-wash-shirt-in-white-floral-print/J8926",
+          "productCode": "J8926",
+          "tiles": ["PA5666"],
+          "folderId": null,
+          "variations": "J8928,J8927,J8929",
+          "defaultColorCode": "PA5666",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J8926/J8926.jsp"
+        },
+        {
+          "extended-size-group-id": "H06250",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/H0625/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "EG9581",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441880841",
+          "productDescription": "Wildlife socks",
+          "brand": "JCrew",
+          "priority": 42,
+          "listPrice": {
+            "amount": 14.5,
+            "formatted": "$14.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/wildlife-socks/H0625",
+          "productCode": "H0625",
+          "tiles": ["EG9581"],
+          "folderId": null,
+          "defaultColorCode": "EG9581",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "mens_category/socks/calf/PRD~H0625/H0625.jsp"
+        },
+        {
+          "extended-size-group-id": "G71370",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "G7137_BR6887,G6859_WX0529,J9019_BR6398",
+          "apiLink": "/data/v1/US/products/full/G7137/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "PACIFIC NAVY",
+              "colorCode": "WU7290",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_v"
+            },
+            {
+              "colorName": "DUSTY CHARCOAL",
+              "colorCode": "GY6492",
+              "hasOnfig": false,
+              "skuShotType": "_v"
+            },
+            {
+              "colorName": "WARM BROWN",
+              "colorCode": "WX0266",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "BURNISHED SIENNA",
+              "colorCode": "BR6887",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "KHAKI",
+              "colorCode": "BR6964",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "DILL",
+              "colorCode": "GR7195",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441878609",
+          "productDescription": "770 Straight-fit pant in corduroy",
+          "brand": "JCrew",
+          "priority": 43,
+          "listPrice": {
+            "amount": 79.5,
+            "formatted": "$79.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/770-straightfit-pant-in-corduroy/G7137",
+          "productCode": "G7137",
+          "tiles": ["WU7290"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WU7290",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_v",
+          "endeca-seo-url": "mens_category/pants/straight/PRD~G7137/G7137.jsp"
+        },
+        {
+          "extended-size-group-id": "J72730",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7273_WX3199,J7818_SU1430,J1785_WT0002,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J7273/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "DUSTY CAMO",
+              "colorCode": "WX3199",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4"
+            }
+          ],
+          "productId": "845524441889429",
+          "productDescription": "Cotton-nylon hooded jacket in camo",
+          "brand": "JCrew",
+          "priority": 45,
+          "listPrice": {
+            "amount": 178,
+            "formatted": "$178.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/cottonnylon-hooded-jacket-in-camo/J7273",
+          "productCode": "J7273",
+          "tiles": ["WX3199"],
+          "folderId": null,
+          "defaultColorCode": "WX3199",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4",
+          "endeca-seo-url": "mens_category/outerwear/lightweight/PRD~J7273/J7273.jsp"
+        },
+        {
+          "extended-size-group-id": "K60130",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K6013/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "ORANGE BLACK",
+              "colorCode": "EB0956",
+              "hasOnfig": false,
+              "skuShotType": "_d1"
+            }
+          ],
+          "productId": "845524441893857",
+          "productDescription": "Timex® neon nylon strap watch",
+          "brand": "JCrew",
+          "priority": 46,
+          "listPrice": {
+            "amount": 90,
+            "formatted": "$90.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/timex-neon-nylon-strap-watch/K6013",
+          "productCode": "K6013",
+          "tiles": ["EB0956"],
+          "folderId": null,
+          "defaultColorCode": "EB0956",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1",
+          "endeca-seo-url": "mens_category/accessories/necessaryextras/PRD~K6013/K6013.jsp"
+        },
+        {
+          "extended-size-group-id": "F81470",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "F8147_RD5848,C9382_DM1082",
+          "apiLink": "/data/v1/US/products/full/F8147/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR WINE",
+              "colorCode": "RD5848",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1"
+            },
+            {
+              "colorName": "MARLED STEEL",
+              "colorCode": "GY7290",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441871766",
+          "productDescription": "Double-knit half-zip pullover",
+          "brand": "JCrew",
+          "priority": 54,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/doubleknit-halfzip-pullover/F8147",
+          "productCode": "F8147",
+          "tiles": ["RD5848"],
+          "folderId": null,
+          "variations": "H1713",
+          "defaultColorCode": "RD5848",
+          "alsoIn": "Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1",
+          "endeca-seo-url": "mens_category/polos_tees/PRD~F8147/F8147.jsp"
+        },
+        {
+          "extended-size-group-id": "K10240",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K1024/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "DARK MOSS/GILDED AMBER",
+              "colorCode": "EG7848",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "NAVY/BURGUNDY",
+              "colorCode": "EG7849",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR CHARCOAL / BLACK",
+              "colorCode": "EG9268",
+              "hasOnfig": false,
+              "skuShotType": "_d1"
+            }
+          ],
+          "productId": "845524441891436",
+          "productDescription": "Lightweight striped wool-blend scarf",
+          "brand": "JCrew",
+          "priority": 57,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/lightweight-striped-woolblend-scarf/K1024",
+          "productCode": "K1024",
+          "tiles": ["EG7848"],
+          "folderId": null,
+          "defaultColorCode": "EG7849",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "mens_category/accessories/scarvesandhats/PRD~K1024/K1024.jsp"
+        },
+        {
+          "extended-size-group-id": "J88080",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J8808_GY6469,C6665_KE3834,K1065_EG7706,J9144_EG9028",
+          "apiLink": "/data/v1/US/products/full/J8808/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            }
+          ],
+          "productId": "845524441892504",
+          "productDescription": "French terry sweatpants",
+          "brand": "JCrew",
+          "priority": 60,
+          "listPrice": {
+            "amount": 79.5,
+            "formatted": "$79.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/french-terry-sweatpants/J8808",
+          "productCode": "J8808",
+          "tiles": ["GY6469"],
+          "folderId": null,
+          "defaultColorCode": "GY6469",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_feature/NewArrivals/justin/PRD~J8808/J8808.jsp"
+        },
+        {
+          "extended-size-group-id": "J61890",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6041_PA5599,J6384_BL8030",
+          "apiLink": "/data/v1/US/products/full/J6189/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d6"
+            }
+          ],
+          "productId": "845524441889035",
+          "productDescription": "Cotton twill trench coat",
+          "brand": "JCrew",
+          "priority": 61,
+          "listPrice": {
+            "amount": 188,
+            "formatted": "$188.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/cotton-twill-trench-coat/J6189",
+          "productCode": "J6189",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_d6",
+          "endeca-seo-url": "mens_category/outerwear/trench/PRD~J6189/J6189.jsp"
+        },
+        {
+          "extended-size-group-id": "K15950",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K1595/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "PA5789",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441895976",
+          "productDescription": "Stretch Secret Wash shirt in lady dallas print",
+          "brand": "JCrew",
+          "priority": 62,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/stretch-secret-wash-shirt-in-lady-dallas-print/K1595",
+          "productCode": "K1595",
+          "tiles": ["PA5789"],
+          "folderId": null,
+          "variations": "K1602,K1601,K1603",
+          "defaultColorCode": "PA5789",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~K1595/K1595.jsp"
+        },
+        {
+          "extended-size-group-id": "J0692EG96280",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J0692/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BOA DEEP COBALT",
+              "colorCode": "EG6604",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "BUTTERNUT",
+              "colorCode": "EG9626",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "MILITARY OLIVE",
+              "colorCode": "EG9627",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "SILVER BIRCH",
+              "colorCode": "EG9628",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            }
+          ],
+          "productId": "845524441887699",
+          "productDescription": "Karhu® Fusion 2.0 sneakers",
+          "brand": "JCrew",
+          "priority": 66,
+          "listPrice": {
+            "amount": 140,
+            "formatted": "$140.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/karhu-fusion-20-sneakers/J0692",
+          "productCode": "J0692",
+          "tiles": ["EG9628"],
+          "folderId": null,
+          "defaultColorCode": "EG9627",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d2,_d3",
+          "endeca-seo-url": "mens_category/brandswelove/shoes/PRD~J0692/J0692.jsp"
+        },
+        {
+          "extended-size-group-id": "J0692EG96260",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J0692/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BOA DEEP COBALT",
+              "colorCode": "EG6604",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "BUTTERNUT",
+              "colorCode": "EG9626",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "MILITARY OLIVE",
+              "colorCode": "EG9627",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "SILVER BIRCH",
+              "colorCode": "EG9628",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            }
+          ],
+          "productId": "845524441887699",
+          "productDescription": "Karhu® Fusion 2.0 sneakers",
+          "brand": "JCrew",
+          "priority": 66,
+          "listPrice": {
+            "amount": 140,
+            "formatted": "$140.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/karhu-fusion-20-sneakers/J0692",
+          "productCode": "J0692",
+          "tiles": ["EG9626"],
+          "folderId": null,
+          "defaultColorCode": "EG9627",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d2,_d3",
+          "endeca-seo-url": "mens_category/brandswelove/shoes/PRD~J0692/J0692.jsp"
+        },
+        {
+          "extended-size-group-id": "J0692EG96270",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J0692/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BOA DEEP COBALT",
+              "colorCode": "EG6604",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "BUTTERNUT",
+              "colorCode": "EG9626",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "MILITARY OLIVE",
+              "colorCode": "EG9627",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "SILVER BIRCH",
+              "colorCode": "EG9628",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            }
+          ],
+          "productId": "845524441887699",
+          "productDescription": "Karhu® Fusion 2.0 sneakers",
+          "brand": "JCrew",
+          "priority": 66,
+          "listPrice": {
+            "amount": 140,
+            "formatted": "$140.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/karhu-fusion-20-sneakers/J0692",
+          "productCode": "J0692",
+          "tiles": ["EG9627"],
+          "folderId": null,
+          "defaultColorCode": "EG9627",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d2,_d3",
+          "endeca-seo-url": "mens_category/brandswelove/shoes/PRD~J0692/J0692.jsp"
+        },
+        {
+          "extended-size-group-id": "J0692EG66040",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J0692/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "BOA DEEP COBALT",
+              "colorCode": "EG6604",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "BUTTERNUT",
+              "colorCode": "EG9626",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "MILITARY OLIVE",
+              "colorCode": "EG9627",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "SILVER BIRCH",
+              "colorCode": "EG9628",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            }
+          ],
+          "productId": "845524441887699",
+          "productDescription": "Karhu® Fusion 2.0 sneakers",
+          "brand": "JCrew",
+          "priority": 66,
+          "listPrice": {
+            "amount": 140,
+            "formatted": "$140.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/karhu-fusion-20-sneakers/J0692",
+          "productCode": "J0692",
+          "tiles": ["EG6604"],
+          "folderId": null,
+          "defaultColorCode": "EG9627",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d2,_d3",
+          "endeca-seo-url": "mens_category/brandswelove/shoes/PRD~J0692/J0692.jsp"
+        },
+        {
+          "extended-size-group-id": "J89340",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8934/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "CLOUD MULTI",
+              "colorCode": "PA5768",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441895977",
+          "productDescription": "American Pima cotton daisy print oxford shirt with mechanical stretch",
+          "brand": "JCrew",
+          "priority": 75,
+          "listPrice": {
+            "amount": 79.5,
+            "formatted": "$79.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/american-pima-cotton-daisy-print-oxford-shirt-with-mechanical-stretch/J8934",
+          "productCode": "J8934",
+          "tiles": ["PA5768"],
+          "folderId": null,
+          "variations": "J8936,J8935,J8937",
+          "defaultColorCode": "PA5768",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J8934/J8934.jsp"
+        },
+        {
+          "extended-size-group-id": "E15890",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "E1589_BR6159,H0684_KL8040,17554_SP4569",
+          "apiLink": "/data/v1/US/products/full/E1589/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "SUBTLE PINK",
+              "colorCode": "PK6603",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d2"
+            },
+            {
+              "colorName": "FADED CHINO",
+              "colorCode": "WX1309",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "DEEPEST NAVY",
+              "colorCode": "BL9260",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "COAL GREY",
+              "colorCode": "GY7317",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "CATSKILL GREEN",
+              "colorCode": "GR6993",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "RIVER BROWN",
+              "colorCode": "BR7046",
+              "hasOnfig": true,
+              "skuShotType": "_m,_v"
+            },
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "MAHOGANY",
+              "colorCode": "BR6159",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "CLASSIC BURGUNDY",
+              "colorCode": "WX0691",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_v"
+            },
+            {
+              "colorName": "WORKWEAR BROWN",
+              "colorCode": "WX0485",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "PINE GREEN",
+              "colorCode": "WX1868",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "OLD RED",
+              "colorCode": "WX2292",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            }
+          ],
+          "productId": "845524441856792",
+          "productDescription": "484 Slim-fit pant in stretch chino",
+          "brand": "JCrew",
+          "priority": 78,
+          "listPrice": {
+            "amount": 68,
+            "formatted": "$68.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/484-slimfit-pant-in-stretch-chino/E1589",
+          "productCode": "E1589",
+          "tiles": ["PK6603"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX0691",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_v",
+          "endeca-seo-url": "mens_category/pants/Slim/PRD~E1589/E1589.jsp"
+        },
+        {
+          "extended-size-group-id": "J9672EG95210",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J9672/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "COLA SUEDE",
+              "colorCode": "EG9520",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "GREY SUEDE",
+              "colorCode": "EG9521",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            }
+          ],
+          "productId": "845524441892749",
+          "productDescription": "Clarks® Originals Wallabee® shoes in suede",
+          "brand": "JCrew",
+          "priority": 84,
+          "listPrice": {
+            "amount": 140,
+            "formatted": "$140.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/clarks-originals-wallabee-shoes-in-suede/J9672",
+          "productCode": "J9672",
+          "tiles": ["EG9521"],
+          "folderId": null,
+          "defaultColorCode": "EG9520",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d2,_d3",
+          "endeca-seo-url": "mens_category/brandswelove/shoes/PRD~J9672/J9672.jsp"
+        },
+        {
+          "extended-size-group-id": "J9672EG95200",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J9672/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "COLA SUEDE",
+              "colorCode": "EG9520",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            },
+            {
+              "colorName": "GREY SUEDE",
+              "colorCode": "EG9521",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d2,_d3"
+            }
+          ],
+          "productId": "845524441892749",
+          "productDescription": "Clarks® Originals Wallabee® shoes in suede",
+          "brand": "JCrew",
+          "priority": 84,
+          "listPrice": {
+            "amount": 140,
+            "formatted": "$140.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/clarks-originals-wallabee-shoes-in-suede/J9672",
+          "productCode": "J9672",
+          "tiles": ["EG9520"],
+          "folderId": null,
+          "defaultColorCode": "EG9520",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d2,_d3",
+          "endeca-seo-url": "mens_category/brandswelove/shoes/PRD~J9672/J9672.jsp"
+        },
+        {
+          "extended-size-group-id": "G89430",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "G8943_BL6054,J5242_DM2264,J7105_BL8133",
+          "apiLink": "/data/v1/US/products/full/G8943/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "MARLED OBSIDIAN",
+              "colorCode": "BL6054",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "HTHR SANDSTONE",
+              "colorCode": "NA6503",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441879751",
+          "productDescription": "Cotton-wool sweater hoodie",
+          "brand": "JCrew",
+          "priority": 85,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/cottonwool-sweater-hoodie/G8943",
+          "productCode": "G8943",
+          "tiles": ["GY6469"],
+          "folderId": null,
+          "defaultColorCode": "BL6054",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_category/sweaters/pullover/PRD~G8943/G8943.jsp"
+        },
+        {
+          "extended-size-group-id": "H00950",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "H0095_SU1475,J5023_WX0643,J2093_WT0002",
+          "apiLink": "/data/v1/US/products/full/H0095/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR OBSIDIAN",
+              "colorCode": "SU1475",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            }
+          ],
+          "productId": "845524441879988",
+          "productDescription": "Cotton-wool crewneck sweater in stripe",
+          "brand": "JCrew",
+          "priority": 88,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/cottonwool-crewneck-sweater-in-stripe/H0095",
+          "productCode": "H0095",
+          "tiles": ["SU1475"],
+          "folderId": null,
+          "defaultColorCode": "SU1475",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_category/sweaters/pullover/PRD~H0095/H0095.jsp"
+        },
+        {
+          "extended-size-group-id": "K55710",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K5571/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "PA5542",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441894159",
+          "productDescription": "J.Crew Mercantile boxer in woodland mushrooms print",
+          "brand": "JCrew",
+          "priority": 91,
+          "listPrice": {
+            "amount": 16.5,
+            "formatted": "$16.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/jcrew-mercantile-boxer-in-woodland-mushrooms-print/K5571",
+          "productCode": "K5571",
+          "tiles": ["PA5542"],
+          "folderId": null,
+          "defaultColorCode": "PA5542",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "mens_category/underwearpajamas/boxers/PRD~K5571/K5571.jsp"
+        },
+        {
+          "extended-size-group-id": "J62500",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6384_BL8133,C9382_DM1082",
+          "apiLink": "/data/v1/US/products/full/J6250/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "INDIGO MOLESKIN",
+              "colorCode": "WX2915",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d3,_d4,_d6"
+            }
+          ],
+          "productId": "845524441889586",
+          "productDescription": "Wallace & Barnes chore jacket in indigo moleskin",
+          "brand": "JCrew",
+          "priority": 95,
+          "listPrice": {
+            "amount": 218,
+            "formatted": "$218.00"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/wallace-barnes-chore-jacket-in-indigo-moleskin/J6250",
+          "productCode": "J6250",
+          "tiles": ["WX2915"],
+          "folderId": null,
+          "defaultColorCode": "WX2915",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d3,_d4,_d6",
+          "endeca-seo-url": "mens_category/outerwear/shirt_jacket/PRD~J6250/J6250.jsp"
+        },
+        {
+          "extended-size-group-id": "J69330",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J6933_BR6159,J5242_DM2264",
+          "apiLink": "/data/v1/US/products/full/J6933/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "MAHOGANY",
+              "colorCode": "BR6159",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "BLACK",
+              "colorCode": "BK0001",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441889401",
+          "productDescription": "Destination raglan-sleeve T-shirt in American Pima cotton",
+          "brand": "JCrew",
+          "priority": 99,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/destination-raglansleeve-tshirt-in-american-pima-cotton/J6933",
+          "productCode": "J6933",
+          "tiles": ["WT0002"],
+          "folderId": null,
+          "variations": "J6934",
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "BR6159",
+          "alsoIn": "Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_category/polos_tees/PRD~J6933/J6933.jsp"
+        },
+        {
+          "extended-size-group-id": "J75530",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J7553_SU1049,J1785_WT0002,J6043_BL7518",
+          "apiLink": "/data/v1/US/products/full/J7553/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "SU1049",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1"
+            }
+          ],
+          "productId": "845524441889013",
+          "productDescription": "Rugged merino wool crewneck sweater in stripe",
+          "brand": "JCrew",
+          "priority": 99,
+          "listPrice": {
+            "amount": 89.5,
+            "formatted": "$89.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/rugged-merino-wool-crewneck-sweater-in-stripe/J7553",
+          "productCode": "J7553",
+          "tiles": ["SU1049"],
+          "folderId": null,
+          "defaultColorCode": "SU1049",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1",
+          "endeca-seo-url": "mens_category/sweaters/pullover/PRD~J7553/J7553.jsp"
+        },
+        {
+          "extended-size-group-id": "J87670",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "J8767_SU1078,J1785_WT0002,H7178_DM2035",
+          "apiLink": "/data/v1/US/products/full/J8767/c/mens_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "SU1078",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2"
+            },
+            {
+              "colorName": "HTHR ARTICHOKE",
+              "colorCode": "SU1077",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441893309",
+          "productDescription": "Cotton-wool crewneck sweater",
+          "brand": "JCrew",
+          "priority": 100,
+          "listPrice": {
+            "amount": 79.5,
+            "formatted": "$79.50"
+          },
+          "url": "/p/mens_feature/newarrivals/justin/cottonwool-crewneck-sweater/J8767",
+          "productCode": "J8767",
+          "tiles": ["SU1078"],
+          "folderId": null,
+          "defaultColorCode": "SU1078",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2",
+          "endeca-seo-url": "mens_category/sweaters/pullover/PRD~J8767/J8767.jsp"
+        }
+      ],
+      "folderId": "2534374302102737"
+    },
+    {
+      "header": "shirts",
+      "products": [
+        {
+          "extended-size-group-id": "J6129WX27730",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 1,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2773"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX27740",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 1,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2774"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX27750",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 1,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2775"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX31950",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 1,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX3195"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX27720",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 1,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2772"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6129WX27760",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J6129_WX2773,J5187_DM2263",
+          "apiLink": "/data/v1/US/products/full/J6129/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "PUMPKIN MELANGE",
+              "colorCode": "WX2772",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE",
+              "colorCode": "WX2773",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "BLACK MELANGE",
+              "colorCode": "WX2774",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GREY MELANGE STRIPE",
+              "colorCode": "WX2775",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MELANGE STRIPE",
+              "colorCode": "WX2776",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "IVORY",
+              "colorCode": "WX3195",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889191",
+          "productDescription": "Japanese slub herringbone shirt",
+          "brand": "JCrew",
+          "priority": 1,
+          "listPrice": {
+            "amount": 98,
+            "formatted": "$98.00"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/japanese-slub-herringbone-shirt/J6129",
+          "productCode": "J6129",
+          "tiles": ["WX2776"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2773",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6129/J6129.jsp"
+        },
+        {
+          "extended-size-group-id": "J6678WX27650",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J6678/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE HEATHER",
+              "colorCode": "WX2761",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "BEDFORD COAL HEATHER",
+              "colorCode": "WX2762",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY HEATHER",
+              "colorCode": "WX2763",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "STONE HEATHER",
+              "colorCode": "WX2764",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SAFARI FATIGUE HEATHER",
+              "colorCode": "WX2765",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889474",
+          "productDescription": "Neppy cotton twill shirt",
+          "brand": "JCrew",
+          "priority": 2,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/neppy-cotton-twill-shirt/J6678",
+          "productCode": "J6678",
+          "tiles": ["WX2765"],
+          "folderId": null,
+          "variations": "J6737,J6726",
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2761",
+          "alsoIn": "Slim, Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6678/J6678.jsp"
+        },
+        {
+          "extended-size-group-id": "J6678WX27640",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J6678/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE HEATHER",
+              "colorCode": "WX2761",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "BEDFORD COAL HEATHER",
+              "colorCode": "WX2762",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY HEATHER",
+              "colorCode": "WX2763",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "STONE HEATHER",
+              "colorCode": "WX2764",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SAFARI FATIGUE HEATHER",
+              "colorCode": "WX2765",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889474",
+          "productDescription": "Neppy cotton twill shirt",
+          "brand": "JCrew",
+          "priority": 2,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/neppy-cotton-twill-shirt/J6678",
+          "productCode": "J6678",
+          "tiles": ["WX2764"],
+          "folderId": null,
+          "variations": "J6737,J6726",
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2761",
+          "alsoIn": "Slim, Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6678/J6678.jsp"
+        },
+        {
+          "extended-size-group-id": "J6678WX27610",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J6678/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE HEATHER",
+              "colorCode": "WX2761",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "BEDFORD COAL HEATHER",
+              "colorCode": "WX2762",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY HEATHER",
+              "colorCode": "WX2763",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "STONE HEATHER",
+              "colorCode": "WX2764",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SAFARI FATIGUE HEATHER",
+              "colorCode": "WX2765",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889474",
+          "productDescription": "Neppy cotton twill shirt",
+          "brand": "JCrew",
+          "priority": 2,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/neppy-cotton-twill-shirt/J6678",
+          "productCode": "J6678",
+          "tiles": ["WX2761"],
+          "folderId": null,
+          "variations": "J6737,J6726",
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2761",
+          "alsoIn": "Slim, Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6678/J6678.jsp"
+        },
+        {
+          "extended-size-group-id": "J6678WX27620",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J6678/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE HEATHER",
+              "colorCode": "WX2761",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "BEDFORD COAL HEATHER",
+              "colorCode": "WX2762",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY HEATHER",
+              "colorCode": "WX2763",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "STONE HEATHER",
+              "colorCode": "WX2764",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SAFARI FATIGUE HEATHER",
+              "colorCode": "WX2765",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889474",
+          "productDescription": "Neppy cotton twill shirt",
+          "brand": "JCrew",
+          "priority": 2,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/neppy-cotton-twill-shirt/J6678",
+          "productCode": "J6678",
+          "tiles": ["WX2762"],
+          "folderId": null,
+          "variations": "J6737,J6726",
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2761",
+          "alsoIn": "Slim, Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6678/J6678.jsp"
+        },
+        {
+          "extended-size-group-id": "J6678WX27630",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J6678/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE HEATHER",
+              "colorCode": "WX2761",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "BEDFORD COAL HEATHER",
+              "colorCode": "WX2762",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY HEATHER",
+              "colorCode": "WX2763",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "STONE HEATHER",
+              "colorCode": "WX2764",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SAFARI FATIGUE HEATHER",
+              "colorCode": "WX2765",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889474",
+          "productDescription": "Neppy cotton twill shirt",
+          "brand": "JCrew",
+          "priority": 2,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/neppy-cotton-twill-shirt/J6678",
+          "productCode": "J6678",
+          "tiles": ["WX2763"],
+          "folderId": null,
+          "variations": "J6737,J6726",
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX2761",
+          "alsoIn": "Slim, Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J6678/J6678.jsp"
+        },
+        {
+          "extended-size-group-id": "J89340",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8934/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "CLOUD MULTI",
+              "colorCode": "PA5768",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441895977",
+          "productDescription": "American Pima cotton daisy print oxford shirt with mechanical stretch",
+          "brand": "JCrew",
+          "priority": 30,
+          "listPrice": {
+            "amount": 79.5,
+            "formatted": "$79.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/american-pima-cotton-daisy-print-oxford-shirt-with-mechanical-stretch/J8934",
+          "productCode": "J8934",
+          "tiles": ["PA5768"],
+          "folderId": null,
+          "variations": "J8936,J8935,J8937",
+          "defaultColorCode": "PA5768",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J8934/J8934.jsp"
+        },
+        {
+          "extended-size-group-id": "J89380",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8938/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "PA5739",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441895973",
+          "productDescription": "American Pima cotton floral print oxford shirt with mechanical stretch",
+          "brand": "JCrew",
+          "priority": 30,
+          "listPrice": {
+            "amount": 79.5,
+            "formatted": "$79.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/american-pima-cotton-floral-print-oxford-shirt-with-mechanical-stretch/J8938",
+          "productCode": "J8938",
+          "tiles": ["PA5739"],
+          "folderId": null,
+          "variations": "J8940,J8939,J8941",
+          "defaultColorCode": "PA5739",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J8938/J8938.jsp"
+        },
+        {
+          "extended-size-group-id": "K16040",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K1604/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "DARK SEAWEED",
+              "colorCode": "PA5785",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441895968",
+          "productDescription": "Stretch Secret Wash shirt in dog print",
+          "brand": "JCrew",
+          "priority": 40,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-dog-print/K1604",
+          "productCode": "K1604",
+          "tiles": ["PA5785"],
+          "folderId": null,
+          "variations": "K1606,K1605,K1607",
+          "defaultColorCode": "PA5785",
+          "alsoIn": "Slim, Tall",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~K1604/K1604.jsp"
+        },
+        {
+          "extended-size-group-id": "K15950",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K1595/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "PA5789",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441895976",
+          "productDescription": "Stretch Secret Wash shirt in lady dallas print",
+          "brand": "JCrew",
+          "priority": 41,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-lady-dallas-print/K1595",
+          "productCode": "K1595",
+          "tiles": ["PA5789"],
+          "folderId": null,
+          "variations": "K1602,K1601,K1603",
+          "defaultColorCode": "PA5789",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~K1595/K1595.jsp"
+        },
+        {
+          "extended-size-group-id": "J89260",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8926/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY MULTI",
+              "colorCode": "PA5666",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441893259",
+          "productDescription": "Stretch Secret Wash shirt in white floral print",
+          "brand": "JCrew",
+          "priority": 42,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-white-floral-print/J8926",
+          "productCode": "J8926",
+          "tiles": ["PA5666"],
+          "folderId": null,
+          "variations": "J8928,J8927,J8929",
+          "defaultColorCode": "PA5666",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J8926/J8926.jsp"
+        },
+        {
+          "extended-size-group-id": "H47320",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/H4732/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "LIGHT HICKORY",
+              "colorCode": "PA3461",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d7"
+            }
+          ],
+          "productId": "845524441885717",
+          "productDescription": "Stretch Secret Wash shirt in dotted bronze",
+          "brand": "JCrew",
+          "priority": 43,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-dotted-bronze/H4732",
+          "productCode": "H4732",
+          "tiles": ["PA3461"],
+          "folderId": null,
+          "variations": "H4734,H4733,H8099",
+          "defaultColorCode": "PA3461",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~H4732/H4732.jsp"
+        },
+        {
+          "extended-size-group-id": "H47210",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "styledWithSkus": "H4721_PA3915,E1590_BK0001",
+          "apiLink": "/data/v1/US/products/full/H4721/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "CARAVAN BLUE",
+              "colorCode": "PA3915",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d7"
+            }
+          ],
+          "productId": "845524441886012",
+          "productDescription": "Stretch Secret Wash shirt in blue crosshatch",
+          "brand": "JCrew",
+          "priority": 44,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-blue-crosshatch/H4721",
+          "productCode": "H4721",
+          "tiles": ["PA3915"],
+          "folderId": null,
+          "variations": "H4723,H4722,H8090",
+          "defaultColorCode": "PA3915",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~H4721/H4721.jsp"
+        },
+        {
+          "extended-size-group-id": "J5663WX26070",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J5663_WX2607,G9487_NA5810",
+          "apiLink": "/data/v1/US/products/full/J5663/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BEDFORD COAL",
+              "colorCode": "WX2607",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "FROSTY OLIVE",
+              "colorCode": "WX2608",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889244",
+          "productDescription": "Stretch Secret Wash shirt in geometric floral print",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 45,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-geometric-floral-print/J5663",
+          "productCode": "J5663",
+          "tiles": ["WX2607"],
+          "folderId": null,
+          "variations": "J5665,J5664,J5671",
+          "defaultColorCode": "WX2607",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J5663/J5663.jsp"
+        },
+        {
+          "extended-size-group-id": "J5663WX26080",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "J5663_WX2607,G9487_NA5810",
+          "apiLink": "/data/v1/US/products/full/J5663/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BEDFORD COAL",
+              "colorCode": "WX2607",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "FROSTY OLIVE",
+              "colorCode": "WX2608",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889244",
+          "productDescription": "Stretch Secret Wash shirt in geometric floral print",
+          "brand": "JCrew",
+          "priority": 45,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-geometric-floral-print/J5663",
+          "productCode": "J5663",
+          "tiles": ["WX2608"],
+          "folderId": null,
+          "variations": "J5665,J5664,J5671",
+          "defaultColorCode": "WX2607",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d2,_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~J5663/J5663.jsp"
+        },
+        {
+          "extended-size-group-id": "H9627WX26720",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "H9627_WX2563,C9382_DM1082",
+          "apiLink": "/data/v1/US/products/full/H9627/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2559",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MAHOGANY",
+              "colorCode": "WX2671",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "PINK",
+              "colorCode": "WX2672",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "CLASSIC SKY",
+              "colorCode": "WX2673",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441886210",
+          "productDescription": "Stretch Secret Wash shirt in tattersall",
+          "brand": "JCrew",
+          "showOnfigImage": true,
+          "priority": 46,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-tattersall/H9627",
+          "productCode": "H9627",
+          "tiles": ["WX2672"],
+          "folderId": null,
+          "variations": "H9629,H9628,H9639",
+          "defaultColorCode": "WX2671",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~H9627/H9627.jsp"
+        },
+        {
+          "extended-size-group-id": "H9627WX25590",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "H9627_WX2563,C9382_DM1082",
+          "apiLink": "/data/v1/US/products/full/H9627/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2559",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MAHOGANY",
+              "colorCode": "WX2671",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "PINK",
+              "colorCode": "WX2672",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "CLASSIC SKY",
+              "colorCode": "WX2673",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441886210",
+          "productDescription": "Stretch Secret Wash shirt in tattersall",
+          "brand": "JCrew",
+          "priority": 46,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-tattersall/H9627",
+          "productCode": "H9627",
+          "tiles": ["WX2559"],
+          "folderId": null,
+          "variations": "H9629,H9628,H9639",
+          "defaultColorCode": "WX2671",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~H9627/H9627.jsp"
+        },
+        {
+          "extended-size-group-id": "H9627WX26730",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "H9627_WX2563,C9382_DM1082",
+          "apiLink": "/data/v1/US/products/full/H9627/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2559",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MAHOGANY",
+              "colorCode": "WX2671",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "PINK",
+              "colorCode": "WX2672",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "CLASSIC SKY",
+              "colorCode": "WX2673",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441886210",
+          "productDescription": "Stretch Secret Wash shirt in tattersall",
+          "brand": "JCrew",
+          "priority": 46,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-tattersall/H9627",
+          "productCode": "H9627",
+          "tiles": ["WX2673"],
+          "folderId": null,
+          "variations": "H9629,H9628,H9639",
+          "defaultColorCode": "WX2671",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~H9627/H9627.jsp"
+        },
+        {
+          "extended-size-group-id": "H9627WX26710",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "styledWithSkus": "H9627_WX2563,C9382_DM1082",
+          "apiLink": "/data/v1/US/products/full/H9627/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2559",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY MAHOGANY",
+              "colorCode": "WX2671",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "PINK",
+              "colorCode": "WX2672",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d2,_d7"
+            },
+            {
+              "colorName": "CLASSIC SKY",
+              "colorCode": "WX2673",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441886210",
+          "productDescription": "Stretch Secret Wash shirt in tattersall",
+          "brand": "JCrew",
+          "priority": 46,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/stretch-secret-wash-shirt-in-tattersall/H9627",
+          "productCode": "H9627",
+          "tiles": ["WX2671"],
+          "folderId": null,
+          "variations": "H9629,H9628,H9639",
+          "defaultColorCode": "WX2671",
+          "alsoIn": "Slim, Tall, Untucked",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/shirts/ClassicFitShirts/PRD~H9627/H9627.jsp"
+        },
+        {
+          "extended-size-group-id": "J4922WX26500",
+          "extendedSize": "Slim",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4894/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2650",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "PINK",
+              "colorCode": "WX2651",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2665",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441893311",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in mini windowpane",
+          "brand": "JCrew",
+          "priority": 54,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-mini-windowpane/J4894",
+          "productCode": "J4894",
+          "tiles": ["WX2650"],
+          "baseColorCode": "WX2665",
+          "folderId": null,
+          "variations": "J4922",
+          "baseProductCode": "J4922",
+          "defaultColorCode": "WX2651",
+          "alsoIn": "Classic",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4894/J4894.jsp",
+          "promoText": "3 for $150"
+        },
+        {
+          "extended-size-group-id": "J4922WX26510",
+          "extendedSize": "Slim",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4894/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2650",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "PINK",
+              "colorCode": "WX2651",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2665",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441893311",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in mini windowpane",
+          "brand": "JCrew",
+          "priority": 54,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-mini-windowpane/J4894",
+          "productCode": "J4894",
+          "tiles": ["WX2651"],
+          "baseColorCode": "WX2665",
+          "folderId": null,
+          "variations": "J4922",
+          "baseProductCode": "J4922",
+          "defaultColorCode": "WX2651",
+          "alsoIn": "Classic",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4894/J4894.jsp",
+          "promoText": "3 for $150"
+        },
+        {
+          "extended-size-group-id": "J4922WX26650",
+          "extendedSize": "Slim",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4894/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2650",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "PINK",
+              "colorCode": "WX2651",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2665",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441893311",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in mini windowpane",
+          "brand": "JCrew",
+          "priority": 54,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-mini-windowpane/J4894",
+          "productCode": "J4894",
+          "tiles": ["WX2665"],
+          "baseColorCode": "WX2665",
+          "folderId": null,
+          "variations": "J4922",
+          "baseProductCode": "J4922",
+          "defaultColorCode": "WX2651",
+          "alsoIn": "Classic",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4894/J4894.jsp",
+          "promoText": "3 for $150"
+        },
+        {
+          "extended-size-group-id": "H60890",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/H6089/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "WX2582",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "LAVENDER",
+              "colorCode": "WX2293",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "NAVY IVORY",
+              "colorCode": "WX2583",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "PINK",
+              "colorCode": "WX2581",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441884198",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in microcheck",
+          "brand": "JCrew",
+          "priority": 54,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-microcheck/H6089",
+          "productCode": "H6089",
+          "tiles": ["WX2582"],
+          "folderId": null,
+          "variations": "H6087",
+          "defaultColorCode": "WX2293",
+          "alsoIn": "Slim",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~H6089/H6089.jsp",
+          "promoText": "3 for $150"
+        },
+        {
+          "extended-size-group-id": "J4887WX26480",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4887/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2647",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GATLIN GREEN",
+              "colorCode": "WX2648",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2705",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889609",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in blue tattersall",
+          "brand": "JCrew",
+          "priority": 55,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-blue-tattersall/J4887",
+          "productCode": "J4887",
+          "tiles": ["WX2648"],
+          "folderId": null,
+          "variations": "J4888",
+          "defaultColorCode": "WX2648",
+          "alsoIn": "Slim",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4887/J4887.jsp"
+        },
+        {
+          "extended-size-group-id": "J4887WX27050",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4887/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2647",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GATLIN GREEN",
+              "colorCode": "WX2648",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2705",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889609",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in blue tattersall",
+          "brand": "JCrew",
+          "priority": 55,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-blue-tattersall/J4887",
+          "productCode": "J4887",
+          "tiles": ["WX2705"],
+          "folderId": null,
+          "variations": "J4888",
+          "defaultColorCode": "WX2648",
+          "alsoIn": "Slim",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4887/J4887.jsp"
+        },
+        {
+          "extended-size-group-id": "J4887WX26470",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4887/c/mens_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BURGUNDY",
+              "colorCode": "WX2647",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "GATLIN GREEN",
+              "colorCode": "WX2648",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            },
+            {
+              "colorName": "SEASHORE BLUE",
+              "colorCode": "WX2705",
+              "hasOnfig": false,
+              "skuShotType": "_d7"
+            }
+          ],
+          "productId": "845524441889609",
+          "productDescription": "Ludlow stretch two-ply easy-care cotton dress shirt in blue tattersall",
+          "brand": "JCrew",
+          "priority": 55,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/mens_feature/newarrivals/shirts/ludlow-stretch-twoply-easycare-cotton-dress-shirt-in-blue-tattersall/J4887",
+          "productCode": "J4887",
+          "tiles": ["WX2647"],
+          "folderId": null,
+          "variations": "J4888",
+          "defaultColorCode": "WX2648",
+          "alsoIn": "Slim",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d7",
+          "endeca-seo-url": "mens_category/dressshirts/classicdressshirts/PRD~J4887/J4887.jsp"
+        }
+      ],
+      "folderId": "2534374302104119"
+    }
+  ],
+  "navigation": {
+    "refinements": [
+      {
+        "name": "BrowseNavigation",
+        "values": [
+          {
+            "id": 1000000299,
+            "count": "50",
+            "label": "Just In",
+            "sortOrder": 1,
+            "gender": "men",
+            "queryName": "justin",
+            "folder_id": "2534374302102737",
+            "seo": "mens_feature/NewArrivals/justin.jsp"
+          },
+          {
+            "id": 1000000300,
+            "count": "31",
+            "label": "shirts",
+            "sortOrder": 2,
+            "gender": "men",
+            "queryName": "shirts",
+            "folder_id": "2534374302104119",
+            "seo": "mens_feature/NewArrivals/shirts.jsp"
+          },
+          {
+            "id": 1000000301,
+            "count": "27",
+            "label": "t-shirts & polos",
+            "sortOrder": 3,
+            "gender": "men",
+            "queryName": "polostees",
+            "folder_id": "2534374302023712",
+            "seo": "mens_feature/NewArrivals/polostees.jsp"
+          },
+          {
+            "id": 1000000302,
+            "count": "56",
+            "label": "sweaters",
+            "sortOrder": 4,
+            "gender": "men",
+            "queryName": "sweaters",
+            "folder_id": "2534374302023684",
+            "seo": "mens_feature/NewArrivals/sweaters.jsp"
+          },
+          {
+            "id": 1000000303,
+            "count": "52",
+            "label": "pants",
+            "sortOrder": 5,
+            "gender": "men",
+            "queryName": "pants",
+            "folder_id": "2534374302023707",
+            "seo": "mens_feature/NewArrivals/pants.jsp"
+          },
+          {
+            "id": 1000000304,
+            "count": "30",
+            "label": "denim",
+            "sortOrder": 6,
+            "gender": "men",
+            "queryName": "denim",
+            "folder_id": "2534374302107217",
+            "seo": "mens_feature/NewArrivals/denim.jsp"
+          },
+          {
+            "id": 1000000305,
+            "count": "22",
+            "label": "sweatshirts & sweatpants",
+            "sortOrder": 7,
+            "gender": "men",
+            "queryName": "sweats",
+            "folder_id": "2534374302107185",
+            "seo": "mens_feature/NewArrivals/sweats.jsp"
+          },
+          {
+            "id": 1000000306,
+            "count": "21",
+            "label": "coats & jackets",
+            "sortOrder": 9,
+            "gender": "men",
+            "queryName": "coatsandjackets",
+            "folder_id": "2534374302038373",
+            "seo": "mens_feature/NewArrivals/coatsandjackets.jsp"
+          },
+          {
+            "id": 1000000307,
+            "count": "9",
+            "label": "blazers & vests",
+            "sortOrder": 10,
+            "gender": "men",
+            "queryName": "blazerssandvests",
+            "folder_id": "2534374302033744",
+            "seo": "mens_feature/NewArrivals/blazerssandvests.jsp"
+          },
+          {
+            "id": 1000000308,
+            "count": "17",
+            "label": "suiting",
+            "sortOrder": 11,
+            "gender": "men",
+            "queryName": "suiting",
+            "folder_id": "2534374302028634",
+            "seo": "mens_feature/NewArrivals/suiting.jsp"
+          },
+          {
+            "id": 1000000309,
+            "count": "30",
+            "label": "shoes",
+            "sortOrder": 12,
+            "gender": "men",
+            "queryName": "shoes",
+            "folder_id": "2534374302030924",
+            "seo": "mens_feature/NewArrivals/shoes.jsp"
+          },
+          {
+            "id": 1000000310,
+            "count": "40",
+            "label": "socks",
+            "sortOrder": 13,
+            "gender": "men",
+            "queryName": "socks",
+            "folder_id": "2534374302101311",
+            "seo": "mens_feature/NewArrivals/socks.jsp"
+          },
+          {
+            "id": 1000000311,
+            "count": "28",
+            "label": "underwear & pajamas",
+            "sortOrder": 14,
+            "gender": "men",
+            "queryName": "underwearpajamas",
+            "folder_id": "2534374302023711",
+            "seo": "mens_feature/NewArrivals/underwearpajamas.jsp"
+          },
+          {
+            "id": 1000000312,
+            "count": "24",
+            "label": "bags",
+            "sortOrder": 15,
+            "gender": "men",
+            "queryName": "bags",
+            "folder_id": "2534374302101863",
+            "seo": "mens_feature/NewArrivals/bags.jsp"
+          },
+          {
+            "id": 1000000313,
+            "count": "29",
+            "label": "accessories",
+            "sortOrder": 16,
+            "gender": "men",
+            "queryName": "accessories",
+            "folder_id": "2534374302023701",
+            "seo": "mens_feature/NewArrivals/accessories.jsp"
+          },
+          {
+            "id": 1000000314,
+            "count": "16",
+            "label": "ties & pocket squares",
+            "sortOrder": 17,
+            "gender": "men",
+            "queryName": "tiespocketsquares",
+            "folder_id": "2534374302030881",
+            "seo": "mens_feature/NewArrivals/tiespocketsquares.jsp"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Size Chart",
+        "values": [
+          {
+            "group": 10,
+            "values": [
+              {
+                "id": 954,
+                "count": "14",
+                "label": "Slim",
+                "sortOrder": "B",
+                "queryName": "size-slim"
+              },
+              {
+                "id": 953,
+                "count": "32",
+                "label": "Tall",
+                "sortOrder": "C",
+                "queryName": "size-tall"
+              },
+              {
+                "id": 2003,
+                "count": "426",
+                "label": "Regular",
+                "sortOrder": "D",
+                "queryName": "size-regular"
+              }
+            ]
+          },
+          {
+            "group": 500,
+            "values": [
+              {
+                "id": 11996,
+                "count": "150",
+                "label": "X-SMALL",
+                "sortOrder": 66
+              },
+              {
+                "id": 11997,
+                "count": "170",
+                "label": "SMALL",
+                "sortOrder": 67
+              },
+              {
+                "id": 11998,
+                "count": "171",
+                "label": "MEDIUM",
+                "sortOrder": 68
+              },
+              {
+                "id": 11999,
+                "count": "171",
+                "label": "LARGE",
+                "sortOrder": 69
+              },
+              {
+                "id": 12000,
+                "count": "168",
+                "label": "X-LARGE",
+                "sortOrder": 70
+              },
+              {
+                "id": 12001,
+                "count": "151",
+                "label": "XX-LARGE",
+                "sortOrder": 71
+              }
+            ]
+          },
+          {
+            "group": 600,
+            "values": [
+              {
+                "id": 12005,
+                "count": "6",
+                "label": "SMALL-MEDIUM",
+                "sortOrder": 79
+              },
+              {
+                "id": 12008,
+                "count": "6",
+                "label": "LARGE-XLARGE",
+                "sortOrder": 82
+              }
+            ]
+          },
+          {
+            "group": 700,
+            "values": [
+              {
+                "id": 12017,
+                "count": "3",
+                "label": "30",
+                "sortOrder": 92
+              },
+              {
+                "id": 12019,
+                "count": "3",
+                "label": "32",
+                "sortOrder": 94
+              },
+              {
+                "id": 12021,
+                "count": "3",
+                "label": "34",
+                "sortOrder": 96
+              },
+              {
+                "id": 12023,
+                "count": "3",
+                "label": "36",
+                "sortOrder": 98
+              }
+            ]
+          },
+          {
+            "group": 900,
+            "values": [
+              {
+                "id": 12058,
+                "count": "22",
+                "label": "36/S",
+                "sortOrder": 134
+              },
+              {
+                "id": 12059,
+                "count": "23",
+                "label": "36/R",
+                "sortOrder": 135
+              },
+              {
+                "id": 12061,
+                "count": "22",
+                "label": "38/S",
+                "sortOrder": 137
+              },
+              {
+                "id": 12062,
+                "count": "24",
+                "label": "38/R",
+                "sortOrder": 138
+              },
+              {
+                "id": 12065,
+                "count": "21",
+                "label": "39/R",
+                "sortOrder": 141
+              },
+              {
+                "id": 12067,
+                "count": "22",
+                "label": "40/S",
+                "sortOrder": 143
+              },
+              {
+                "id": 12068,
+                "count": "24",
+                "label": "40/R",
+                "sortOrder": 144
+              },
+              {
+                "id": 12069,
+                "count": "21",
+                "label": "40/L",
+                "sortOrder": 145
+              },
+              {
+                "id": 12071,
+                "count": "22",
+                "label": "41/R",
+                "sortOrder": 147
+              },
+              {
+                "id": 12073,
+                "count": "21",
+                "label": "42/S",
+                "sortOrder": 149
+              },
+              {
+                "id": 12074,
+                "count": "24",
+                "label": "42/R",
+                "sortOrder": 150
+              },
+              {
+                "id": 12075,
+                "count": "22",
+                "label": "42/L",
+                "sortOrder": 151
+              },
+              {
+                "id": 12077,
+                "count": "24",
+                "label": "44/R",
+                "sortOrder": 153
+              },
+              {
+                "id": 12078,
+                "count": "22",
+                "label": "44/L",
+                "sortOrder": 154
+              },
+              {
+                "id": 12080,
+                "count": "23",
+                "label": "46/R",
+                "sortOrder": 156
+              },
+              {
+                "id": 12081,
+                "count": "22",
+                "label": "46/L",
+                "sortOrder": 157
+              },
+              {
+                "id": 12084,
+                "count": "1",
+                "label": "48/R",
+                "sortOrder": 160
+              }
+            ]
+          },
+          {
+            "group": 1000,
+            "values": [
+              {
+                "id": 12120,
+                "count": "15",
+                "label": "28/30",
+                "sortOrder": 201
+              },
+              {
+                "id": 12122,
+                "count": "56",
+                "label": "28/32",
+                "sortOrder": 203
+              },
+              {
+                "id": 12124,
+                "count": "1",
+                "label": "28/34",
+                "sortOrder": 205
+              },
+              {
+                "id": 12128,
+                "count": "44",
+                "label": "29/30",
+                "sortOrder": 210
+              },
+              {
+                "id": 12130,
+                "count": "77",
+                "label": "29/32",
+                "sortOrder": 212
+              },
+              {
+                "id": 12136,
+                "count": "77",
+                "label": "30/30",
+                "sortOrder": 219
+              },
+              {
+                "id": 12138,
+                "count": "78",
+                "label": "30/32",
+                "sortOrder": 221
+              },
+              {
+                "id": 12140,
+                "count": "48",
+                "label": "30/34",
+                "sortOrder": 223
+              },
+              {
+                "id": 12144,
+                "count": "78",
+                "label": "31/30",
+                "sortOrder": 228
+              },
+              {
+                "id": 12146,
+                "count": "79",
+                "label": "31/32",
+                "sortOrder": 230
+              },
+              {
+                "id": 12148,
+                "count": "20",
+                "label": "31/34",
+                "sortOrder": 232
+              },
+              {
+                "id": 12151,
+                "count": "80",
+                "label": "32/30",
+                "sortOrder": 237
+              },
+              {
+                "id": 12153,
+                "count": "83",
+                "label": "32/32",
+                "sortOrder": 239
+              },
+              {
+                "id": 12155,
+                "count": "84",
+                "label": "32/34",
+                "sortOrder": 241
+              },
+              {
+                "id": 12160,
+                "count": "72",
+                "label": "33/30",
+                "sortOrder": 246
+              },
+              {
+                "id": 12162,
+                "count": "79",
+                "label": "33/32",
+                "sortOrder": 248
+              },
+              {
+                "id": 12164,
+                "count": "76",
+                "label": "33/34",
+                "sortOrder": 250
+              },
+              {
+                "id": 12168,
+                "count": "79",
+                "label": "34/30",
+                "sortOrder": 254
+              },
+              {
+                "id": 12170,
+                "count": "80",
+                "label": "34/32",
+                "sortOrder": 256
+              },
+              {
+                "id": 12172,
+                "count": "81",
+                "label": "34/34",
+                "sortOrder": 258
+              },
+              {
+                "id": 12173,
+                "count": "19",
+                "label": "34/36",
+                "sortOrder": 259
+              },
+              {
+                "id": 12175,
+                "count": "19",
+                "label": "35/30",
+                "sortOrder": 261
+              },
+              {
+                "id": 12176,
+                "count": "73",
+                "label": "35/32",
+                "sortOrder": 262
+              },
+              {
+                "id": 12178,
+                "count": "14",
+                "label": "35/34",
+                "sortOrder": 264
+              },
+              {
+                "id": 12182,
+                "count": "50",
+                "label": "36/30",
+                "sortOrder": 268
+              },
+              {
+                "id": 12183,
+                "count": "81",
+                "label": "36/32",
+                "sortOrder": 269
+              },
+              {
+                "id": 12185,
+                "count": "71",
+                "label": "36/34",
+                "sortOrder": 271
+              },
+              {
+                "id": 12189,
+                "count": "43",
+                "label": "38/32",
+                "sortOrder": 275
+              },
+              {
+                "id": 12191,
+                "count": "18",
+                "label": "38/34",
+                "sortOrder": 277
+              },
+              {
+                "id": 12196,
+                "count": "5",
+                "label": "40/32",
+                "sortOrder": 282
+              },
+              {
+                "id": 12198,
+                "count": "3",
+                "label": "40/34",
+                "sortOrder": 284
+              },
+              {
+                "id": 12202,
+                "count": "1",
+                "label": "42/32",
+                "sortOrder": 288
+              }
+            ]
+          },
+          {
+            "group": 1600,
+            "values": [
+              {
+                "id": 12249,
+                "count": "32",
+                "label": "TALL MEDIUM",
+                "sortOrder": 343
+              },
+              {
+                "id": 12250,
+                "count": "31",
+                "label": "TALL LARGE",
+                "sortOrder": 344
+              },
+              {
+                "id": 12252,
+                "count": "32",
+                "label": "X LARGE-TALL",
+                "sortOrder": 347
+              },
+              {
+                "id": 12253,
+                "count": "25",
+                "label": "XX-LARGE-TALL",
+                "sortOrder": 348
+              }
+            ]
+          },
+          {
+            "group": 1800,
+            "values": [
+              {
+                "id": 12266,
+                "count": "2",
+                "label": "4H",
+                "sortOrder": 362
+              },
+              {
+                "id": 12267,
+                "count": "7",
+                "label": "5",
+                "sortOrder": 363
+              },
+              {
+                "id": 12268,
+                "count": "8",
+                "label": "5H",
+                "sortOrder": 364
+              },
+              {
+                "id": 12270,
+                "count": "6",
+                "label": "6",
+                "sortOrder": 366
+              },
+              {
+                "id": 12272,
+                "count": "6",
+                "label": "6H",
+                "sortOrder": 368
+              },
+              {
+                "id": 12273,
+                "count": "27",
+                "label": "7",
+                "sortOrder": 369
+              },
+              {
+                "id": 12274,
+                "count": "29",
+                "label": "7H",
+                "sortOrder": 370
+              },
+              {
+                "id": 12276,
+                "count": "28",
+                "label": "8",
+                "sortOrder": 373
+              },
+              {
+                "id": 12277,
+                "count": "30",
+                "label": "8H",
+                "sortOrder": 374
+              },
+              {
+                "id": 12279,
+                "count": "28",
+                "label": "9",
+                "sortOrder": 377
+              },
+              {
+                "id": 12280,
+                "count": "29",
+                "label": "9H",
+                "sortOrder": 378
+              },
+              {
+                "id": 12282,
+                "count": "29",
+                "label": "10",
+                "sortOrder": 381
+              },
+              {
+                "id": 12283,
+                "count": "29",
+                "label": "10H",
+                "sortOrder": 382
+              },
+              {
+                "id": 12284,
+                "count": "29",
+                "label": "11",
+                "sortOrder": 383
+              },
+              {
+                "id": 12285,
+                "count": "30",
+                "label": "11H",
+                "sortOrder": 384
+              },
+              {
+                "id": 12286,
+                "count": "28",
+                "label": "12",
+                "sortOrder": 385
+              },
+              {
+                "id": 12289,
+                "count": "28",
+                "label": "13",
+                "sortOrder": 388
+              }
+            ]
+          },
+          {
+            "group": 1900,
+            "values": [
+              {
+                "id": 12294,
+                "count": "3",
+                "label": "38",
+                "sortOrder": 395
+              },
+              {
+                "id": 12298,
+                "count": "3",
+                "label": "40",
+                "sortOrder": 401
+              },
+              {
+                "id": 12301,
+                "count": "3",
+                "label": "42",
+                "sortOrder": 405
+              }
+            ]
+          },
+          {
+            "group": 2100,
+            "values": [
+              {
+                "id": 12318,
+                "count": "98",
+                "label": "ONE SIZE",
+                "sortOrder": 426
+              }
+            ]
+          },
+          {
+            "group": 2300,
+            "values": [
+              {
+                "id": 12330,
+                "count": "7",
+                "label": "14H/32",
+                "sortOrder": 438
+              },
+              {
+                "id": 12331,
+                "count": "7",
+                "label": "14H/33",
+                "sortOrder": 439
+              },
+              {
+                "id": 12332,
+                "count": "7",
+                "label": "15/32",
+                "sortOrder": 440
+              },
+              {
+                "id": 12333,
+                "count": "7",
+                "label": "15/33",
+                "sortOrder": 441
+              },
+              {
+                "id": 12334,
+                "count": "7",
+                "label": "15/34",
+                "sortOrder": 442
+              },
+              {
+                "id": 12335,
+                "count": "7",
+                "label": "15H/32",
+                "sortOrder": 443
+              },
+              {
+                "id": 12336,
+                "count": "7",
+                "label": "15H/33",
+                "sortOrder": 444
+              },
+              {
+                "id": 12337,
+                "count": "7",
+                "label": "15H/34",
+                "sortOrder": 445
+              },
+              {
+                "id": 12338,
+                "count": "7",
+                "label": "15H/35",
+                "sortOrder": 446
+              },
+              {
+                "id": 12339,
+                "count": "7",
+                "label": "16/33",
+                "sortOrder": 447
+              },
+              {
+                "id": 12340,
+                "count": "7",
+                "label": "16/34",
+                "sortOrder": 448
+              },
+              {
+                "id": 12341,
+                "count": "7",
+                "label": "16/35",
+                "sortOrder": 449
+              },
+              {
+                "id": 12342,
+                "count": "7",
+                "label": "16H/33",
+                "sortOrder": 450
+              },
+              {
+                "id": 12343,
+                "count": "7",
+                "label": "16H/34",
+                "sortOrder": 451
+              },
+              {
+                "id": 12344,
+                "count": "7",
+                "label": "16H/35",
+                "sortOrder": 452
+              },
+              {
+                "id": 12345,
+                "count": "7",
+                "label": "16H/36",
+                "sortOrder": 453
+              },
+              {
+                "id": 12346,
+                "count": "7",
+                "label": "17/34",
+                "sortOrder": 454
+              },
+              {
+                "id": 12347,
+                "count": "7",
+                "label": "17/35",
+                "sortOrder": 455
+              },
+              {
+                "id": 12348,
+                "count": "7",
+                "label": "17/36",
+                "sortOrder": 456
+              },
+              {
+                "id": 12350,
+                "count": "7",
+                "label": "17H/35",
+                "sortOrder": 458
+              },
+              {
+                "id": 12351,
+                "count": "7",
+                "label": "17H/36",
+                "sortOrder": 459
+              }
+            ]
+          },
+          {
+            "group": 9999,
+            "values": [
+              {
+                "id": 4294934461,
+                "count": "7",
+                "label": "15/35",
+                "sortOrder": "ZZZ"
+              },
+              {
+                "id": 4294934457,
+                "count": "4",
+                "label": "16/32",
+                "sortOrder": "ZZZ"
+              },
+              {
+                "id": 4294934454,
+                "count": "7",
+                "label": "16/36",
+                "sortOrder": "ZZZ"
+              }
+            ]
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Color",
+        "values": [
+          {
+            "id": 232,
+            "count": "16",
+            "label": "Red",
+            "sortOrder": "A",
+            "hexCode": "#ff0000"
+          },
+          {
+            "id": 233,
+            "count": "6",
+            "label": "Orange",
+            "sortOrder": "B",
+            "hexCode": "#ffa500"
+          },
+          {
+            "id": 234,
+            "count": "1",
+            "label": "Yellow",
+            "sortOrder": "C",
+            "hexCode": "#ffff00"
+          },
+          {
+            "id": 235,
+            "count": "37",
+            "label": "Green",
+            "sortOrder": "D",
+            "hexCode": "#008000"
+          },
+          {
+            "id": 236,
+            "count": "57",
+            "label": "Blue",
+            "sortOrder": "E",
+            "hexCode": "#0000ff"
+          },
+          {
+            "id": 238,
+            "count": "4",
+            "label": "Pink",
+            "sortOrder": "G",
+            "hexCode": "#ffc0cb"
+          },
+          {
+            "id": 241,
+            "count": "11",
+            "label": "White",
+            "sortOrder": "H",
+            "hexCode": "#ffffff"
+          },
+          {
+            "id": 242,
+            "count": "37",
+            "label": "Black",
+            "sortOrder": "I",
+            "hexCode": "#000000"
+          },
+          {
+            "id": 240,
+            "count": "51",
+            "label": "Grey",
+            "sortOrder": "J",
+            "hexCode": "#808080"
+          },
+          {
+            "id": 239,
+            "count": "37",
+            "label": "Brown",
+            "sortOrder": "K",
+            "hexCode": "#a52a2a"
+          },
+          {
+            "id": 958,
+            "count": "153",
+            "label": "Other",
+            "sortOrder": "L",
+            "swatchKey": "swatch-other"
+          },
+          {
+            "id": 955,
+            "count": "24",
+            "label": "Denim",
+            "sortOrder": "M",
+            "queryName": "color-denim",
+            "swatchKey": "swatch-denim"
+          },
+          {
+            "id": 957,
+            "count": "19",
+            "label": "Natural",
+            "sortOrder": "N",
+            "swatchKey": "swatch-natural"
+          },
+          {
+            "id": 956,
+            "count": "145",
+            "label": "Pattern",
+            "sortOrder": "N",
+            "swatchKey": "swatch-pattern"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Price Range",
+        "values": [
+          {
+            "id": 4,
+            "count": "95",
+            "label": "$50 & under",
+            "sortOrder": "A"
+          },
+          {
+            "id": 6,
+            "count": "214",
+            "label": "$50-$100",
+            "sortOrder": "B"
+          },
+          {
+            "id": 5,
+            "count": "45",
+            "label": "$100-$150",
+            "sortOrder": "C"
+          },
+          {
+            "id": 231,
+            "count": "30",
+            "label": "$150-$250",
+            "sortOrder": "D"
+          },
+          {
+            "id": 10,
+            "count": "48",
+            "label": "$250 & over",
+            "sortOrder": "E"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "JCrewBrand",
+        "values": [
+          {
+            "id": 2209998703,
+            "count": "4",
+            "label": "ADIDAS",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998650,
+            "count": "6",
+            "label": "ANONYMOUSISM",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998709,
+            "count": "2",
+            "label": "BARBOUR",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998665,
+            "count": "5",
+            "label": "CARHARTT",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998649,
+            "count": "3",
+            "label": "CHAMPION",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209997838,
+            "count": "4",
+            "label": "CHUP",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209997787,
+            "count": "3",
+            "label": "CLARKS",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998682,
+            "count": "3",
+            "label": "CORGI SOCKS",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998011,
+            "count": "6",
+            "label": "DESTINATION",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998713,
+            "count": "2",
+            "label": "DRAKES",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998651,
+            "count": "9",
+            "label": "EASTPAK",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998006,
+            "count": "17",
+            "label": "J.CREW ALWAYS",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998010,
+            "count": "57",
+            "label": "J.CREW JEANS",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998639,
+            "count": "4",
+            "label": "KARHU",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998611,
+            "count": "5",
+            "label": "LE SPECS",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209997995,
+            "count": "11",
+            "label": "MERCANTILE",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998704,
+            "count": "1",
+            "label": "NIKE",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998223,
+            "count": "3",
+            "label": "TIMEX",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998707,
+            "count": "4",
+            "label": "VANS",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209998004,
+            "count": "18",
+            "label": "WALLACE &amp; BARNES",
+            "sortOrder": "ZZZ"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Discount",
+        "values": [
+          {
+            "id": 2100000011,
+            "count": "1",
+            "label": "60% - 70% Off",
+            "sortOrder": "B"
+          },
+          {
+            "id": 2100000010,
+            "count": "3",
+            "label": "40% - 60% Off",
+            "sortOrder": "C"
+          },
+          {
+            "id": 2100000006,
+            "count": "10",
+            "label": "Less Than 40% Off",
+            "sortOrder": "D"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Trending",
+        "values": [
+          {
+            "id": 2401,
+            "count": "45",
+            "label": "New -  Last 2 Weeks",
+            "sortOrder": "A"
+          },
+          {
+            "id": 2402,
+            "count": "56",
+            "label": "New -  Last 4 Weeks",
+            "sortOrder": "B"
+          },
+          {
+            "id": 2004,
+            "count": "71",
+            "label": "Best Seller",
+            "sortOrder": "C"
+          },
+          {
+            "id": 2005,
+            "count": "10",
+            "label": "Top Rated",
+            "sortOrder": "D"
+          },
+          {
+            "id": 2601,
+            "count": "292",
+            "label": "Eligible For Promotion",
+            "sortOrder": "ZZZ"
+          }
+        ]
+      }
+    ],
+    "breadcrumbs": []
+  },
+  "shopByList": [
+    {
+      "value": "view all",
+      "safeName": "view-all",
+      "name": "view all"
+    },
+    {
+      "id": 1000000299,
+      "count": "50",
+      "gender": "men",
+      "queryName": "justin",
+      "safeName": "just-in",
+      "value": "2534374302102737",
+      "name": "Just In"
+    },
+    {
+      "id": 1000000300,
+      "count": "31",
+      "gender": "men",
+      "queryName": "shirts",
+      "safeName": "shirts",
+      "value": "2534374302104119",
+      "name": "shirts"
+    },
+    {
+      "id": 1000000301,
+      "count": "27",
+      "gender": "men",
+      "queryName": "polostees",
+      "safeName": "tshirts-polos",
+      "value": "2534374302023712",
+      "name": "t-shirts & polos"
+    },
+    {
+      "id": 1000000302,
+      "count": "56",
+      "gender": "men",
+      "queryName": "sweaters",
+      "safeName": "sweaters",
+      "value": "2534374302023684",
+      "name": "sweaters"
+    },
+    {
+      "id": 1000000303,
+      "count": "52",
+      "gender": "men",
+      "queryName": "pants",
+      "safeName": "pants",
+      "value": "2534374302023707",
+      "name": "pants"
+    },
+    {
+      "id": 1000000304,
+      "count": "30",
+      "gender": "men",
+      "queryName": "denim",
+      "safeName": "denim",
+      "value": "2534374302107217",
+      "name": "denim"
+    },
+    {
+      "id": 1000000305,
+      "count": "22",
+      "gender": "men",
+      "queryName": "sweats",
+      "safeName": "sweatshirts-sweatpants",
+      "value": "2534374302107185",
+      "name": "sweatshirts & sweatpants"
+    },
+    {
+      "id": 1000000306,
+      "count": "21",
+      "gender": "men",
+      "queryName": "coatsandjackets",
+      "safeName": "coats-jackets",
+      "value": "2534374302038373",
+      "name": "coats & jackets"
+    },
+    {
+      "id": 1000000307,
+      "count": "9",
+      "gender": "men",
+      "queryName": "blazerssandvests",
+      "safeName": "blazers-vests",
+      "value": "2534374302033744",
+      "name": "blazers & vests"
+    },
+    {
+      "id": 1000000308,
+      "count": "17",
+      "gender": "men",
+      "queryName": "suiting",
+      "safeName": "suiting",
+      "value": "2534374302028634",
+      "name": "suiting"
+    },
+    {
+      "id": 1000000309,
+      "count": "30",
+      "gender": "men",
+      "queryName": "shoes",
+      "safeName": "shoes",
+      "value": "2534374302030924",
+      "name": "shoes"
+    },
+    {
+      "id": 1000000310,
+      "count": "40",
+      "gender": "men",
+      "queryName": "socks",
+      "safeName": "socks",
+      "value": "2534374302101311",
+      "name": "socks"
+    },
+    {
+      "id": 1000000311,
+      "count": "28",
+      "gender": "men",
+      "queryName": "underwearpajamas",
+      "safeName": "underwear-pajamas",
+      "value": "2534374302023711",
+      "name": "underwear & pajamas"
+    },
+    {
+      "id": 1000000312,
+      "count": "24",
+      "gender": "men",
+      "queryName": "bags",
+      "safeName": "bags",
+      "value": "2534374302101863",
+      "name": "bags"
+    },
+    {
+      "id": 1000000313,
+      "count": "29",
+      "gender": "men",
+      "queryName": "accessories",
+      "safeName": "accessories",
+      "value": "2534374302023701",
+      "name": "accessories"
+    },
+    {
+      "id": 1000000314,
+      "count": "16",
+      "gender": "men",
+      "queryName": "tiespocketsquares",
+      "safeName": "ties-pocket-squares",
+      "value": "2534374302030881",
+      "name": "ties & pocket squares"
+    }
+  ],
+  "resultCount": 431,
+  "pagination": {
+    "pageIndex": 1,
+    "totalPage": 7
+  },
+  "seoProperties": {
+    "title": "Men's Shirts, Jeans, Shoes & More : Men's New Arrivals | J.Crew",
+    "description": "Shop JCrew.com for Men's New Arrivals in Clothing and Accessories and see the entire selection of Men's Sweaters, Dress Shirts, Shorts, Pants and Shoes.",
+    "canonicalUrl": "mens_feature/NewArrivals.jsp"
+  }
+}

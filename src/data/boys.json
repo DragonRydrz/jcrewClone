@@ -1,0 +1,3225 @@
+{
+  "categoryHeader": {
+    "catLink": "F8822:F8844:F7855:F8253:F8159:F4518",
+    "skuOnlyFolder": "false",
+    "ext_link": "F8822:F8844:F7855:F8253:F8159:F4518",
+    "flash_images_txt1": "/media/images/fluid/newArrivals/boys/,img0_G1585_lt.jpg,img1_G1198_rt.jpg,img2_G1475_lt.jpg,img3_G1576_lt.jpg,img4_G1604_lt.jpg,img5_G2166_rt.jpg",
+    "display_folders_per_page": "3",
+    "name": "NewArrivals",
+    "dimId": 1000000674,
+    "hasSubFolders": "true",
+    "catStyle": "b",
+    "priority": "1",
+    "catDescription": null,
+    "label": "new arrivals",
+    "link_flat": "Assortments/Browse/Outfits/2015NewArrivals/BoysNewArrivals",
+    "invalidSubcategory": false,
+    "seoHTMLContent": null,
+    "flash_link_js": "G1585:G1198:G1475:G1576:G1604:G2166",
+    "catName": "NEW ARRIVALS",
+    "folderId": "2534374302037410",
+    "gender": "Boy",
+    "mixedProducts": "false",
+    "desc_1": "/media/images/fluid/wNewArrivals/,rightArrow.gif,leftArrow.gif"
+  },
+  "sortByOrderType": [
+    {
+      "label": "Category",
+      "value": "0"
+    },
+    {
+      "label": "Price: Low to High",
+      "value": "1"
+    },
+    {
+      "label": "Price: High to Low",
+      "value": "2"
+    },
+    {
+      "label": "New Arrival",
+      "value": "3"
+    },
+    {
+      "label": "Top Rated",
+      "value": "4"
+    }
+  ],
+  "productList": [
+    {
+      "header": "just in",
+      "products": [
+        {
+          "extended-size-group-id": "K33390",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3339/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "WARM CHARCOAL",
+              "colorCode": "KA5652",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891796",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ \"cowabunga dude\" T-shirt",
+          "brand": "crewcuts",
+          "priority": 1,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-cowabunga-dude-tshirt/K3339",
+          "productCode": "K3339",
+          "tiles": ["KA5652"],
+          "folderId": null,
+          "defaultColorCode": "KA5652",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3339/K3339.jsp"
+        },
+        {
+          "extended-size-group-id": "K33510",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3351/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA5654",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891826",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ striped Teenage Mutant Ninja Turtles T-shirt",
+          "brand": "crewcuts",
+          "priority": 2,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-striped-teenage-mutant-ninja-turtles-tshirt/K3351",
+          "productCode": "K3351",
+          "tiles": ["KA5654"],
+          "folderId": null,
+          "defaultColorCode": "KA5654",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3351/K3351.jsp"
+        },
+        {
+          "extended-size-group-id": "K33380",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3338/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA5641",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891810",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles T-shirt",
+          "brand": "crewcuts",
+          "priority": 2,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-tshirt/K3338",
+          "productCode": "K3338",
+          "tiles": ["KA5641"],
+          "folderId": null,
+          "defaultColorCode": "KA5641",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3338/K3338.jsp"
+        },
+        {
+          "extended-size-group-id": "K33400",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3340/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "WHITE",
+              "colorCode": "KA5653",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891842",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles pizza box T-shirt",
+          "brand": "crewcuts",
+          "priority": 3,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-pizza-box-tshirt/K3340",
+          "productCode": "K3340",
+          "tiles": ["KA5653"],
+          "folderId": null,
+          "defaultColorCode": "KA5653",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3340/K3340.jsp"
+        },
+        {
+          "extended-size-group-id": "K33530",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3353/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "KA5655",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891750",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles icons T-shirt",
+          "brand": "crewcuts",
+          "priority": 4,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-icons-tshirt/K3353",
+          "productCode": "K3353",
+          "tiles": ["KA5655"],
+          "folderId": null,
+          "defaultColorCode": "KA5655",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3353/K3353.jsp"
+        },
+        {
+          "extended-size-group-id": "K1553WT00020",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K1553/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "TWILIGHT FOG",
+              "colorCode": "BL7775",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441893412",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ long-sleeve critter polo shirt",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 5,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-longsleeve-critter-polo-shirt/K1553",
+          "productCode": "K1553",
+          "tiles": ["WT0002"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K1553/K1553.jsp"
+        },
+        {
+          "extended-size-group-id": "K1553BL77750",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K1553/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "TWILIGHT FOG",
+              "colorCode": "BL7775",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441893412",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ long-sleeve critter polo shirt",
+          "brand": "crewcuts",
+          "priority": 5,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-longsleeve-critter-polo-shirt/K1553",
+          "productCode": "K1553",
+          "tiles": ["BL7775"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K1553/K1553.jsp"
+        },
+        {
+          "extended-size-group-id": "K32590",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3259/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "TNMT ALLOVER OLIVE",
+              "colorCode": "KA5635",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441892888",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles hoodie sweatshirt",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-hoodie-sweatshirt/K3259",
+          "productCode": "K3259",
+          "tiles": ["KA5635"],
+          "folderId": null,
+          "defaultColorCode": "KA5635",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/sweats/PRD~K3259/K3259.jsp"
+        },
+        {
+          "extended-size-group-id": "K31870",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3187/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "TNMT ALLOVER OLIVE",
+              "colorCode": "KA5635",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441895662",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles sweatpant in slim fit",
+          "brand": "crewcuts",
+          "priority": 15,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-sweatpant-in-slim-fit/K3187",
+          "productCode": "K3187",
+          "tiles": ["KA5635"],
+          "folderId": null,
+          "defaultColorCode": "KA5635",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/sweats/PRD~K3187/K3187.jsp"
+        },
+        {
+          "extended-size-group-id": "G7634GR58630",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/G7634/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "FROSTY OLIVE",
+              "colorCode": "GR5863",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d3"
+            }
+          ],
+          "productId": "845524441879809",
+          "productDescription": "Boys' lined stretch cords",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 50,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-lined-stretch-cords/G7634",
+          "productCode": "G7634",
+          "tiles": ["GR5863"],
+          "folderId": null,
+          "defaultColorCode": "GR5863",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/cord/PRD~G7634/G7634.jsp"
+        },
+        {
+          "extended-size-group-id": "G7634BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/G7634/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "FROSTY OLIVE",
+              "colorCode": "GR5863",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d3"
+            }
+          ],
+          "productId": "845524441879809",
+          "productDescription": "Boys' lined stretch cords",
+          "brand": "crewcuts",
+          "priority": 50,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-lined-stretch-cords/G7634",
+          "productCode": "G7634",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "GR5863",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/cord/PRD~G7634/G7634.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0601GY64690",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K0601/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "SEAWATER",
+              "colorCode": "BL6214",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441895240",
+          "productDescription": "Boys' chamois shirt",
+          "brand": "crewcuts",
+          "priority": 65,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-chamois-shirt/K0601",
+          "productCode": "K0601",
+          "tiles": ["GY6469"],
+          "folderId": null,
+          "defaultColorCode": "GY6469",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~K0601/K0601.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0601BL62140",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K0601/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "SEAWATER",
+              "colorCode": "BL6214",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441895240",
+          "productDescription": "Boys' chamois shirt",
+          "brand": "crewcuts",
+          "priority": 65,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-chamois-shirt/K0601",
+          "productCode": "K0601",
+          "tiles": ["BL6214"],
+          "folderId": null,
+          "defaultColorCode": "GY6469",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~K0601/K0601.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0601RD62090",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K0601/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "SEAWATER",
+              "colorCode": "BL6214",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441895240",
+          "productDescription": "Boys' chamois shirt",
+          "brand": "crewcuts",
+          "priority": 65,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-chamois-shirt/K0601",
+          "productCode": "K0601",
+          "tiles": ["RD6209"],
+          "folderId": null,
+          "defaultColorCode": "GY6469",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~K0601/K0601.jsp"
+        },
+        {
+          "extended-size-group-id": "J90390",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J9039/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA5003",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891251",
+          "productDescription": "Boys' colorblock \"legend\" hoodie sweatshirt",
+          "brand": "crewcuts",
+          "priority": 70,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-colorblock-legend-hoodie-sweatshirt/J9039",
+          "productCode": "J9039",
+          "tiles": ["KA5003"],
+          "folderId": null,
+          "defaultColorCode": "KA5003",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/sweatshirtssweatpants/sweatshirts/PRD~J9039/J9039.jsp"
+        },
+        {
+          "extended-size-group-id": "K07020",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K0702/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA5003",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891466",
+          "productDescription": "Boys' colorblock sweatpant",
+          "brand": "crewcuts",
+          "priority": 80,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-colorblock-sweatpant/K0702",
+          "productCode": "K0702",
+          "tiles": ["KA5003"],
+          "folderId": null,
+          "defaultColorCode": "KA5003",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "boys_category/pants/sweatpants/PRD~K0702/K0702.jsp"
+        },
+        {
+          "extended-size-group-id": "J84180",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8418/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "SKINNY RINSE",
+              "colorCode": "DM2257",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891544",
+          "productDescription": "Boys' lined rinse wash runaround jean in slim fit",
+          "brand": "crewcuts",
+          "priority": 100,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-lined-rinse-wash-runaround-jean-in-slim-fit/J8418",
+          "productCode": "J8418",
+          "tiles": ["DM2257"],
+          "folderId": null,
+          "defaultColorCode": "DM2257",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/denim/slim/PRD~J8418/J8418.jsp"
+        },
+        {
+          "extended-size-group-id": "J5171BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J5171/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "COLONY BROWN",
+              "colorCode": "BR6117",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891156",
+          "productDescription": "Boys' fishtail parka with Primaloft®",
+          "brand": "crewcuts",
+          "priority": 105,
+          "listPrice": {
+            "amount": 148,
+            "formatted": "$148.00"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-fishtail-parka-with-primaloft/J5171",
+          "productCode": "J5171",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/coatsandjackets/down/PRD~J5171/J5171.jsp"
+        },
+        {
+          "extended-size-group-id": "J5171BR61170",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J5171/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "COLONY BROWN",
+              "colorCode": "BR6117",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891156",
+          "productDescription": "Boys' fishtail parka with Primaloft®",
+          "brand": "crewcuts",
+          "priority": 105,
+          "listPrice": {
+            "amount": 148,
+            "formatted": "$148.00"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-fishtail-parka-with-primaloft/J5171",
+          "productCode": "J5171",
+          "tiles": ["BR6117"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/coatsandjackets/down/PRD~J5171/J5171.jsp"
+        },
+        {
+          "extended-size-group-id": "J5185BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J5185/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "STONE",
+              "colorCode": "NA0965",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891433",
+          "productDescription": "Boys' lined stretch chino pull-on pant",
+          "brand": "crewcuts",
+          "priority": 130,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-lined-stretch-chino-pullon-pant/J5185",
+          "productCode": "J5185",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "NA0965",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/chino/PRD~J5185/J5185.jsp"
+        },
+        {
+          "extended-size-group-id": "J5185NA09650",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J5185/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "STONE",
+              "colorCode": "NA0965",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891433",
+          "productDescription": "Boys' lined stretch chino pull-on pant",
+          "brand": "crewcuts",
+          "priority": 130,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-lined-stretch-chino-pullon-pant/J5185",
+          "productCode": "J5185",
+          "tiles": ["NA0965"],
+          "folderId": null,
+          "defaultColorCode": "NA0965",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/chino/PRD~J5185/J5185.jsp"
+        },
+        {
+          "extended-size-group-id": "J73920",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7392/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA4547",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891407",
+          "productDescription": "Boys' T-shirt with \"buttons\"",
+          "brand": "crewcuts",
+          "priority": 140,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-tshirt-with-buttons/J7392",
+          "productCode": "J7392",
+          "tiles": ["KA4547"],
+          "folderId": null,
+          "defaultColorCode": "KA4547",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/graphicsshop/graphictshirts/PRD~J7392/J7392.jsp"
+        },
+        {
+          "extended-size-group-id": "J4932WX13110",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4932/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "ATLANTIC NAVY",
+              "colorCode": "WX1311",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "DARK GREEN",
+              "colorCode": "WX3234",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441892005",
+          "productDescription": "Boys' Ludlow blazer in velvet",
+          "brand": "crewcuts",
+          "priority": 155,
+          "listPrice": {
+            "amount": 140,
+            "formatted": "$140.00"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-ludlow-blazer-in-velvet/J4932",
+          "productCode": "J4932",
+          "tiles": ["WX1311"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX1311",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/suiting/blazers/PRD~J4932/J4932.jsp"
+        },
+        {
+          "extended-size-group-id": "J4932WX32340",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J4932/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "ATLANTIC NAVY",
+              "colorCode": "WX1311",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "DARK GREEN",
+              "colorCode": "WX3234",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441892005",
+          "productDescription": "Boys' Ludlow blazer in velvet",
+          "brand": "crewcuts",
+          "priority": 155,
+          "listPrice": {
+            "amount": 140,
+            "formatted": "$140.00"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-ludlow-blazer-in-velvet/J4932",
+          "productCode": "J4932",
+          "tiles": ["WX3234"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "WX1311",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/suiting/blazers/PRD~J4932/J4932.jsp"
+        },
+        {
+          "extended-size-group-id": "J84170",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8417/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "VINTAGE WASH",
+              "colorCode": "WU4941",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891485",
+          "productDescription": "Boys' lined medium wash runaround jean in slim fit",
+          "brand": "crewcuts",
+          "priority": 160,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-lined-medium-wash-runaround-jean-in-slim-fit/J8417",
+          "productCode": "J8417",
+          "tiles": ["WU4941"],
+          "folderId": null,
+          "defaultColorCode": "WU4941",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/denim/slim/PRD~J8417/J8417.jsp"
+        },
+        {
+          "extended-size-group-id": "J71260",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7126/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "RED MULTI",
+              "colorCode": "WQ5385",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891348",
+          "productDescription": "Boys' flannel shirt in orange plaid",
+          "brand": "crewcuts",
+          "priority": 170,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-flannel-shirt-in-orange-plaid/J7126",
+          "productCode": "J7126",
+          "tiles": ["WQ5385"],
+          "folderId": null,
+          "defaultColorCode": "WQ5385",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7126/J7126.jsp"
+        },
+        {
+          "extended-size-group-id": "J5229BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J5229/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "DARK MOSS",
+              "colorCode": "GR6749",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891415",
+          "productDescription": "Boys' Nordic parka with Primaloft®",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 180,
+          "listPrice": {
+            "amount": 248,
+            "formatted": "$248.00"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-nordic-parka-with-primaloft/J5229",
+          "productCode": "J5229",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/coatsandjackets/down/PRD~J5229/J5229.jsp"
+        },
+        {
+          "extended-size-group-id": "J5229GR67490",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J5229/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            },
+            {
+              "colorName": "DARK MOSS",
+              "colorCode": "GR6749",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891415",
+          "productDescription": "Boys' Nordic parka with Primaloft®",
+          "brand": "crewcuts",
+          "priority": 180,
+          "listPrice": {
+            "amount": 248,
+            "formatted": "$248.00"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-nordic-parka-with-primaloft/J5229",
+          "productCode": "J5229",
+          "tiles": ["GR6749"],
+          "folderId": null,
+          "badge": {
+            "label": "Best Seller",
+            "iconPath": "TS",
+            "type": "TS"
+          },
+          "defaultColorCode": "BL8133",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/coatsandjackets/down/PRD~J5229/J5229.jsp"
+        },
+        {
+          "extended-size-group-id": "J71280",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7128/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "WQ5487",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891172",
+          "productDescription": "Boys' critter button-down shirt in skulls",
+          "brand": "crewcuts",
+          "priority": 190,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-critter-buttondown-shirt-in-skulls/J7128",
+          "productCode": "J7128",
+          "tiles": ["WQ5487"],
+          "folderId": null,
+          "defaultColorCode": "WQ5487",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7128/J7128.jsp"
+        },
+        {
+          "extended-size-group-id": "J7179GY67620",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7179/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "MEDITERRANEAN OLIVE",
+              "colorCode": "GR6794",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "HTHR DUSK",
+              "colorCode": "GY6762",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d3"
+            }
+          ],
+          "productId": "845524441891491",
+          "productDescription": "Boys' lined sweatpant",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 200,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-lined-sweatpant/J7179",
+          "productCode": "J7179",
+          "tiles": ["GY6762"],
+          "folderId": null,
+          "defaultColorCode": "GY6762",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/cozylinedpants/PRD~J7179/J7179.jsp"
+        },
+        {
+          "extended-size-group-id": "J7179GR67940",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7179/c/boys_feature/newarrivals/justin",
+          "colors": [
+            {
+              "colorName": "MEDITERRANEAN OLIVE",
+              "colorCode": "GR6794",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "HTHR DUSK",
+              "colorCode": "GY6762",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d3"
+            }
+          ],
+          "productId": "845524441891491",
+          "productDescription": "Boys' lined sweatpant",
+          "brand": "crewcuts",
+          "priority": 200,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/justin/boys-lined-sweatpant/J7179",
+          "productCode": "J7179",
+          "tiles": ["GR6794"],
+          "folderId": null,
+          "defaultColorCode": "GY6762",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/cozylinedpants/PRD~J7179/J7179.jsp"
+        }
+      ],
+      "folderId": "2534374302103533"
+    },
+    {
+      "header": "t-shirts & polos",
+      "products": [
+        {
+          "extended-size-group-id": "K1553WT00020",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K1553/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "TWILIGHT FOG",
+              "colorCode": "BL7775",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441893412",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ long-sleeve critter polo shirt",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 1,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-crewcuts-x-nickelodeon-longsleeve-critter-polo-shirt/K1553",
+          "productCode": "K1553",
+          "tiles": ["WT0002"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K1553/K1553.jsp"
+        },
+        {
+          "extended-size-group-id": "K1553BL77750",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K1553/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "TWILIGHT FOG",
+              "colorCode": "BL7775",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "WHITE",
+              "colorCode": "WT0002",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441893412",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ long-sleeve critter polo shirt",
+          "brand": "crewcuts",
+          "priority": 1,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-crewcuts-x-nickelodeon-longsleeve-critter-polo-shirt/K1553",
+          "productCode": "K1553",
+          "tiles": ["BL7775"],
+          "folderId": null,
+          "defaultColorCode": "WT0002",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K1553/K1553.jsp"
+        },
+        {
+          "extended-size-group-id": "K33390",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3339/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "WARM CHARCOAL",
+              "colorCode": "KA5652",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891796",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ \"cowabunga dude\" T-shirt",
+          "brand": "crewcuts",
+          "priority": 3,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-crewcuts-x-nickelodeon-cowabunga-dude-tshirt/K3339",
+          "productCode": "K3339",
+          "tiles": ["KA5652"],
+          "folderId": null,
+          "defaultColorCode": "KA5652",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3339/K3339.jsp"
+        },
+        {
+          "extended-size-group-id": "K33380",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3338/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA5641",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891810",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles T-shirt",
+          "brand": "crewcuts",
+          "priority": 6,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-tshirt/K3338",
+          "productCode": "K3338",
+          "tiles": ["KA5641"],
+          "folderId": null,
+          "defaultColorCode": "KA5641",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3338/K3338.jsp"
+        },
+        {
+          "extended-size-group-id": "K33530",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3353/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "KA5655",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891750",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles icons T-shirt",
+          "brand": "crewcuts",
+          "priority": 8,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-icons-tshirt/K3353",
+          "productCode": "K3353",
+          "tiles": ["KA5655"],
+          "folderId": null,
+          "defaultColorCode": "KA5655",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3353/K3353.jsp"
+        },
+        {
+          "extended-size-group-id": "K33510",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3351/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA5654",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891826",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ striped Teenage Mutant Ninja Turtles T-shirt",
+          "brand": "crewcuts",
+          "priority": 9,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-crewcuts-x-nickelodeon-striped-teenage-mutant-ninja-turtles-tshirt/K3351",
+          "productCode": "K3351",
+          "tiles": ["KA5654"],
+          "folderId": null,
+          "defaultColorCode": "KA5654",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3351/K3351.jsp"
+        },
+        {
+          "extended-size-group-id": "K33400",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3340/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "WHITE",
+              "colorCode": "KA5653",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891842",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles pizza box T-shirt",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-pizza-box-tshirt/K3340",
+          "productCode": "K3340",
+          "tiles": ["KA5653"],
+          "folderId": null,
+          "defaultColorCode": "KA5653",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/tshirtspolos/PRD~K3340/K3340.jsp"
+        },
+        {
+          "extended-size-group-id": "J73910",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7391/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "FADED BLACK",
+              "colorCode": "KA4545",
+              "hasOnfig": false,
+              "skuShotType": "_g1"
+            }
+          ],
+          "productId": "845524441891234",
+          "productDescription": "Boys' glow-in-the-dark spider web T-shirt",
+          "brand": "crewcuts",
+          "priority": 11,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-glowinthedark-spider-web-tshirt/J7391",
+          "productCode": "J7391",
+          "tiles": ["KA4545"],
+          "folderId": null,
+          "defaultColorCode": "KA4545",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_g1",
+          "endeca-seo-url": "boys_category/graphicsshop/graphictshirts/PRD~J7391/J7391.jsp"
+        },
+        {
+          "extended-size-group-id": "J73920",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7392/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA4547",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891407",
+          "productDescription": "Boys' T-shirt with \"buttons\"",
+          "brand": "crewcuts",
+          "priority": 12,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-tshirt-with-buttons/J7392",
+          "productCode": "J7392",
+          "tiles": ["KA4547"],
+          "folderId": null,
+          "defaultColorCode": "KA4547",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/graphicsshop/graphictshirts/PRD~J7392/J7392.jsp"
+        },
+        {
+          "extended-size-group-id": "K11760",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K1176/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "RIPE PAPAYA",
+              "colorCode": "KA3039",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441896242",
+          "productDescription": "Boys' skateboarding bulldog T-shirt",
+          "brand": "crewcuts",
+          "priority": 13,
+          "listPrice": {
+            "amount": 32.5,
+            "formatted": "$32.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-skateboarding-bulldog-tshirt/K1176",
+          "productCode": "K1176",
+          "tiles": ["KA3039"],
+          "folderId": null,
+          "defaultColorCode": "KA3039",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/graphicsshop/graphictshirts/PRD~K1176/K1176.jsp"
+        },
+        {
+          "extended-size-group-id": "J73930",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7393/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "TWILIGHT FOG",
+              "colorCode": "KA4544",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891187",
+          "productDescription": "Boys' \"ready\" T-shirt",
+          "brand": "crewcuts",
+          "priority": 15,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-ready-tshirt/J7393",
+          "productCode": "J7393",
+          "tiles": ["KA4544"],
+          "folderId": null,
+          "defaultColorCode": "KA4544",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/graphicsshop/graphictshirts/PRD~J7393/J7393.jsp"
+        },
+        {
+          "extended-size-group-id": "J73940",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7394/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA4536",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891329",
+          "productDescription": "Kids' \"late Cretaceous\" dinosaur T-shirt",
+          "brand": "crewcuts",
+          "priority": 17,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/kids-late-cretaceous-dinosaur-tshirt/J7394",
+          "productCode": "J7394",
+          "tiles": ["KA4536"],
+          "folderId": null,
+          "defaultColorCode": "KA4536",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/graphicsshop/graphictshirts/PRD~J7394/J7394.jsp"
+        },
+        {
+          "extended-size-group-id": "J73950",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7395/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "VIBRANT FLAME",
+              "colorCode": "KA4537",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891360",
+          "productDescription": "Boys' long-sleeve \"goal oriented\" T-shirt",
+          "brand": "crewcuts",
+          "priority": 19,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-longsleeve-goal-oriented-tshirt/J7395",
+          "productCode": "J7395",
+          "tiles": ["KA4537"],
+          "folderId": null,
+          "defaultColorCode": "KA4537",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/graphicsshop/graphictshirts/PRD~J7395/J7395.jsp"
+        },
+        {
+          "extended-size-group-id": "H21390",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/H2139/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "DEEP PEWTER",
+              "colorCode": "KA2317",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441882239",
+          "productDescription": "Boys' \"dude\" T-shirt",
+          "brand": "crewcuts",
+          "priority": 20,
+          "listPrice": {
+            "amount": 19.5,
+            "formatted": "$19.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-dude-tshirt/H2139",
+          "productCode": "H2139",
+          "tiles": ["KA2317"],
+          "folderId": null,
+          "badge": {
+            "label": "Top Rated",
+            "iconPath": "TR",
+            "type": "TR"
+          },
+          "defaultColorCode": "KA2317",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/graphicsshop/graphictshirts/PRD~H2139/H2139.jsp"
+        },
+        {
+          "extended-size-group-id": "J73710",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7371/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "ZINC IVORY",
+              "colorCode": "WQ6257",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441893708",
+          "productDescription": "Boys' striped long-sleeve T-shirt in the softest jersey",
+          "brand": "crewcuts",
+          "priority": 22,
+          "listPrice": {
+            "amount": 29.5,
+            "formatted": "$29.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-striped-longsleeve-tshirt-in-the-softest-jersey/J7371",
+          "productCode": "J7371",
+          "tiles": ["WQ6257"],
+          "folderId": null,
+          "defaultColorCode": "WQ6257",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/tshirtsandpolos/LongSleeveStripesNovelty/PRD~J7371/J7371.jsp"
+        },
+        {
+          "extended-size-group-id": "J73740",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7374/c/boys_feature/newarrivals/tshirtspolos",
+          "colors": [
+            {
+              "colorName": "LAGOON NAVY",
+              "colorCode": "EG8440",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441893418",
+          "productDescription": "Boys' colorblock henley shirt with stripes",
+          "brand": "crewcuts",
+          "priority": 25,
+          "listPrice": {
+            "amount": 34.5,
+            "formatted": "$34.50"
+          },
+          "url": "/p/boys_feature/newarrivals/tshirtspolos/boys-colorblock-henley-shirt-with-stripes/J7374",
+          "productCode": "J7374",
+          "tiles": ["EG8440"],
+          "folderId": null,
+          "defaultColorCode": "EG8440",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/tshirtsandpolos/LongSleeveStripesNovelty/PRD~J7374/J7374.jsp"
+        }
+      ],
+      "folderId": "2534374302037943"
+    },
+    {
+      "header": "shirts",
+      "products": [
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0601GY64690",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K0601/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEAWATER",
+              "colorCode": "BL6214",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441895240",
+          "productDescription": "Boys' chamois shirt",
+          "brand": "crewcuts",
+          "priority": 1,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-chamois-shirt/K0601",
+          "productCode": "K0601",
+          "tiles": ["GY6469"],
+          "folderId": null,
+          "defaultColorCode": "GY6469",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~K0601/K0601.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0601BL62140",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K0601/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEAWATER",
+              "colorCode": "BL6214",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441895240",
+          "productDescription": "Boys' chamois shirt",
+          "brand": "crewcuts",
+          "priority": 1,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-chamois-shirt/K0601",
+          "productCode": "K0601",
+          "tiles": ["BL6214"],
+          "folderId": null,
+          "defaultColorCode": "GY6469",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~K0601/K0601.jsp"
+        },
+        {
+          "isPreorder": true,
+          "extended-size-group-id": "K0601RD62090",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/K0601/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "SEAWATER",
+              "colorCode": "BL6214",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "HTHR GREY",
+              "colorCode": "GY6469",
+              "hasOnfig": false,
+              "skuShotType": null
+            },
+            {
+              "colorName": "FIRE RED",
+              "colorCode": "RD6209",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441895240",
+          "productDescription": "Boys' chamois shirt",
+          "brand": "crewcuts",
+          "priority": 1,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-chamois-shirt/K0601",
+          "productCode": "K0601",
+          "tiles": ["RD6209"],
+          "folderId": null,
+          "defaultColorCode": "GY6469",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~K0601/K0601.jsp"
+        },
+        {
+          "extended-size-group-id": "J71280",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7128/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "WQ5487",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891172",
+          "productDescription": "Boys' critter button-down shirt in skulls",
+          "brand": "crewcuts",
+          "priority": 2,
+          "listPrice": {
+            "amount": 39.5,
+            "formatted": "$39.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-critter-buttondown-shirt-in-skulls/J7128",
+          "productCode": "J7128",
+          "tiles": ["WQ5487"],
+          "folderId": null,
+          "defaultColorCode": "WQ5487",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7128/J7128.jsp"
+        },
+        {
+          "extended-size-group-id": "J71200",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7120/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "LIGHT INDIGO WASH",
+              "colorCode": "DM2369",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891176",
+          "productDescription": "Boys' dobby shirt",
+          "brand": "crewcuts",
+          "priority": 3,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-dobby-shirt/J7120",
+          "productCode": "J7120",
+          "tiles": ["DM2369"],
+          "folderId": null,
+          "defaultColorCode": "DM2369",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7120/J7120.jsp"
+        },
+        {
+          "extended-size-group-id": "J71270",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7127/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "INDIGO MULTI",
+              "colorCode": "WQ5294",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891337",
+          "productDescription": "Boys' flannel shirt in blue plaid",
+          "brand": "crewcuts",
+          "priority": 4,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-flannel-shirt-in-blue-plaid/J7127",
+          "productCode": "J7127",
+          "tiles": ["WQ5294"],
+          "folderId": null,
+          "defaultColorCode": "WQ5294",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7127/J7127.jsp"
+        },
+        {
+          "extended-size-group-id": "J71260",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7126/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "RED MULTI",
+              "colorCode": "WQ5385",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891348",
+          "productDescription": "Boys' flannel shirt in orange plaid",
+          "brand": "crewcuts",
+          "priority": 5,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-flannel-shirt-in-orange-plaid/J7126",
+          "productCode": "J7126",
+          "tiles": ["WQ5385"],
+          "folderId": null,
+          "defaultColorCode": "WQ5385",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7126/J7126.jsp"
+        },
+        {
+          "extended-size-group-id": "J71210",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7121/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "IVORY MULTI",
+              "colorCode": "WQ2006",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891340",
+          "productDescription": "Boys' lightweight flannel shirt in ivory plaid",
+          "brand": "crewcuts",
+          "priority": 6,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-lightweight-flannel-shirt-in-ivory-plaid/J7121",
+          "productCode": "J7121",
+          "tiles": ["WQ2006"],
+          "folderId": null,
+          "defaultColorCode": "WQ2006",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7121/J7121.jsp"
+        },
+        {
+          "extended-size-group-id": "J71240",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7124/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "IVORY SEA",
+              "colorCode": "WQ3874",
+              "hasOnfig": true,
+              "skuShotType": "_m"
+            }
+          ],
+          "productId": "845524441891384",
+          "productDescription": "Boys' flannel shirt in blue plaid",
+          "brand": "crewcuts",
+          "priority": 7,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-flannel-shirt-in-blue-plaid/J7124",
+          "productCode": "J7124",
+          "tiles": ["WQ3874"],
+          "folderId": null,
+          "defaultColorCode": "WQ3874",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m",
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7124/J7124.jsp"
+        },
+        {
+          "extended-size-group-id": "J71230",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7123/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "GREEN MULTI",
+              "colorCode": "WX2546",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891266",
+          "productDescription": "Boys' lightweight flannel shirt in green plaid",
+          "brand": "crewcuts",
+          "priority": 8,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-lightweight-flannel-shirt-in-green-plaid/J7123",
+          "productCode": "J7123",
+          "tiles": ["WX2546"],
+          "folderId": null,
+          "defaultColorCode": "WX2546",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7123/J7123.jsp"
+        },
+        {
+          "extended-size-group-id": "J71220",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7122/c/boys_feature/newarrivals/shirts",
+          "colors": [
+            {
+              "colorName": "BLUE GREEN ORANGE",
+              "colorCode": "WU5839",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891232",
+          "productDescription": "Boys' flannel shirt in stripes",
+          "brand": "crewcuts",
+          "priority": 9,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/shirts/boys-flannel-shirt-in-stripes/J7122",
+          "productCode": "J7122",
+          "tiles": ["WU5839"],
+          "folderId": null,
+          "defaultColorCode": "WU5839",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/shirts/longsleevecasual/PRD~J7122/J7122.jsp"
+        }
+      ],
+      "folderId": "2534374302037944"
+    },
+    {
+      "header": "pants",
+      "products": [
+        {
+          "extended-size-group-id": "G7634GR58630",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/G7634/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "FROSTY OLIVE",
+              "colorCode": "GR5863",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d3"
+            }
+          ],
+          "productId": "845524441879809",
+          "productDescription": "Boys' lined stretch cords",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 5,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-stretch-cords/G7634",
+          "productCode": "G7634",
+          "tiles": ["GR5863"],
+          "folderId": null,
+          "defaultColorCode": "GR5863",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/cord/PRD~G7634/G7634.jsp"
+        },
+        {
+          "extended-size-group-id": "G7634BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/G7634/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "FROSTY OLIVE",
+              "colorCode": "GR5863",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d3"
+            }
+          ],
+          "productId": "845524441879809",
+          "productDescription": "Boys' lined stretch cords",
+          "brand": "crewcuts",
+          "priority": 5,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-stretch-cords/G7634",
+          "productCode": "G7634",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "GR5863",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/cord/PRD~G7634/G7634.jsp"
+        },
+        {
+          "extended-size-group-id": "J84170",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8417/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "VINTAGE WASH",
+              "colorCode": "WU4941",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891485",
+          "productDescription": "Boys' lined medium wash runaround jean in slim fit",
+          "brand": "crewcuts",
+          "priority": 10,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-medium-wash-runaround-jean-in-slim-fit/J8417",
+          "productCode": "J8417",
+          "tiles": ["WU4941"],
+          "folderId": null,
+          "defaultColorCode": "WU4941",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/denim/slim/PRD~J8417/J8417.jsp"
+        },
+        {
+          "extended-size-group-id": "J84180",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J8418/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "SKINNY RINSE",
+              "colorCode": "DM2257",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891544",
+          "productDescription": "Boys' lined rinse wash runaround jean in slim fit",
+          "brand": "crewcuts",
+          "priority": 15,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-rinse-wash-runaround-jean-in-slim-fit/J8418",
+          "productCode": "J8418",
+          "tiles": ["DM2257"],
+          "folderId": null,
+          "defaultColorCode": "DM2257",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/denim/slim/PRD~J8418/J8418.jsp"
+        },
+        {
+          "extended-size-group-id": "J72290",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7229/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "CAMO MULTI",
+              "colorCode": "WX2443",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891469",
+          "productDescription": "Boys' lined ripstop cargo pant in camo",
+          "brand": "crewcuts",
+          "priority": 15,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-ripstop-cargo-pant-in-camo/J7229",
+          "productCode": "J7229",
+          "tiles": ["WX2443"],
+          "folderId": null,
+          "defaultColorCode": "WX2443",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/chino/PRD~J7229/J7229.jsp"
+        },
+        {
+          "extended-size-group-id": "J5185BL81330",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J5185/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "STONE",
+              "colorCode": "NA0965",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891433",
+          "productDescription": "Boys' lined stretch chino pull-on pant",
+          "brand": "crewcuts",
+          "priority": 20,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-stretch-chino-pullon-pant/J5185",
+          "productCode": "J5185",
+          "tiles": ["BL8133"],
+          "folderId": null,
+          "defaultColorCode": "NA0965",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/chino/PRD~J5185/J5185.jsp"
+        },
+        {
+          "extended-size-group-id": "J5185NA09650",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J5185/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "NAVY",
+              "colorCode": "BL8133",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "STONE",
+              "colorCode": "NA0965",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            }
+          ],
+          "productId": "845524441891433",
+          "productDescription": "Boys' lined stretch chino pull-on pant",
+          "brand": "crewcuts",
+          "priority": 20,
+          "listPrice": {
+            "amount": 69.5,
+            "formatted": "$69.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-stretch-chino-pullon-pant/J5185",
+          "productCode": "J5185",
+          "tiles": ["NA0965"],
+          "folderId": null,
+          "defaultColorCode": "NA0965",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/chino/PRD~J5185/J5185.jsp"
+        },
+        {
+          "extended-size-group-id": "J7179GY67620",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7179/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "MEDITERRANEAN OLIVE",
+              "colorCode": "GR6794",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "HTHR DUSK",
+              "colorCode": "GY6762",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d3"
+            }
+          ],
+          "productId": "845524441891491",
+          "productDescription": "Boys' lined sweatpant",
+          "brand": "crewcuts",
+          "showOnfigImage": true,
+          "priority": 25,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-sweatpant/J7179",
+          "productCode": "J7179",
+          "tiles": ["GY6762"],
+          "folderId": null,
+          "defaultColorCode": "GY6762",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/cozylinedpants/PRD~J7179/J7179.jsp"
+        },
+        {
+          "extended-size-group-id": "J7179GR67940",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7179/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "MEDITERRANEAN OLIVE",
+              "colorCode": "GR6794",
+              "hasOnfig": false,
+              "skuShotType": "_d1,_d3"
+            },
+            {
+              "colorName": "HTHR DUSK",
+              "colorCode": "GY6762",
+              "hasOnfig": true,
+              "skuShotType": "_m,_d1,_d3"
+            }
+          ],
+          "productId": "845524441891491",
+          "productDescription": "Boys' lined sweatpant",
+          "brand": "crewcuts",
+          "priority": 25,
+          "listPrice": {
+            "amount": 59.5,
+            "formatted": "$59.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-lined-sweatpant/J7179",
+          "productCode": "J7179",
+          "tiles": ["GR6794"],
+          "folderId": null,
+          "defaultColorCode": "GY6762",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_m,_d1,_d3",
+          "endeca-seo-url": "boys_category/pants/cozylinedpants/PRD~J7179/J7179.jsp"
+        },
+        {
+          "extended-size-group-id": "K31870",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K3187/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "TNMT ALLOVER OLIVE",
+              "colorCode": "KA5635",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441895662",
+          "productDescription": "Boys' crewcuts X Nickelodeon™ Teenage Mutant Ninja Turtles sweatpant in slim fit",
+          "brand": "crewcuts",
+          "priority": 30,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-crewcuts-x-nickelodeon-teenage-mutant-ninja-turtles-sweatpant-in-slim-fit/K3187",
+          "productCode": "K3187",
+          "tiles": ["KA5635"],
+          "folderId": null,
+          "defaultColorCode": "KA5635",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/brandswelove/sweats/PRD~K3187/K3187.jsp"
+        },
+        {
+          "extended-size-group-id": "K10530",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K1053/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "HTHR PEWTER",
+              "colorCode": "GY7312",
+              "hasOnfig": false,
+              "skuShotType": "_g1"
+            }
+          ],
+          "productId": "845524441891430",
+          "productDescription": "Boys' glow-in-the-dark skeleton sweatpant",
+          "brand": "crewcuts",
+          "priority": 35,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-glowinthedark-skeleton-sweatpant/K1053",
+          "productCode": "K1053",
+          "tiles": ["GY7312"],
+          "folderId": null,
+          "defaultColorCode": "GY7312",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_g1",
+          "endeca-seo-url": "boys_category/pants/sweatpants/PRD~K1053/K1053.jsp"
+        },
+        {
+          "extended-size-group-id": "J71770",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/J7177/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "TUSCAN OLIVE",
+              "colorCode": "WQ6197",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891508",
+          "productDescription": "Boys' sweatpant in camo",
+          "brand": "crewcuts",
+          "priority": 40,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-sweatpant-in-camo/J7177",
+          "productCode": "J7177",
+          "tiles": ["WQ6197"],
+          "folderId": null,
+          "defaultColorCode": "WQ6197",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/pants/sweatpants/PRD~J7177/J7177.jsp"
+        },
+        {
+          "extended-size-group-id": "K07020",
+          "extendedSize": "Regular",
+          "show-all-colors": false,
+          "apiLink": "/data/v1/US/products/full/K0702/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "IVORY",
+              "colorCode": "KA5003",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            }
+          ],
+          "productId": "845524441891466",
+          "productDescription": "Boys' colorblock sweatpant",
+          "brand": "crewcuts",
+          "priority": 45,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-colorblock-sweatpant/K0702",
+          "productCode": "K0702",
+          "tiles": ["KA5003"],
+          "folderId": null,
+          "defaultColorCode": "KA5003",
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": "_d3",
+          "endeca-seo-url": "boys_category/pants/sweatpants/PRD~K0702/K0702.jsp"
+        },
+        {
+          "extended-size-group-id": "J7196EG84520",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7196/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "COAL GREY MULTI",
+              "colorCode": "EG8452",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "MEDITERRANEAN OLIVE",
+              "colorCode": "GR6794",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891529",
+          "productDescription": "Boys' printed sweatpant",
+          "brand": "crewcuts",
+          "priority": 50,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-printed-sweatpant/J7196",
+          "productCode": "J7196",
+          "tiles": ["EG8452"],
+          "folderId": null,
+          "badge": {
+            "label": "New To Sale",
+            "type": "NTS"
+          },
+          "defaultColorCode": "GR6794",
+          "selectColors": {
+            "amount": 36.99,
+            "formatted": "$36.99"
+          },
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/pants/sweatpants/PRD~J7196/J7196.jsp"
+        },
+        {
+          "extended-size-group-id": "J7196GR67940",
+          "extendedSize": "Regular",
+          "show-all-colors": true,
+          "apiLink": "/data/v1/US/products/full/J7196/c/boys_feature/newarrivals/pants",
+          "colors": [
+            {
+              "colorName": "COAL GREY MULTI",
+              "colorCode": "EG8452",
+              "hasOnfig": false,
+              "skuShotType": "_d3"
+            },
+            {
+              "colorName": "MEDITERRANEAN OLIVE",
+              "colorCode": "GR6794",
+              "hasOnfig": false,
+              "skuShotType": null
+            }
+          ],
+          "productId": "845524441891529",
+          "productDescription": "Boys' printed sweatpant",
+          "brand": "crewcuts",
+          "priority": 50,
+          "listPrice": {
+            "amount": 49.5,
+            "formatted": "$49.50"
+          },
+          "url": "/p/boys_feature/newarrivals/pants/boys-printed-sweatpant/J7196",
+          "productCode": "J7196",
+          "tiles": ["GR6794"],
+          "folderId": null,
+          "defaultColorCode": "GR6794",
+          "selectColors": {
+            "amount": 36.99,
+            "formatted": "$36.99"
+          },
+          "enabledBadges": "TR,TS,NS,NC,ZZ,LS",
+          "shotType": null,
+          "endeca-seo-url": "boys_category/pants/sweatpants/PRD~J7196/J7196.jsp"
+        }
+      ],
+      "folderId": "2534374302037946"
+    }
+  ],
+  "navigation": {
+    "refinements": [
+      {
+        "name": "BrowseNavigation",
+        "values": [
+          {
+            "id": 1000000675,
+            "count": "31",
+            "label": "just in",
+            "sortOrder": 1,
+            "gender": "boys",
+            "queryName": "justin",
+            "folder_id": "2534374302103533",
+            "seo": "boys_feature/NewArrivals/justin.jsp"
+          },
+          {
+            "id": 1000000676,
+            "count": "16",
+            "label": "t-shirts & polos",
+            "sortOrder": 2,
+            "gender": "boys",
+            "queryName": "tshirtspolos",
+            "folder_id": "2534374302037943",
+            "seo": "boys_feature/NewArrivals/tshirtspolos.jsp"
+          },
+          {
+            "id": 1000000677,
+            "count": "11",
+            "label": "shirts",
+            "sortOrder": 3,
+            "gender": "boys",
+            "queryName": "shirts",
+            "folder_id": "2534374302037944",
+            "seo": "boys_feature/NewArrivals/shirts.jsp"
+          },
+          {
+            "id": 1000000678,
+            "count": "15",
+            "label": "pants",
+            "sortOrder": 6,
+            "gender": "boys",
+            "queryName": "pants",
+            "folder_id": "2534374302037946",
+            "seo": "boys_feature/NewArrivals/pants.jsp"
+          },
+          {
+            "id": 1000000679,
+            "count": "22",
+            "label": "sweatshirts & sweatpants",
+            "sortOrder": 7,
+            "gender": "boys",
+            "queryName": "sweatshirtsandsweatpants",
+            "folder_id": "2534374302067781",
+            "seo": "boys_feature/NewArrivals/sweatshirtsandsweatpants.jsp"
+          },
+          {
+            "id": 1000000680,
+            "count": "3",
+            "label": "suiting",
+            "sortOrder": 8,
+            "gender": "boys",
+            "queryName": "suiting",
+            "folder_id": "2534374302037947",
+            "seo": "boys_feature/NewArrivals/suiting.jsp"
+          },
+          {
+            "id": 1000000681,
+            "count": "6",
+            "label": "sweaters",
+            "sortOrder": 9,
+            "gender": "boys",
+            "queryName": "sweaters",
+            "folder_id": "2534374302037945",
+            "seo": "boys_feature/NewArrivals/sweaters.jsp"
+          },
+          {
+            "id": 1000000682,
+            "count": "7",
+            "label": "coats & jackets",
+            "sortOrder": 10,
+            "gender": "boys",
+            "queryName": "coatsandjackets",
+            "folder_id": "2534374302037948",
+            "seo": "boys_feature/NewArrivals/coatsandjackets.jsp"
+          },
+          {
+            "id": 1000000683,
+            "count": "11",
+            "label": "pajamas and underwear",
+            "sortOrder": 18,
+            "gender": "boys",
+            "queryName": "pajamas",
+            "folder_id": "2534374302045181",
+            "seo": "boys_feature/NewArrivals/pajamas.jsp"
+          },
+          {
+            "id": 1000000684,
+            "count": "22",
+            "label": "shoes & sneakers",
+            "sortOrder": 20,
+            "gender": "boys",
+            "queryName": "shoesandsneakers",
+            "folder_id": "2534374302037949",
+            "seo": "boys_feature/NewArrivals/shoesandsneakers.jsp"
+          },
+          {
+            "id": 1000000685,
+            "count": "21",
+            "label": "accessories",
+            "sortOrder": 22,
+            "gender": "boys",
+            "queryName": "accessories",
+            "folder_id": "2534374302037950",
+            "seo": "boys_feature/NewArrivals/accessories.jsp"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Size Chart",
+        "values": [
+          {
+            "group": 100,
+            "values": [
+              {
+                "id": 11938,
+                "count": "78",
+                "label": "2",
+                "sortOrder": 6
+              },
+              {
+                "id": 11940,
+                "count": "81",
+                "label": "3",
+                "sortOrder": 8
+              },
+              {
+                "id": 11942,
+                "count": "27",
+                "label": "4",
+                "sortOrder": 10
+              },
+              {
+                "id": 11943,
+                "count": "53",
+                "label": "4-5",
+                "sortOrder": 11
+              },
+              {
+                "id": 11944,
+                "count": "27",
+                "label": "5",
+                "sortOrder": 12
+              },
+              {
+                "id": 11947,
+                "count": "27",
+                "label": "6",
+                "sortOrder": 15
+              },
+              {
+                "id": 11948,
+                "count": "53",
+                "label": "6-7",
+                "sortOrder": 16
+              },
+              {
+                "id": 11950,
+                "count": "26",
+                "label": "7",
+                "sortOrder": 18
+              },
+              {
+                "id": 11952,
+                "count": "79",
+                "label": "8",
+                "sortOrder": 20
+              },
+              {
+                "id": 11955,
+                "count": "79",
+                "label": "10",
+                "sortOrder": 23
+              },
+              {
+                "id": 11958,
+                "count": "79",
+                "label": "12",
+                "sortOrder": 26
+              },
+              {
+                "id": 11959,
+                "count": "80",
+                "label": "14",
+                "sortOrder": 27
+              },
+              {
+                "id": 11961,
+                "count": "57",
+                "label": "16",
+                "sortOrder": 29
+              }
+            ]
+          },
+          {
+            "group": 500,
+            "values": [
+              {
+                "id": 11996,
+                "count": "8",
+                "label": "X-SMALL",
+                "sortOrder": 66
+              },
+              {
+                "id": 11997,
+                "count": "14",
+                "label": "SMALL",
+                "sortOrder": 67
+              },
+              {
+                "id": 11998,
+                "count": "13",
+                "label": "MEDIUM",
+                "sortOrder": 68
+              },
+              {
+                "id": 11999,
+                "count": "14",
+                "label": "LARGE",
+                "sortOrder": 69
+              },
+              {
+                "id": 12000,
+                "count": "11",
+                "label": "X-LARGE",
+                "sortOrder": 70
+              },
+              {
+                "id": 12001,
+                "count": "2",
+                "label": "XX-LARGE",
+                "sortOrder": 71
+              }
+            ]
+          },
+          {
+            "group": 600,
+            "values": [
+              {
+                "id": 12005,
+                "count": "3",
+                "label": "SMALL-MEDIUM",
+                "sortOrder": 79
+              },
+              {
+                "id": 12008,
+                "count": "3",
+                "label": "LARGE-XLARGE",
+                "sortOrder": 82
+              }
+            ]
+          },
+          {
+            "group": 1900,
+            "values": [
+              {
+                "id": 12301,
+                "count": "4",
+                "label": "42",
+                "sortOrder": 405
+              }
+            ]
+          },
+          {
+            "group": 2100,
+            "values": [
+              {
+                "id": 12318,
+                "count": "10",
+                "label": "ONE SIZE",
+                "sortOrder": 426
+              }
+            ]
+          },
+          {
+            "group": 2200,
+            "values": [
+              {
+                "id": 12325,
+                "count": "4",
+                "label": "52",
+                "sortOrder": 433
+              }
+            ]
+          },
+          {
+            "group": 2500,
+            "values": [
+              {
+                "id": 12357,
+                "count": "11",
+                "label": "K1",
+                "sortOrder": 465
+              },
+              {
+                "id": 12358,
+                "count": "9",
+                "label": "K2",
+                "sortOrder": 466
+              },
+              {
+                "id": 12360,
+                "count": "11",
+                "label": "K3",
+                "sortOrder": 468
+              },
+              {
+                "id": 12361,
+                "count": "5",
+                "label": "K4",
+                "sortOrder": 469
+              },
+              {
+                "id": 12363,
+                "count": "5",
+                "label": "K5",
+                "sortOrder": 471
+              },
+              {
+                "id": 12364,
+                "count": "2",
+                "label": "K6",
+                "sortOrder": 472
+              },
+              {
+                "id": 12365,
+                "count": "1",
+                "label": "K7",
+                "sortOrder": 473
+              },
+              {
+                "id": 12366,
+                "count": "11",
+                "label": "K8",
+                "sortOrder": 474
+              },
+              {
+                "id": 12367,
+                "count": "11",
+                "label": "K9",
+                "sortOrder": 475
+              },
+              {
+                "id": 12369,
+                "count": "11",
+                "label": "K10",
+                "sortOrder": 477
+              },
+              {
+                "id": 12370,
+                "count": "14",
+                "label": "K11",
+                "sortOrder": 478
+              },
+              {
+                "id": 12372,
+                "count": "14",
+                "label": "K12",
+                "sortOrder": 480
+              },
+              {
+                "id": 12373,
+                "count": "13",
+                "label": "K13",
+                "sortOrder": 481
+              }
+            ]
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Color",
+        "values": [
+          {
+            "id": 232,
+            "count": "3",
+            "label": "Red",
+            "sortOrder": "A",
+            "hexCode": "#ff0000"
+          },
+          {
+            "id": 234,
+            "count": "2",
+            "label": "Yellow",
+            "sortOrder": "C",
+            "hexCode": "#ffff00"
+          },
+          {
+            "id": 235,
+            "count": "6",
+            "label": "Green",
+            "sortOrder": "D",
+            "hexCode": "#008000"
+          },
+          {
+            "id": 236,
+            "count": "18",
+            "label": "Blue",
+            "sortOrder": "E",
+            "hexCode": "#0000ff"
+          },
+          {
+            "id": 241,
+            "count": "3",
+            "label": "White",
+            "sortOrder": "H",
+            "hexCode": "#ffffff"
+          },
+          {
+            "id": 242,
+            "count": "2",
+            "label": "Black",
+            "sortOrder": "I",
+            "hexCode": "#000000"
+          },
+          {
+            "id": 240,
+            "count": "9",
+            "label": "Grey",
+            "sortOrder": "J",
+            "hexCode": "#808080"
+          },
+          {
+            "id": 239,
+            "count": "3",
+            "label": "Brown",
+            "sortOrder": "K",
+            "hexCode": "#a52a2a"
+          },
+          {
+            "id": 958,
+            "count": "45",
+            "label": "Other",
+            "sortOrder": "L",
+            "swatchKey": "swatch-other"
+          },
+          {
+            "id": 955,
+            "count": "2",
+            "label": "Denim",
+            "sortOrder": "M",
+            "queryName": "color-denim",
+            "swatchKey": "swatch-denim"
+          },
+          {
+            "id": 957,
+            "count": "3",
+            "label": "Natural",
+            "sortOrder": "N",
+            "swatchKey": "swatch-natural"
+          },
+          {
+            "id": 956,
+            "count": "30",
+            "label": "Pattern",
+            "sortOrder": "N",
+            "swatchKey": "swatch-pattern"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Price Range",
+        "values": [
+          {
+            "id": 4,
+            "count": "83",
+            "label": "$50 & under",
+            "sortOrder": "A"
+          },
+          {
+            "id": 6,
+            "count": "33",
+            "label": "$50-$100",
+            "sortOrder": "B"
+          },
+          {
+            "id": 5,
+            "count": "6",
+            "label": "$100-$150",
+            "sortOrder": "C"
+          },
+          {
+            "id": 231,
+            "count": "4",
+            "label": "$150-$250",
+            "sortOrder": "D"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "JCrewBrand",
+        "values": [
+          {
+            "id": 2209998714,
+            "count": "7",
+            "label": "NEW BALANCE",
+            "sortOrder": "ZZZ"
+          },
+          {
+            "id": 2209997648,
+            "count": "9",
+            "label": "NICKELODEON",
+            "sortOrder": "ZZZ"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Discount",
+        "values": [
+          {
+            "id": 2100000006,
+            "count": "3",
+            "label": "Less Than 40% Off",
+            "sortOrder": "D"
+          }
+        ],
+        "selectedCount": 0
+      },
+      {
+        "name": "Trending",
+        "values": [
+          {
+            "id": 2401,
+            "count": "9",
+            "label": "New -  Last 2 Weeks",
+            "sortOrder": "A"
+          },
+          {
+            "id": 2402,
+            "count": "9",
+            "label": "New -  Last 4 Weeks",
+            "sortOrder": "B"
+          },
+          {
+            "id": 2004,
+            "count": "22",
+            "label": "Best Seller",
+            "sortOrder": "C"
+          },
+          {
+            "id": 2005,
+            "count": "1",
+            "label": "Top Rated",
+            "sortOrder": "D"
+          },
+          {
+            "id": 2601,
+            "count": "98",
+            "label": "Eligible For Promotion",
+            "sortOrder": "ZZZ"
+          }
+        ]
+      }
+    ],
+    "breadcrumbs": []
+  },
+  "shopByList": [
+    {
+      "value": "view all",
+      "safeName": "view-all",
+      "name": "view all"
+    },
+    {
+      "id": 1000000675,
+      "count": "31",
+      "gender": "boys",
+      "queryName": "justin",
+      "safeName": "just-in",
+      "value": "2534374302103533",
+      "name": "just in"
+    },
+    {
+      "id": 1000000676,
+      "count": "16",
+      "gender": "boys",
+      "queryName": "tshirtspolos",
+      "safeName": "tshirts-polos",
+      "value": "2534374302037943",
+      "name": "t-shirts & polos"
+    },
+    {
+      "id": 1000000677,
+      "count": "11",
+      "gender": "boys",
+      "queryName": "shirts",
+      "safeName": "shirts",
+      "value": "2534374302037944",
+      "name": "shirts"
+    },
+    {
+      "id": 1000000678,
+      "count": "15",
+      "gender": "boys",
+      "queryName": "pants",
+      "safeName": "pants",
+      "value": "2534374302037946",
+      "name": "pants"
+    },
+    {
+      "id": 1000000679,
+      "count": "22",
+      "gender": "boys",
+      "queryName": "sweatshirtsandsweatpants",
+      "safeName": "sweatshirts-sweatpants",
+      "value": "2534374302067781",
+      "name": "sweatshirts & sweatpants"
+    },
+    {
+      "id": 1000000680,
+      "count": "3",
+      "gender": "boys",
+      "queryName": "suiting",
+      "safeName": "suiting",
+      "value": "2534374302037947",
+      "name": "suiting"
+    },
+    {
+      "id": 1000000681,
+      "count": "6",
+      "gender": "boys",
+      "queryName": "sweaters",
+      "safeName": "sweaters",
+      "value": "2534374302037945",
+      "name": "sweaters"
+    },
+    {
+      "id": 1000000682,
+      "count": "7",
+      "gender": "boys",
+      "queryName": "coatsandjackets",
+      "safeName": "coats-jackets",
+      "value": "2534374302037948",
+      "name": "coats & jackets"
+    },
+    {
+      "id": 1000000683,
+      "count": "11",
+      "gender": "boys",
+      "queryName": "pajamas",
+      "safeName": "pajamas-and-underwear",
+      "value": "2534374302045181",
+      "name": "pajamas and underwear"
+    },
+    {
+      "id": 1000000684,
+      "count": "22",
+      "gender": "boys",
+      "queryName": "shoesandsneakers",
+      "safeName": "shoes-sneakers",
+      "value": "2534374302037949",
+      "name": "shoes & sneakers"
+    },
+    {
+      "id": 1000000685,
+      "count": "21",
+      "gender": "boys",
+      "queryName": "accessories",
+      "safeName": "accessories",
+      "value": "2534374302037950",
+      "name": "accessories"
+    }
+  ],
+  "resultCount": 126,
+  "pagination": {
+    "pageIndex": 1,
+    "totalPage": 3
+  },
+  "seoProperties": {
+    "title": "Boys Clothes & Accessories : New Arrivals | J.Crew",
+    "description": "Shop JCrew.com for New Arrivals in Boys' Clothes and Accessories including Boys' Shorts, Tees, Sweaters and Sleepwear. Free Shipping on all orders!",
+    "canonicalUrl": "boys_feature/NewArrivals.jsp"
+  }
+}
