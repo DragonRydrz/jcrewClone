@@ -6,10 +6,10 @@ import Title from './components/Title';
 import Footer from './components/Footer';
 import { Switch, Route } from 'react-router';
 import ArrayPage from './components/ArrayPage';
-import womens from './data/womens.json';
-import mens from './data/mens.json';
-import girls from './data/girls.json';
-import boys from './data/boys.json';
+// import womens from './data/womens.json';
+// import mens from './data/mens.json';
+// import girls from './data/girls.json';
+// import boys from './data/boys.json';
 
 class App extends Component {
   render() {
@@ -20,24 +20,10 @@ class App extends Component {
         <Nav />
         <hr />
         <Title />
-        <Switch>
-          <Route
-            path="/c/womens_feature/"
-            component={props => <ArrayPage {...props} data={womens} />}
-          />
-          <Route
-            path="/c/mens_feature/"
-            component={props => <ArrayPage {...props} data={mens} />}
-          />
-          <Route
-            path="/c/girls_feature/"
-            component={props => <ArrayPage {...props} data={girls} />}
-          />
-          <Route
-            path="/c/boys_feature/"
-            component={props => <ArrayPage {...props} data={boys} />}
-          />
-        </Switch>
+        <Route path="/c/womens_feature/" component={ArrayPage} />
+        <Route path="/c/mens_feature/" component={ArrayPage} />
+        <Route path="/c/girls_feature/" component={ArrayPage} />
+        <Route path="/c/boys_feature/" component={ArrayPage} />
         <hr />
         <Footer />
       </div>
